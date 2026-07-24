@@ -1,4 +1,4 @@
-import { app, BrowserWindow, dialog, ipcMain, nativeImage, shell } from 'electron';
+import { app, BrowserWindow, dialog, ipcMain, nativeImage, session, shell } from 'electron';
 import path from 'path';
 import fs from 'fs';
 import type { PackSettings, PartName } from '@midimaker/engine';
@@ -54,10 +54,32 @@ function resolveLibraryDir(): string {
     // dev: use the repo's MIDI-Library folder (ships with generated packs)
     return path.resolve(__dirname, '../../../../MIDI-Library');
   }
-  return path.join(app.getPath('userData'), 'MIDI-Library');
+  const userLib = path.join(app.getPath('userData'), 'MIDI-Library');
+  // first run of the installed app: seed the user library from the bundled
+  // 1000-pack collection shipped in the installer's resources
+  if (!fs.existsSync(userLib)) {
+    const bundled = path.join(process.resourcesPath, 'MIDI-Library');
+    if (fs.existsSync(bundled)) {
+      try {
+        fs.cpSync(bundled, userLib, { recursive: true });
+      } catch (e) {
+        console.error('Failed to seed library from bundled packs', e);
+      }
+    }
+  }
+  return userLib;
 }
 
 app.whenReady().then(async () => {
+  // Web MIDI (live preview routing into FL Studio / ElectraX) needs an
+  // explicit permission grant in Electron
+  session.defaultSession.setPermissionRequestHandler((_wc, permission, callback) => {
+    callback(permission === 'midi' || permission === 'midiSysex');
+  });
+  session.defaultSession.setPermissionCheckHandler((_wc, permission) => {
+    return permission === 'midi' || permission === 'midiSysex';
+  });
+
   const dbFile = path.join(app.getPath('userData'), 'midimaker-library.db');
   await openDb(dbFile);
   setLibraryRoot(resolveLibraryDir());

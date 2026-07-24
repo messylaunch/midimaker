@@ -51,16 +51,47 @@ app and the batch tools.
 - **Drag and drop** — drag any part row (or the pack header for all four
   files) straight into FL Studio channels or any folder. These are real files
   on disk, not a browser trick.
-- **Preview** — built-in synth preview: play all four parts, solo/mute each,
-  loop the 8 bars, change preview tempo without touching the files.
+- **Preview** — play all four parts, solo/mute each, loop the 8 bars, change
+  preview tempo without touching the files. Two ways to hear it:
+  - **Built-in sounds** (no setup): pick an instrument per part under
+    🎛 Sounds — 808 Sub, Finger Bass, Reese, Keys, Soft Pad, E-Piano,
+    Analog Lead, Pluck, Bell, Saw Stack.
+  - **Live MIDI out** (real sounds): set *Out* in the preview bar to a MIDI
+    port and the preview plays through FL Studio / ElectraX / hardware
+    instead. Parts arrive on separate channels — 1 Chords, 2 Melody,
+    3 CounterMelody, 4 Bass. See "Routing the preview into FL Studio" below.
 - **Generator** — controls for mood, genre, BPM, key, major/minor, scale/mode,
   energy, complexity (1–10), rhythmic density, melodic movement, chord
   complexity, experimental amount, syncopation, note length, humanization,
   familiar↔surprise, and a deterministic seed (same seed = same pack).
   Regenerate any single part while the other three stay untouched.
 - **Song Drop** — drop an audio file; the app hears its tempo, key/scale,
-  energy and density, then generates original packs to match. It analyzes
-  vitals only — it never copies the song's melody.
+  chords, energy and density, then generates original packs to match. A
+  **similarity slider** controls how close it stays:
+  - **Close to the song** — reuses the chords actually heard in the track
+    (bar by bar) plus its exact tempo/key/energy/density. Melodies are still
+    generated fresh, so it's the closest *legal* cousin, never a copy.
+  - **Inspired by it** — keeps the vitals, draws chords from genre vocabulary.
+  - **Just the vibe** — key and tempo as anchors, everything else roams.
+
+## Routing the preview into FL Studio (real sounds)
+
+The app is a MIDI generator, not a sound generator — so for real sounds,
+point the preview at your DAW:
+
+**Windows:** install [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
+(free), create a port (e.g. "MIDI Vault"). In FL Studio: *Options → MIDI
+settings → Input*, enable the port. In MIDI Vault set *Out: MIDI Vault*.
+Press ▶ — FL receives the four parts on channels 1–4. Set each FL channel's
+instrument (ElectraX, Serum, anything) to a channel via the channel selector,
+or just play everything into the selected channel.
+
+**macOS:** open *Audio MIDI Setup → Window → Show MIDI Studio*, double-click
+**IAC Driver**, tick *Device is online*. Enable the IAC bus in FL Studio's
+MIDI input settings, then pick it under *Out* in MIDI Vault.
+
+And of course you can always skip previewing entirely: drag the `.mid` into
+an ElectraX channel and audition it there.
 
 ## Architecture
 
@@ -87,9 +118,21 @@ Music knowledge is stored as **generalized statistical profiles** (phrase
 plans, harmonic rhythms, progression pools by function, bass movement styles,
 register ranges). No copyrighted melodies are scraped, stored or reproduced.
 
-## Packaging (Phase 7)
+## Installers (Windows + Mac, including Apple Silicon)
 
 `electron-builder` is configured (`packages/app/electron-builder.yml`) for a
-Windows NSIS installer and a macOS dmg. Cross-building a Windows installer
-from Linux/macOS is unreliable, so run `npm run dist:win` on a Windows
-machine; the artifact lands in `packages/app/release/`.
+Windows NSIS installer and a macOS dmg (**arm64 for M1/M2/M3 + Intel x64**).
+The installer bundles the full 1,000-pack library and copies it into your
+library folder on first launch.
+
+Two ways to get installers:
+
+1. **GitHub Actions** (no local setup): the *Build installers* workflow
+   (`.github/workflows/build.yml`) builds both platforms — run it from the
+   Actions tab (or push a `v*` tag) and download the artifacts.
+2. **Locally**: `npm run dist:win` on Windows, `npm run dist:mac` on a Mac.
+   Output lands in `packages/app/release/`.
+
+The builds are unsigned. On macOS the first launch needs a right-click →
+Open (or `xattr -cr "/Applications/MIDI Vault Generator.app"` once); on
+Windows, click "More info → Run anyway" past SmartScreen.

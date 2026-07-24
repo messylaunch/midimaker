@@ -118,6 +118,46 @@ export function upgradeToken(
   return token;
 }
 
+const ROMAN_OF_DEGREE = ['i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii'];
+
+/**
+ * Inverse of parseRoman for simple triads: turn a root pitch class + quality
+ * into a roman token relative to the active key/scale ("F" in C major -> "IV",
+ * "Bb" in C major -> "bVII"). Used to romanize chords detected in dropped songs.
+ */
+export function romanizeChord(rootPc: number, minor: boolean, keyPc: number, scaleId: string): string {
+  const n = scaleById(scaleId).intervals.length;
+  const format = (acc: string, degree: number) => {
+    const numeral = ROMAN_OF_DEGREE[(degree - 1) % 7];
+    return acc + (minor ? numeral : numeral.toUpperCase());
+  };
+  for (let d = 1; d <= n; d++) {
+    if (degreePc(keyPc, scaleId, d) === rootPc) return format('', d);
+  }
+  for (let d = 1; d <= n; d++) {
+    if ((degreePc(keyPc, scaleId, d) + 11) % 12 === rootPc) return format('b', d);
+  }
+  for (let d = 1; d <= n; d++) {
+    if ((degreePc(keyPc, scaleId, d) + 1) % 12 === rootPc) return format('#', d);
+  }
+  return format('', 1);
+}
+
+const NAME_RE = /^([A-Ga-g][#b]?)(m|min)?$/;
+const NOTE_PC: Record<string, number> = {
+  C: 0, 'C#': 1, Db: 1, D: 2, 'D#': 3, Eb: 3, E: 4, F: 5, 'F#': 6, Gb: 6,
+  G: 7, 'G#': 8, Ab: 8, A: 9, 'A#': 10, Bb: 10, B: 11,
+};
+
+/** "F#m" / "Bb" style chord names -> roman token in the given key/scale. */
+export function chordNameToRoman(name: string, keyPc: number, scaleId: string): string | null {
+  const m = NAME_RE.exec(name.trim());
+  if (!m) return null;
+  const root = NOTE_PC[m[1][0].toUpperCase() + (m[1][1] ?? '')];
+  if (root === undefined) return null;
+  return romanizeChord(root, !!m[2], keyPc, scaleId);
+}
+
 /**
  * Voice-lead a sequence of chords inside [lo, hi].
  * First chord voiced near the register center; subsequent chords move each

@@ -9,6 +9,12 @@ files:
 asarUnpack:
   # sql.js loads its wasm from disk at runtime
   - node_modules/sql.js/dist/sql-wasm.wasm
+extraResources:
+  # ship the pre-generated 1000-pack library; copied into the user's library
+  # folder on first launch
+  - from: ../../MIDI-Library
+    to: MIDI-Library
+    filter: ["**/*.mid", "**/metadata.json", "REPORT.md"]
 win:
   target:
     - target: nsis

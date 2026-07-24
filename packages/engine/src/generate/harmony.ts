@@ -28,6 +28,53 @@ const FAMILIARITY_WEIGHTS: Record<string, [number, number, number]> = {
 export function buildHarmony(settings: PackSettings, genre: GenreProfile, rng: Rng): HarmonyContext {
   const keyPc = keyToPc(settings.key);
   const scale = scaleById(settings.scale);
+
+  // forced progression (Song Drop "close to the song"): one token per bar,
+  // exactly as heard - no pool draw, no upgrades, no anticipation pushes
+  if (settings.progressionOverride && settings.progressionOverride.length > 0) {
+    const barTokens: string[] = [];
+    for (let bar = 0; bar < 8; bar++) {
+      barTokens.push(settings.progressionOverride[bar % settings.progressionOverride.length]);
+    }
+    const slots = barTokens
+      .map((token, bar) => ({ token, start: bar * BAR_TICKS, dur: BAR_TICKS }))
+      .filter((s) => {
+        try {
+          parseRoman(s.token, keyPc, settings.scale);
+          return true;
+        } catch {
+          return false;
+        }
+      });
+    if (slots.length > 0) {
+      const merged: typeof slots = [];
+      for (const s of slots) {
+        const last = merged[merged.length - 1];
+        if (last && last.token === s.token && last.start + last.dur === s.start) last.dur += s.dur;
+        else merged.push({ ...s });
+      }
+      const parsed = merged.map((s) => parseRoman(s.token, keyPc, settings.scale));
+      const [cLo, cHi] = genre.chords.range;
+      const voicings = voiceLead(parsed, cLo, cHi);
+      const events: ChordEvent[] = merged.map((s, idx) => ({
+        start: s.start,
+        dur: s.dur,
+        rootPc: parsed[idx].rootPc,
+        intervals: parsed[idx].intervals,
+        roman: s.token,
+        voicing: voicings[idx] ?? [],
+      }));
+      return {
+        chords: events,
+        progression: merged.map((s) => s.token),
+        keyPc,
+        scaleId: settings.scale,
+        minor: scale.minor,
+      };
+    }
+    // every override token failed to parse - fall through to normal path
+  }
+
   const pool = progressionPool(genre, scale.minor);
 
   // familiarity + experimental knob decide which pool we draw from

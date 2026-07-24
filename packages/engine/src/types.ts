@@ -47,6 +47,12 @@ export interface PackSettings {
   humanize: number; // 0-10
   familiarity: FamiliarityMode;
   era?: string[];
+  /**
+   * Optional forced progression (roman tokens, one per bar, cycled to 8
+   * bars). Used by Song Drop's "close to the song" mode to reuse the chords
+   * actually heard in a dropped track instead of drawing from genre pools.
+   */
+  progressionOverride?: string[];
 }
 
 /** Fingerprint used by the duplicate-detection engine. */
