@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "paths": {
+      "@midimaker/engine": ["../engine/src/index.ts"],
+      "@shared/*": ["./src/shared/*"]
+    }
+  },
+  "include": ["src", "electron.vite.config.ts"]
+}

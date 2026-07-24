@@ -14,7 +14,7 @@
     "build": "npm run build -w @midimaker/app",
     "dist:win": "npm run dist:win -w @midimaker/app",
     "dist:mac": "npm run dist:mac -w @midimaker/app",
-    "generate:samples": "tsx tools/generate-samples.ts",
+    "generate:samples": "tsx tools/generate-library.ts --count 3",
     "generate:library": "tsx tools/generate-library.ts",
     "validate:library": "tsx tools/validate-library.ts"
   },

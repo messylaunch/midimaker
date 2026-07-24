@@ -1,0 +1,28 @@
+appId: com.midimaker.vaultgenerator
+productName: MIDI Vault Generator
+directories:
+  output: release
+files:
+  - out/**
+  - package.json
+  - "!**/*.map"
+asarUnpack:
+  # sql.js loads its wasm from disk at runtime
+  - node_modules/sql.js/dist/sql-wasm.wasm
+win:
+  target:
+    - target: nsis
+      arch: [x64]
+nsis:
+  oneClick: true
+  perMachine: false
+  deleteAppDataOnUninstall: false
+  shortcutName: MIDI Vault Generator
+mac:
+  target:
+    - target: dmg
+      arch: [arm64, x64]
+  category: public.app-category.music
+linux:
+  target:
+    - AppImage
