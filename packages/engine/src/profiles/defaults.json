@@ -1,0 +1,55 @@
+{
+  "comment": "Fallback progression pools used when a genre profile omits a tonality.",
+  "major": {
+    "established": [
+      ["I", "V", "vi", "IV"],
+      ["vi", "IV", "I", "V"],
+      ["I", "vi", "IV", "V"],
+      ["IV", "I", "V", "vi"],
+      ["I", "IV", "vi", "V"],
+      ["I", "IV", "I", "V"],
+      ["ii", "V", "I", "vi"]
+    ],
+    "variation": [
+      ["I", "V", "vi", "iii"],
+      ["I", "bVII", "IV", "I"],
+      ["Imaj7", "vi7", "ii7", "V7"],
+      ["I", "iii", "IV", "V"],
+      ["I", "V", "IV", "IV"],
+      ["vi", "V", "IV", "V"]
+    ],
+    "surprise": [
+      ["I", "bVI", "bVII", "I"],
+      ["I", "V", "bVII", "IV"],
+      ["Imaj7", "bIIImaj7", "IV", "iv"],
+      ["I", "II", "IV", "I"],
+      ["I", "iv", "I", "V"]
+    ]
+  },
+  "minor": {
+    "established": [
+      ["i", "VI", "III", "VII"],
+      ["i", "iv", "VI", "V"],
+      ["i", "VII", "VI", "VII"],
+      ["i", "iv", "i", "V"],
+      ["i", "VI", "VII", "i"],
+      ["i", "v", "VI", "III"],
+      ["i", "iv", "VII", "III"]
+    ],
+    "variation": [
+      ["i", "VI", "III", "iv"],
+      ["i7", "iv7", "VImaj7", "V7"],
+      ["i", "III", "VII", "VI"],
+      ["i", "v", "iv", "VI"],
+      ["i", "VImaj7", "iv7", "VII"],
+      ["i", "VII", "i", "VI"]
+    ],
+    "surprise": [
+      ["i", "bII", "i", "V"],
+      ["i", "bII", "VI", "V"],
+      ["i", "IV", "VII", "VI"],
+      ["i", "VI", "bII", "V7"],
+      ["i", "bIImaj7", "i", "VII"]
+    ]
+  }
+}

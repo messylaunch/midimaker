@@ -1,0 +1,8 @@
+[
+  { "id": "1970s", "name": "1970s", "bpmNudge": -4, "humanizeNudge": 2 },
+  { "id": "1980s", "name": "1980s", "bpmNudge": 0, "humanizeNudge": -1 },
+  { "id": "1990s", "name": "1990s", "bpmNudge": -2, "humanizeNudge": 1 },
+  { "id": "2000s", "name": "2000s", "bpmNudge": 0, "humanizeNudge": 0 },
+  { "id": "2010s", "name": "2010s", "bpmNudge": 2, "humanizeNudge": -1 },
+  { "id": "Modern", "name": "Modern", "bpmNudge": 0, "humanizeNudge": 0 }
+]

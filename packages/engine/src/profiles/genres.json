@@ -1,0 +1,306 @@
+[
+  {
+    "id": "trap", "name": "Trap", "bpmRange": [120, 160], "eras": ["2010s", "Modern"], "swing": 0,
+    "scales": [["naturalMinor", 5], ["harmonicMinor", 2], ["phrygian", 2], ["minorPentatonic", 1]],
+    "harmonicRhythms": [[[2, 2, 2, 2], 5], [[1, 1, 1, 1], 2], [[4, 4], 2], [[2, 1, 1], 1]],
+    "progressions": {
+      "minor": {
+        "established": [["i", "VI", "III", "VII"], ["i", "iv", "VI", "V"], ["i", "VI", "VII", "i"], ["i", "v", "VI", "iv"], ["i", "VI", "i", "VII"]],
+        "variation": [["i", "bII", "i", "VII"], ["i7", "iv7", "VI", "V7"], ["i", "III", "iv", "VI"], ["i", "iv", "i", "bII"]],
+        "surprise": [["i", "bII", "VI", "v"], ["i", "iv", "bII", "i"], ["i", "bII", "bII", "VII"]]
+      }
+    },
+    "chords": { "range": [51, 72], "styles": [["sustain", 5], ["pad", 3], ["pluck8", 2]] },
+    "bass": { "range": [26, 48], "styles": [["trap808", 6], ["halfTime", 3], ["whole", 1]] },
+    "melody": { "range": [63, 87], "restRatio": 0.4, "baseDensity": 4.5, "syncopation": 0.55,
+      "phrasePlans": [["motifDev", 4], ["AABB", 3], ["callResponse", 2], ["longNotes", 2]],
+      "contours": [["rampDown", 3], ["valley", 2], ["wave", 2], ["arch", 2]] },
+    "counter": { "range": [55, 76], "styles": [["gapFill", 4], ["ostinato", 3], ["echo", 2], ["padHarm", 1]] }
+  },
+  {
+    "id": "hiphop", "name": "Hip-Hop", "bpmRange": [80, 100], "eras": ["1990s", "2000s"], "swing": 0.12,
+    "scales": [["naturalMinor", 3], ["minorPentatonic", 2], ["dorian", 2], ["mixolydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [53, 74], "styles": [["pad", 4], ["sustain", 3], ["pluck8", 2], ["stabs24", 1]] },
+    "bass": { "range": [28, 50], "styles": [["halfTime", 3], ["rootFifth", 2], ["walk", 2], ["pump8", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.38, "baseDensity": 4, "syncopation": 0.5,
+      "phrasePlans": [["motifDev", 4], ["callResponse", 3], ["AABB", 2], ["longNotes", 1]],
+      "contours": [["wave", 3], ["rampDown", 2], ["arch", 2], ["valley", 1]] },
+    "counter": { "range": [55, 76], "styles": [["gapFill", 4], ["ostinato", 2], ["echo", 2], ["padHarm", 2]] }
+  },
+  {
+    "id": "pop", "name": "Pop", "bpmRange": [95, 125], "eras": ["2000s", "2010s", "Modern"], "swing": 0,
+    "scales": [["major", 5], ["naturalMinor", 3], ["mixolydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 5], [[2, 2, 2, 2], 2], [[1, 1, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [53, 74], "styles": [["sustain", 4], ["pad", 4], ["pulse4", 2], ["pulse8", 1]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 3], ["whole", 2], ["rootFifth", 2], ["octave8", 1], ["halfTime", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.3, "baseDensity": 5, "syncopation": 0.45,
+      "phrasePlans": [["AABB", 4], ["ABAB1", 3], ["callResponse", 2], ["motifDev", 2], ["longNotes", 1]],
+      "contours": [["arch", 4], ["wave", 3], ["rampUp", 2], ["rampDown", 1]] },
+    "counter": { "range": [55, 76], "styles": [["padHarm", 3], ["gapFill", 3], ["echo", 2], ["ostinato", 1]] }
+  },
+  {
+    "id": "rnb", "name": "R&B", "bpmRange": [60, 95], "eras": ["1990s", "2000s", "Modern"], "swing": 0.1,
+    "scales": [["naturalMinor", 3], ["major", 2], ["dorian", 2]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[0.5, 0.5, 1], 1], [[1, 1, 2], 2]],
+    "progressions": {
+      "major": {
+        "established": [["Imaj7", "vi7", "IVmaj7", "V7"], ["Imaj7", "iii7", "vi7", "V7"], ["ii7", "V7", "Imaj7", "vi7"]],
+        "variation": [["Imaj7", "V", "vi7", "IVmaj7"], ["IVmaj7", "iii7", "ii7", "Imaj7"], ["Imaj7", "vi7", "ii7", "V7"]],
+        "surprise": [["Imaj7", "bVIImaj7", "IVmaj7", "iv7"], ["Imaj7", "bIIImaj7", "ii7", "V7"]]
+      },
+      "minor": {
+        "established": [["i7", "iv7", "VImaj7", "V7"], ["i7", "VImaj7", "III", "VII"], ["i7", "v7", "iv7", "VImaj7"]],
+        "variation": [["i9", "iv7", "VII", "IIImaj7"], ["i7", "bIImaj7", "i7", "V7"], ["i7", "VImaj7", "iv7", "v7"]],
+        "surprise": [["i7", "IV7", "VImaj7", "V7"], ["i7", "bII7", "i7", "v7"]]
+      }
+    },
+    "chords": { "range": [53, 76], "styles": [["pad", 4], ["sustain", 3], ["pluck8", 2]] },
+    "bass": { "range": [28, 50], "styles": [["halfTime", 2], ["whole", 2], ["walk", 2], ["rootFifth", 1], ["trap808", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.35, "baseDensity": 5, "syncopation": 0.5,
+      "phrasePlans": [["callResponse", 3], ["motifDev", 3], ["AABB", 2], ["longNotes", 1]],
+      "contours": [["wave", 4], ["arch", 3], ["valley", 2], ["rampDown", 2]] },
+    "counter": { "range": [55, 78], "styles": [["gapFill", 4], ["padHarm", 3], ["echo", 2], ["ostinato", 1]] }
+  },
+  {
+    "id": "soul", "name": "Soul", "bpmRange": [70, 100], "eras": ["1970s", "1990s"], "swing": 0.15,
+    "scales": [["major", 3], ["dorian", 2], ["naturalMinor", 2], ["mixolydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[0.5, 0.5, 1], 2], [[2, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["pad", 4], ["pulse4", 2], ["sustain", 2], ["stabs24", 1]] },
+    "bass": { "range": [28, 50], "styles": [["walk", 3], ["rootFifth", 3], ["funk16", 1], ["halfNotes", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.35, "baseDensity": 4.5, "syncopation": 0.5,
+      "phrasePlans": [["callResponse", 4], ["motifDev", 3], ["AABB", 2]],
+      "contours": [["wave", 3], ["arch", 3], ["rampDown", 2]] },
+    "counter": { "range": [55, 78], "styles": [["gapFill", 4], ["padHarm", 3], ["echo", 2]] }
+  },
+  {
+    "id": "funk", "name": "Funk", "bpmRange": [95, 115], "eras": ["1970s", "1980s"], "swing": 0.2,
+    "scales": [["dorian", 3], ["minorPentatonic", 3], ["mixolydian", 2]],
+    "harmonicRhythms": [[[2, 2, 2, 2], 4], [[4, 4], 3], [[1, 1, 1, 1], 1]],
+    "progressions": {
+      "minor": {
+        "established": [["i7", "i7", "iv7", "i7"], ["i7", "IV7", "i7", "IV7"], ["i7", "bII", "i7", "i7"]],
+        "variation": [["i9", "i9", "iv7", "v7"], ["i7", "IV7", "bII", "i7"]],
+        "surprise": [["i7", "bIImaj7", "i7", "IV7"]]
+      }
+    },
+    "chords": { "range": [55, 76], "styles": [["funk16", 4], ["stabsOffbeat", 2], ["stabs24", 2], ["pluck8", 1]] },
+    "bass": { "range": [28, 50], "styles": [["funk16", 5], ["octave8", 2], ["rootFifth", 1]] },
+    "melody": { "range": [62, 86], "restRatio": 0.45, "baseDensity": 5.5, "syncopation": 0.7,
+      "phrasePlans": [["callResponse", 4], ["motifDev", 3], ["AABB", 2]],
+      "contours": [["wave", 4], ["valley", 2], ["rampDown", 2]] },
+    "counter": { "range": [55, 76], "styles": [["gapFill", 5], ["ostinato", 3], ["echo", 1]] }
+  },
+  {
+    "id": "rock", "name": "Rock", "bpmRange": [110, 150], "eras": ["1970s", "1980s", "1990s"], "swing": 0,
+    "scales": [["naturalMinor", 3], ["major", 2], ["mixolydian", 2], ["minorPentatonic", 2]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 5], [[2, 2, 2, 2], 2], [[1, 1, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [50, 72], "styles": [["pulse8", 3], ["sustain", 3], ["pad", 2], ["pulse4", 1]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 5], ["rootFifth", 2], ["octave8", 1], ["walk", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.3, "baseDensity": 4.5, "syncopation": 0.35,
+      "phrasePlans": [["AABB", 4], ["ABAB1", 3], ["longNotes", 2], ["motifDev", 1]],
+      "contours": [["arch", 3], ["rampUp", 3], ["wave", 2]] },
+    "counter": { "range": [55, 76], "styles": [["padHarm", 3], ["ostinato", 3], ["gapFill", 2]] }
+  },
+  {
+    "id": "alternative", "name": "Alternative", "bpmRange": [100, 140], "eras": ["1990s", "2000s", "2010s"], "swing": 0,
+    "scales": [["naturalMinor", 3], ["dorian", 2], ["major", 2], ["lydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [52, 74], "styles": [["sustain", 4], ["pad", 3], ["arp8", 2], ["pulse8", 1]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 4], ["whole", 2], ["rootFifth", 1], ["octave8", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.35, "baseDensity": 4, "syncopation": 0.4,
+      "phrasePlans": [["ABAB1", 3], ["AABB", 3], ["longNotes", 2], ["motifDev", 2]],
+      "contours": [["wave", 3], ["arch", 2], ["flat", 2], ["rampUp", 2]] },
+    "counter": { "range": [55, 76], "styles": [["ostinato", 3], ["padHarm", 3], ["gapFill", 2], ["echo", 2]] }
+  },
+  {
+    "id": "electronic", "name": "Electronic", "bpmRange": [118, 135], "eras": ["2010s", "Modern"], "swing": 0,
+    "scales": [["naturalMinor", 4], ["major", 2], ["dorian", 1], ["minorPentatonic", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 1]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["sustain", 3], ["pad", 3], ["stabsOffbeat", 2], ["arp8", 2]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 4], ["danceOffbeat", 3], ["octave8", 2]] },
+    "melody": { "range": [62, 86], "restRatio": 0.32, "baseDensity": 5, "syncopation": 0.5,
+      "phrasePlans": [["motifDev", 4], ["AA1AA2", 3], ["AABB", 2], ["longNotes", 1]],
+      "contours": [["wave", 3], ["arch", 3], ["rampUp", 2], ["flat", 1]] },
+    "counter": { "range": [55, 78], "styles": [["ostinato", 4], ["gapFill", 3], ["echo", 2]] }
+  },
+  {
+    "id": "house", "name": "House", "bpmRange": [120, 128], "eras": ["1990s", "2010s", "Modern"], "swing": 0.08,
+    "scales": [["naturalMinor", 4], ["dorian", 2], ["major", 2]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 5], [[2, 2, 2, 2], 2]],
+    "progressions": {
+      "minor": {
+        "established": [["i", "VII", "VI", "VII"], ["i", "iv", "VI", "v"], ["i", "VI", "i", "VII"], ["i7", "iv7", "VI", "VII"]],
+        "variation": [["i7", "iv7", "VII", "VI"], ["i", "v7", "VI", "IIImaj7"], ["i7", "VImaj7", "iv7", "VII"]],
+        "surprise": [["i", "bII", "VII", "i"], ["i", "IV", "VI", "VII"]]
+      }
+    },
+    "chords": { "range": [55, 76], "styles": [["stabsOffbeat", 5], ["pluck8", 2], ["pad", 2]] },
+    "bass": { "range": [28, 50], "styles": [["danceOffbeat", 4], ["pump8", 3], ["octave8", 2]] },
+    "melody": { "range": [62, 86], "restRatio": 0.4, "baseDensity": 4.5, "syncopation": 0.6,
+      "phrasePlans": [["AA1AA2", 4], ["motifDev", 3], ["callResponse", 2]],
+      "contours": [["wave", 4], ["flat", 2], ["arch", 2]] },
+    "counter": { "range": [55, 78], "styles": [["ostinato", 4], ["gapFill", 3], ["padHarm", 1]] }
+  },
+  {
+    "id": "dance", "name": "Dance", "bpmRange": [124, 140], "eras": ["1990s", "2000s", "Modern"], "swing": 0,
+    "scales": [["naturalMinor", 4], ["major", 3]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 5], [[2, 2, 2, 2], 2], [[1, 1, 2], 1]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["stabsOffbeat", 3], ["pulse8", 3], ["pad", 2], ["sustain", 1]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 4], ["octave8", 3], ["danceOffbeat", 2]] },
+    "melody": { "range": [62, 86], "restRatio": 0.3, "baseDensity": 5, "syncopation": 0.5,
+      "phrasePlans": [["AABB", 4], ["AA1AA2", 3], ["ABAB1", 2]],
+      "contours": [["arch", 3], ["rampUp", 3], ["wave", 2]] },
+    "counter": { "range": [55, 78], "styles": [["ostinato", 3], ["echo", 3], ["gapFill", 2]] }
+  },
+  {
+    "id": "synthwave", "name": "Synthwave", "bpmRange": [84, 118], "eras": ["1980s", "2010s"], "swing": 0,
+    "scales": [["naturalMinor", 5], ["dorian", 2], ["phrygian", 1], ["major", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 3], [[2, 2, 2, 2], 4], [[1, 1, 2], 1]],
+    "progressions": {
+      "minor": {
+        "established": [["i", "VI", "III", "VII"], ["i", "VII", "VI", "iv"], ["i", "III", "VII", "VI"], ["i", "VI", "VII", "v"]],
+        "variation": [["i", "VI", "IV", "VII"], ["i7", "VI", "III", "VII"], ["i", "VImaj7", "III", "VIIsus4"]],
+        "surprise": [["i", "bII", "VI", "VII"], ["i", "VImaj7", "bII", "VII"]]
+      }
+    },
+    "chords": { "range": [53, 76], "styles": [["pad", 4], ["sustain", 3], ["arp8", 3]] },
+    "bass": { "range": [28, 50], "styles": [["octave8", 5], ["pump8", 3], ["rootFifth", 1]] },
+    "melody": { "range": [62, 86], "restRatio": 0.35, "baseDensity": 4, "syncopation": 0.4,
+      "phrasePlans": [["longNotes", 3], ["ABAB1", 3], ["AABB", 2], ["motifDev", 2]],
+      "contours": [["arch", 3], ["wave", 3], ["rampDown", 2], ["flat", 1]] },
+    "counter": { "range": [55, 78], "styles": [["ostinato", 4], ["padHarm", 3], ["echo", 2]] }
+  },
+  {
+    "id": "disco", "name": "Disco", "bpmRange": [110, 125], "eras": ["1970s", "1980s"], "swing": 0.06,
+    "scales": [["major", 4], ["naturalMinor", 3], ["mixolydian", 1], ["dorian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 5], [[2, 2, 2, 2], 2], [[0.5, 0.5, 1], 1]],
+    "progressions": {},
+    "chords": { "range": [55, 76], "styles": [["stabs24", 3], ["stabsOffbeat", 3], ["pulse4", 2], ["funk16", 1]] },
+    "bass": { "range": [28, 50], "styles": [["octave8", 6], ["rootFifth", 2], ["walk", 1]] },
+    "melody": { "range": [62, 86], "restRatio": 0.3, "baseDensity": 5, "syncopation": 0.5,
+      "phrasePlans": [["AABB", 3], ["callResponse", 3], ["ABAB1", 2]],
+      "contours": [["arch", 3], ["wave", 3], ["rampUp", 2]] },
+    "counter": { "range": [55, 78], "styles": [["gapFill", 3], ["ostinato", 3], ["padHarm", 2]] }
+  },
+  {
+    "id": "jazzpop", "name": "Jazz-Influenced Pop", "bpmRange": [80, 120], "eras": ["1970s", "1990s", "2000s"], "swing": 0.25,
+    "scales": [["major", 3], ["dorian", 2], ["melodicMinor", 2], ["mixolydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[0.5, 0.5, 1, 1, 1], 2], [[2, 2, 2, 2], 1]],
+    "progressions": {
+      "major": {
+        "established": [["ii7", "V7", "Imaj7", "vi7"], ["Imaj7", "vi7", "ii7", "V7"], ["Imaj7", "IVmaj7", "iii7", "vi7"]],
+        "variation": [["iii7", "VI7", "ii7", "V7"], ["Imaj7", "I7", "IVmaj7", "iv7"], ["Imaj7", "ii7", "iii7", "IVmaj7"]],
+        "surprise": [["Imaj7", "bIIImaj7", "bVImaj7", "bIImaj7"], ["Imaj7", "bII7", "Imaj7", "V7"]]
+      },
+      "minor": {
+        "established": [["iim7b5", "V7", "i7", "i7"], ["i7", "iv7", "VII7", "IIImaj7"], ["i7", "VImaj7", "iim7b5", "V7"]],
+        "variation": [["i7", "VI7", "iim7b5", "V7"], ["i9", "iv9", "VII7", "IIImaj7"]],
+        "surprise": [["i7", "bII7", "i7", "V7"], ["i9", "iv9", "bII7", "i7"]]
+      }
+    },
+    "chords": { "range": [53, 78], "styles": [["pad", 4], ["sustain", 2], ["pluck8", 2], ["stabs24", 1]] },
+    "bass": { "range": [28, 52], "styles": [["walk", 6], ["halfNotes", 2], ["rootFifth", 1]] },
+    "melody": { "range": [60, 86], "restRatio": 0.35, "baseDensity": 5, "syncopation": 0.55,
+      "phrasePlans": [["motifDev", 4], ["callResponse", 3], ["ABAB1", 2]],
+      "contours": [["wave", 4], ["arch", 3], ["valley", 2]] },
+    "counter": { "range": [55, 79], "styles": [["gapFill", 4], ["padHarm", 2], ["echo", 2]] }
+  },
+  {
+    "id": "country", "name": "Country", "bpmRange": [90, 130], "eras": ["1990s", "2000s", "Modern"], "swing": 0.1,
+    "scales": [["major", 5], ["mixolydian", 2], ["majorPentatonic", 2]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 2]],
+    "progressions": {},
+    "chords": { "range": [52, 74], "styles": [["pulse4", 3], ["sustain", 3], ["pad", 2], ["arp8", 1]] },
+    "bass": { "range": [28, 50], "styles": [["rootFifth", 6], ["walk", 2], ["halfNotes", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.32, "baseDensity": 4.5, "syncopation": 0.3,
+      "phrasePlans": [["AABB", 4], ["ABAB1", 3], ["callResponse", 2]],
+      "contours": [["arch", 4], ["wave", 2], ["rampDown", 2]] },
+    "counter": { "range": [55, 76], "styles": [["gapFill", 3], ["padHarm", 3], ["echo", 2]] }
+  },
+  {
+    "id": "gospel", "name": "Gospel", "bpmRange": [60, 110], "eras": ["1990s", "2000s"], "swing": 0.15,
+    "scales": [["major", 4], ["mixolydian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 3], [[0.5, 0.5, 1], 3], [[2, 2], 2]],
+    "progressions": {
+      "major": {
+        "established": [["I", "IV", "I", "V"], ["I", "IV", "vi", "V"], ["I", "iii", "IV", "V"], ["I", "vi", "ii", "V"]],
+        "variation": [["I", "I7", "IV", "#ivdim"], ["I", "III7", "vi", "V7"], ["I", "vi7", "ii7", "V7"], ["I", "bVII", "IV", "I"]],
+        "surprise": [["I", "bIII", "IV", "#ivdim"], ["I", "bVII", "IV", "iv"], ["Imaj7", "bVI7", "ii7", "V7"]]
+      }
+    },
+    "chords": { "range": [53, 78], "styles": [["pad", 4], ["pulse4", 3], ["sustain", 2]] },
+    "bass": { "range": [26, 50], "styles": [["walk", 4], ["rootFifth", 2], ["halfNotes", 2], ["whole", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.35, "baseDensity": 4.5, "syncopation": 0.45,
+      "phrasePlans": [["callResponse", 4], ["AABB", 2], ["motifDev", 2]],
+      "contours": [["arch", 3], ["wave", 3], ["rampUp", 2]] },
+    "counter": { "range": [55, 79], "styles": [["padHarm", 4], ["gapFill", 3], ["echo", 2]] }
+  },
+  {
+    "id": "latin", "name": "Latin", "bpmRange": [95, 125], "eras": ["2000s", "2010s", "Modern"], "swing": 0.05,
+    "scales": [["naturalMinor", 4], ["major", 3], ["harmonicMinor", 1], ["phrygian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 1]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["pluck8", 3], ["stabs24", 2], ["pad", 2], ["pulse8", 1]] },
+    "bass": { "range": [28, 50], "styles": [["tumbao", 6], ["rootFifth", 2], ["pump8", 1]] },
+    "melody": { "range": [62, 86], "restRatio": 0.32, "baseDensity": 5, "syncopation": 0.6,
+      "phrasePlans": [["callResponse", 3], ["AABB", 3], ["motifDev", 2]],
+      "contours": [["wave", 3], ["arch", 3], ["rampDown", 2]] },
+    "counter": { "range": [55, 78], "styles": [["gapFill", 4], ["ostinato", 3], ["padHarm", 1]] }
+  },
+  {
+    "id": "reggae", "name": "Reggae", "bpmRange": [70, 95], "eras": ["1970s", "1980s", "1990s"], "swing": 0.18,
+    "scales": [["major", 3], ["naturalMinor", 3], ["dorian", 1]],
+    "harmonicRhythms": [[[2, 2, 2, 2], 4], [[1, 1, 1, 1], 3], [[4, 4], 2]],
+    "progressions": {},
+    "chords": { "range": [55, 76], "styles": [["skank", 6], ["stabs24", 2]] },
+    "bass": { "range": [26, 48], "styles": [["reggaeDrop", 6], ["rootFifth", 1], ["walk", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.45, "baseDensity": 3.5, "syncopation": 0.55,
+      "phrasePlans": [["callResponse", 4], ["AABB", 2], ["motifDev", 2]],
+      "contours": [["wave", 3], ["rampDown", 3], ["valley", 2]] },
+    "counter": { "range": [55, 76], "styles": [["gapFill", 5], ["echo", 2], ["ostinato", 2]] }
+  },
+  {
+    "id": "afrobeats", "name": "Afrobeats", "bpmRange": [95, 115], "eras": ["2010s", "Modern"], "swing": 0.12,
+    "scales": [["major", 3], ["naturalMinor", 3], ["mixolydian", 1], ["majorPentatonic", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 3], [[1, 1, 2], 1]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["pluck8", 4], ["skank", 2], ["pad", 2], ["stabsOffbeat", 1]] },
+    "bass": { "range": [28, 50], "styles": [["tumbao", 3], ["halfTime", 2], ["pump8", 2], ["reggaeDrop", 1]] },
+    "melody": { "range": [60, 84], "restRatio": 0.35, "baseDensity": 5, "syncopation": 0.65,
+      "phrasePlans": [["callResponse", 4], ["motifDev", 3], ["AA1AA2", 2]],
+      "contours": [["wave", 4], ["arch", 2], ["rampDown", 2]] },
+    "counter": { "range": [55, 78], "styles": [["gapFill", 4], ["ostinato", 3], ["echo", 2]] }
+  },
+  {
+    "id": "cinematic", "name": "Cinematic", "bpmRange": [60, 110], "eras": ["Modern"], "swing": 0,
+    "scales": [["naturalMinor", 4], ["major", 2], ["harmonicMinor", 1], ["lydian", 1]],
+    "harmonicRhythms": [[[2, 2, 2, 2], 4], [[4, 4], 3], [[1, 1, 2], 1]],
+    "progressions": {},
+    "chords": { "range": [48, 72], "styles": [["sustain", 6], ["pad", 3]] },
+    "bass": { "range": [24, 48], "styles": [["whole", 5], ["halfNotes", 2], ["octave8", 1]] },
+    "melody": { "range": [58, 82], "restRatio": 0.45, "baseDensity": 2.5, "syncopation": 0.2,
+      "phrasePlans": [["longNotes", 4], ["ABAB1", 2], ["motifDev", 2]],
+      "contours": [["arch", 4], ["rampUp", 3], ["wave", 1]] },
+    "counter": { "range": [53, 76], "styles": [["padHarm", 4], ["ostinato", 2], ["echo", 2]] }
+  },
+  {
+    "id": "videogame", "name": "Video Game", "bpmRange": [100, 160], "eras": ["1990s", "2000s", "Modern"], "swing": 0,
+    "scales": [["major", 3], ["naturalMinor", 3], ["lydian", 2], ["mixolydian", 1], ["dorian", 1]],
+    "harmonicRhythms": [[[1, 1, 1, 1], 4], [[2, 2, 2, 2], 2], [[1, 1, 2], 2], [[0.5, 0.5, 1], 1]],
+    "progressions": {},
+    "chords": { "range": [53, 76], "styles": [["arp8", 4], ["pulse8", 2], ["sustain", 2], ["pad", 1]] },
+    "bass": { "range": [28, 50], "styles": [["pump8", 3], ["octave8", 3], ["rootFifth", 2], ["walk", 1]] },
+    "melody": { "range": [62, 88], "restRatio": 0.3, "baseDensity": 5.5, "syncopation": 0.4,
+      "phrasePlans": [["ABAB1", 3], ["AABB", 3], ["motifDev", 3]],
+      "contours": [["arch", 3], ["rampUp", 3], ["wave", 2], ["valley", 1]] },
+    "counter": { "range": [55, 79], "styles": [["ostinato", 4], ["echo", 3], ["gapFill", 2]] }
+  }
+]
