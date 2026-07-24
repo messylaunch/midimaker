@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0613",
+  "name": "Sunny Machine 613",
+  "genre": "rnb",
+  "mood": "happy",
+  "bpm": 77,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3689104289,
+  "progression": "ii7-V7-Imaj7-vi7-ii7-V7-Imaj7-vi7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.553Z"
+}

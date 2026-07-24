@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0640",
+  "name": "Turbo Motion 640",
+  "genre": "house",
+  "mood": "energetic",
+  "bpm": 128,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 7,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2340756980,
+  "progression": "i7-iv7-VII-VI-i7-iv7-VII-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.626Z"
+}

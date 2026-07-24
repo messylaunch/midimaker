@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0016",
+  "name": "Skyline Pulse 016",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 103,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 3,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3796024420,
+  "progression": "Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.457Z"
+}

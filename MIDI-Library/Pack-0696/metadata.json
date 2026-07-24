@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0696",
+  "name": "Titan Bloom 696",
+  "genre": "pop",
+  "mood": "epic",
+  "bpm": 117,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 669515340,
+  "progression": "i7-iv-VI-V-i7-iv-VI-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.783Z"
+}

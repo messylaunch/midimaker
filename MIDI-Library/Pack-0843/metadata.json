@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0843",
+  "name": "Thunder Canyon 843",
+  "genre": "pop",
+  "mood": "epic",
+  "bpm": 109,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 26779311,
+  "progression": "i-VI-IIImaj7-VIIsus4",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 12.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.237Z"
+}

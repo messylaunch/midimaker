@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0470",
+  "name": "Velvet Pulse 470",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 100,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 3,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2028752258,
+  "progression": "i7-v-VI-III-i7-v-VI-III",
+  "phrasePlan": "longNotes",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.224Z"
+}

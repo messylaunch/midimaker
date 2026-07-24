@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0973",
+  "name": "Open Comet 973",
+  "genre": "rock",
+  "mood": "emotional",
+  "bpm": 141,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1508680393,
+  "progression": "i7-VIImaj9-VImaj9-VIIsus4-i7-VIImaj9-VImaj9-VIIsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 16,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.613Z"
+}

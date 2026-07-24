@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0062",
+  "name": "Silent Fable 062",
+  "genre": "cinematic",
+  "mood": "sad",
+  "bpm": 108,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1348100010,
+  "progression": "i-bIImaj7-i-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 9.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.512Z"
+}

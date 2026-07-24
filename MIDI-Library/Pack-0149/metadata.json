@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0149",
+  "name": "Fading Fable 149",
+  "genre": "hiphop",
+  "mood": "sad",
+  "bpm": 90,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 8,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 394064753,
+  "progression": "i-iv-VI-V-i-iv",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.637Z"
+}

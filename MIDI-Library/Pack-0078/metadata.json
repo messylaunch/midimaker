@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0078",
+  "name": "Faded Season 078",
+  "genre": "country",
+  "mood": "nostalgic",
+  "bpm": 119,
+  "key": "C#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 902968474,
+  "progression": "I-V-vi-IV-I-V-vi-IV",
+  "phrasePlan": "callResponse",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.530Z"
+}

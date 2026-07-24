@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0203",
+  "name": "Electric Meadow 203",
+  "genre": "jazzpop",
+  "mood": "energetic",
+  "bpm": 95,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1959286831,
+  "progression": "Imaj7-IVmaj7-iii7-vi7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.723Z"
+}

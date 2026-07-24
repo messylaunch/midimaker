@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0001",
+  "name": "Masked Canyon 001",
+  "genre": "trap",
+  "mood": "mysterious",
+  "bpm": 153,
+  "key": "A#",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2667732677,
+  "progression": "i-VI-VII-i-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 10.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.425Z"
+}

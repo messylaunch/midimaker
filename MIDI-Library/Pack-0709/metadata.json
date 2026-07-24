@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0709",
+  "name": "Ignition Mirage 709",
+  "genre": "gospel",
+  "mood": "energetic",
+  "bpm": 63,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 781262913,
+  "progression": "Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.818Z"
+}

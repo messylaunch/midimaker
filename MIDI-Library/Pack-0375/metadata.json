@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0375",
+  "name": "Crimson Tempest 375",
+  "genre": "reggae",
+  "mood": "romantic",
+  "bpm": 94,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3262539059,
+  "progression": "I-Vsus4-bVII-IV-I-Vsus4-bVII-IV",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.039Z"
+}

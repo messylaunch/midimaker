@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0011",
+  "name": "Masked Signal 011",
+  "genre": "dance",
+  "mood": "mysterious",
+  "bpm": 124,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3445038575,
+  "progression": "i-VImaj7-iv7-VIImaj7-i-VImaj7-iv7-VIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 13.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.449Z"
+}

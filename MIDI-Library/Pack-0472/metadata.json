@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0472",
+  "name": "Veiled Skyline 472",
+  "genre": "house",
+  "mood": "mysterious",
+  "bpm": 127,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3078453548,
+  "progression": "i7-iv7-VI-VII-i7-iv7-VI-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.229Z"
+}

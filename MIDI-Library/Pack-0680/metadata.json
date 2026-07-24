@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0680",
+  "name": "Olympus Prism 680",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 100,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1114511708,
+  "progression": "i9-VI-IIImaj7-VIImaj7-i9-VI-IIImaj7-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 22.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.734Z"
+}

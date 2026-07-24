@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0007",
+  "name": "Lucid Season 007",
+  "genre": "rock",
+  "mood": "dreamy",
+  "bpm": 117,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1387361443,
+  "progression": "Imaj7-vi-IVmaj9-V-Imaj7-vi-IVmaj9-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 40,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.442Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0443",
+  "name": "Open Signal 443",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 83,
+  "key": "E",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 8,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3368727103,
+  "progression": "i7-IVmaj7-VIImaj7-VImaj7-i7-IVmaj7-VIImaj7-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.167Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0301",
+  "name": "Soaring Groove 301",
+  "genre": "rock",
+  "mood": "uplifting",
+  "bpm": 128,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 101659241,
+  "progression": "Imaj7-bVI-bVIImaj7-Imaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 43.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.890Z"
+}

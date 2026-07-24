@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0620",
+  "name": "Titan Echo 620",
+  "genre": "dance",
+  "mood": "epic",
+  "bpm": 135,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 795844568,
+  "progression": "i7-VImaj9-IIImaj9-VIImaj7-i7-VImaj9-IIImaj9-VIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 33.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.570Z"
+}

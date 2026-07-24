@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0579",
+  "name": "Midnight Tempest 579",
+  "genre": "synthwave",
+  "mood": "dark",
+  "bpm": 109,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3595377703,
+  "progression": "i-VII-VI-iv-i-VII-VI-iv",
+  "phrasePlan": "longNotes",
+  "noteDensity": 19.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.467Z"
+}

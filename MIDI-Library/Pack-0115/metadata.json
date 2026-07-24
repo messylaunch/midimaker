@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0115",
+  "name": "Longing Drift 115",
+  "genre": "house",
+  "mood": "emotional",
+  "bpm": 128,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 333352439,
+  "progression": "i-VII-VI-VII-i-VII-VI-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.583Z"
+}

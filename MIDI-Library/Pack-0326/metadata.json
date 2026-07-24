@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0326",
+  "name": "Olympus Memory 326",
+  "genre": "dance",
+  "mood": "epic",
+  "bpm": 132,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2073153554,
+  "progression": "i-VII-VI-VIImaj7-i-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 27.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.947Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0788",
+  "name": "Velour Wave 788",
+  "genre": "dance",
+  "mood": "romantic",
+  "bpm": 130,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 66565024,
+  "progression": "i9-bIImaj7-i7-VIImaj9-i9-bIImaj7-i7-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 45.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.062Z"
+}

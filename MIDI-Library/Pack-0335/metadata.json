@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0335",
+  "name": "Empire Echo 335",
+  "genre": "cinematic",
+  "mood": "epic",
+  "bpm": 87,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 195893739,
+  "progression": "ii7-Vsus4-I-vi",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 4.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.963Z"
+}

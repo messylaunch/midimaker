@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0967",
+  "name": "Summit Comet 967",
+  "genre": "trap",
+  "mood": "epic",
+  "bpm": 134,
+  "key": "A",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2730069219,
+  "progression": "i7-VI",
+  "phrasePlan": "AABB",
+  "noteDensity": 5.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.595Z"
+}

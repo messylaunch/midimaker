@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0984",
+  "name": "Misty Tide 984",
+  "genre": "reggae",
+  "mood": "dreamy",
+  "bpm": 77,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 604956460,
+  "progression": "i-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 19.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.640Z"
+}

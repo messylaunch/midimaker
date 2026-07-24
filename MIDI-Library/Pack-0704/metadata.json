@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0704",
+  "name": "Turbo Tempest 704",
+  "genre": "dance",
+  "mood": "energetic",
+  "bpm": 139,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 431718836,
+  "progression": "ii-Vsus4-I-vi",
+  "phrasePlan": "AABB",
+  "noteDensity": 37.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.806Z"
+}

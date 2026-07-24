@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0117",
+  "name": "Mellow Prism 117",
+  "genre": "synthwave",
+  "mood": "chill",
+  "bpm": 118,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1315945105,
+  "progression": "I-vi-IV-V-I-vi-IV-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.587Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0891",
+  "name": "Phantom Ember 891",
+  "genre": "electronic",
+  "mood": "dark",
+  "bpm": 133,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2854333567,
+  "progression": "i9-iv7-VIImaj9-IIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 26.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.370Z"
+}

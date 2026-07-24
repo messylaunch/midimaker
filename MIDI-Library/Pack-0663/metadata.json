@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0663",
+  "name": "Savage Ember 663",
+  "genre": "synthwave",
+  "mood": "aggressive",
+  "bpm": 94,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3231256083,
+  "progression": "i7-VImaj7-IVmaj7-VIImaj9-i7-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.680Z"
+}

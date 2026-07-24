@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0905",
+  "name": "Aurora Skyline 905",
+  "genre": "hiphop",
+  "mood": "dreamy",
+  "bpm": 83,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1395135949,
+  "progression": "i-v-VI-III",
+  "phrasePlan": "longNotes",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.413Z"
+}

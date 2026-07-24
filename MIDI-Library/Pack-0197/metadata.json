@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0197",
+  "name": "Lucid Bloom 197",
+  "genre": "alternative",
+  "mood": "dreamy",
+  "bpm": 107,
+  "key": "E",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3246752321,
+  "progression": "I-Vsus4-vi-IV",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.713Z"
+}

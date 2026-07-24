@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0432",
+  "name": "Ignition Avenue 432",
+  "genre": "synthwave",
+  "mood": "energetic",
+  "bpm": 108,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 7,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4238900676,
+  "progression": "i7-VIImaj7-VImaj7-iv7",
+  "phrasePlan": "AABB",
+  "noteDensity": 23.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.143Z"
+}

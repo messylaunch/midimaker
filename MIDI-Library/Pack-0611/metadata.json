@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0611",
+  "name": "Cryptic Comet 611",
+  "genre": "hiphop",
+  "mood": "mysterious",
+  "bpm": 91,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2672973319,
+  "progression": "i-VIImaj7-i-VI-i-VIImaj7-i-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.548Z"
+}

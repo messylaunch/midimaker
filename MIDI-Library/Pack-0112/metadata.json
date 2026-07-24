@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0112",
+  "name": "Titan Signal 112",
+  "genre": "rock",
+  "mood": "epic",
+  "bpm": 119,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 963648004,
+  "progression": "Imaj7-iii-IV-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.577Z"
+}

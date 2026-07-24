@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0796",
+  "name": "Polaroid Ritual 796",
+  "genre": "afrobeats",
+  "mood": "nostalgic",
+  "bpm": 107,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4115350824,
+  "progression": "i-iv-i-V-i-iv-i-V",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 21.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.088Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0836",
+  "name": "Savage Garden 836",
+  "genre": "latin",
+  "mood": "aggressive",
+  "bpm": 96,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2887532912,
+  "progression": "i-VII-i-VImaj7-i-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 20,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.216Z"
+}

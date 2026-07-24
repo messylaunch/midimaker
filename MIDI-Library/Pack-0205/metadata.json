@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0205",
+  "name": "Colossal Drift 205",
+  "genre": "gospel",
+  "mood": "epic",
+  "bpm": 90,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3008976329,
+  "progression": "Imaj9-bVIImaj9-IVmaj7-iv-Imaj9-bVIImaj9-IVmaj7-iv",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.725Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0583",
+  "name": "Rising Groove 583",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 102,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 4,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1365443939,
+  "progression": "I-bVII-IV-I-bVII-IV-I-bVII-IV-I",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.476Z"
+}

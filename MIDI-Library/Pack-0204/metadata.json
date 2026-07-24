@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0204",
+  "name": "Tender Meadow 204",
+  "genre": "country",
+  "mood": "emotional",
+  "bpm": 128,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 352444024,
+  "progression": "I-bVI-bVII-I",
+  "phrasePlan": "AABB",
+  "noteDensity": 17,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.724Z"
+}

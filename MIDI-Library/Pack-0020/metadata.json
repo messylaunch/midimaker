@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0020",
+  "name": "Velvet Vision 020",
+  "genre": "cinematic",
+  "mood": "chill",
+  "bpm": 110,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1566615200,
+  "progression": "Isus4-IVmaj9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 3.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.463Z"
+}

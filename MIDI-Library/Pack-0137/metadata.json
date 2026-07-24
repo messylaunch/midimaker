@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0137",
+  "name": "Easy Machine 137",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 136,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2860857549,
+  "progression": "I-bVI-bVIIsus4-I-bVI",
+  "phrasePlan": "AABB",
+  "noteDensity": 27,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.618Z"
+}

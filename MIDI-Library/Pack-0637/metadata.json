@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0637",
+  "name": "Rising Avenue 637",
+  "genre": "rock",
+  "mood": "uplifting",
+  "bpm": 127,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2973559321,
+  "progression": "I-V7-vi-IVmaj7-I-V7-vi-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.620Z"
+}

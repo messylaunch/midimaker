@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0630",
+  "name": "Faded Garden 630",
+  "genre": "videogame",
+  "mood": "nostalgic",
+  "bpm": 134,
+  "key": "E",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 2,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1571839714,
+  "progression": "Imaj7-IVmaj7-Imaj9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 25.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.598Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0578",
+  "name": "Smiling Season 578",
+  "genre": "dance",
+  "mood": "happy",
+  "bpm": 137,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 947250902,
+  "progression": "Imaj7-V9-IVmaj9-IVmaj7-Imaj7-V9",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 48.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.465Z"
+}

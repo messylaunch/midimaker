@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0670",
+  "name": "Candlelit Tide 670",
+  "genre": "afrobeats",
+  "mood": "romantic",
+  "bpm": 99,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 335895114,
+  "progression": "vi-V-IV-V7-vi-V-IV-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 22.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.700Z"
+}

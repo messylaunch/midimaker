@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0617",
+  "name": "Thunder Signal 617",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 112,
+  "key": "B",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1384213741,
+  "progression": "Imaj7-II-IV-Imaj7-II",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.561Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0671",
+  "name": "Titan Mirage 671",
+  "genre": "cinematic",
+  "mood": "epic",
+  "bpm": 94,
+  "key": "A",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2991772059,
+  "progression": "i7-VIsus4-VIImaj7-i7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 4.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.702Z"
+}

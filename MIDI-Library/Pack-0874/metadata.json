@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0874",
+  "name": "Honest Garden 874",
+  "genre": "disco",
+  "mood": "emotional",
+  "bpm": 122,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 676352318,
+  "progression": "i7-VImaj7-bIImaj7-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.320Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0506",
+  "name": "Aurora Anthem 506",
+  "genre": "hiphop",
+  "mood": "dreamy",
+  "bpm": 84,
+  "key": "B",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3096682670,
+  "progression": "i-III-VIImaj7-VI-i-III-VIImaj7-VI",
+  "phrasePlan": "longNotes",
+  "noteDensity": 8.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.297Z"
+}

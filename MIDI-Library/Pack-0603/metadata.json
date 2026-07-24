@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0603",
+  "name": "Empire Voyage 603",
+  "genre": "country",
+  "mood": "epic",
+  "bpm": 109,
+  "key": "G#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 5,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2912847007,
+  "progression": "Imaj7-IVmaj7-Imaj9-V7-Imaj7-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.528Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0956",
+  "name": "Olympus Mosaic 956",
+  "genre": "dance",
+  "mood": "epic",
+  "bpm": 138,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3592378248,
+  "progression": "ii9-V7-Imaj7-vi7-ii9-V7-Imaj7-vi7",
+  "phrasePlan": "AABB",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.569Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0240",
+  "name": "Ruthless Vision 240",
+  "genre": "electronic",
+  "mood": "aggressive",
+  "bpm": 127,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1429680772,
+  "progression": "i7-VImaj7-IIImaj7-VIImaj9-i7-VImaj7-IIImaj7-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.781Z"
+}

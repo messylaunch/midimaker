@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0760",
+  "name": "Racing Groove 760",
+  "genre": "rnb",
+  "mood": "energetic",
+  "bpm": 64,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3045351948,
+  "progression": "i7-bIImaj7-i7-V7-i7-bIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.976Z"
+}

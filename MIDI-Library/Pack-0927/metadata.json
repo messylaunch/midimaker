@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0927",
+  "name": "Ascending Drift 927",
+  "genre": "pop",
+  "mood": "uplifting",
+  "bpm": 120,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3956572315,
+  "progression": "Imaj7-iii7-IVmaj7-V7-Imaj7-iii7",
+  "phrasePlan": "AABB",
+  "noteDensity": 8.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.475Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0565",
+  "name": "Honest Voyage 565",
+  "genre": "afrobeats",
+  "mood": "emotional",
+  "bpm": 101,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 7,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 828028113,
+  "progression": "i-v-VI-III",
+  "phrasePlan": "callResponse",
+  "noteDensity": 22.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.430Z"
+}

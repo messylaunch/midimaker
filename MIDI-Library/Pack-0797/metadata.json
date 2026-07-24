@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0797",
+  "name": "Golden Mirage 797",
+  "genre": "cinematic",
+  "mood": "emotional",
+  "bpm": 107,
+  "key": "B",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2474703737,
+  "progression": "i7-iv7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.090Z"
+}

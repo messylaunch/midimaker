@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0380",
+  "name": "Open Ritual 380",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 82,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3681387976,
+  "progression": "I-V-IV",
+  "phrasePlan": "AABB",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.046Z"
+}

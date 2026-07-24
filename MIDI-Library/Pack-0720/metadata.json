@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0720",
+  "name": "Smooth Lantern 720",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 97,
+  "key": "G",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4248004260,
+  "progression": "i7-bIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 32.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.853Z"
+}

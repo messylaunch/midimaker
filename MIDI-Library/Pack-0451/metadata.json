@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0451",
+  "name": "Lazy Mirage 451",
+  "genre": "house",
+  "mood": "chill",
+  "bpm": 127,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3129886119,
+  "progression": "i7-iv7-VII-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 24.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.182Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0778",
+  "name": "Voltage Meadow 778",
+  "genre": "trap",
+  "mood": "energetic",
+  "bpm": 130,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3584226462,
+  "progression": "i-VImaj7-IIImaj7-VIImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.031Z"
+}

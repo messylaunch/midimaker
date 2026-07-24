@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0941",
+  "name": "Velvet Comet 941",
+  "genre": "latin",
+  "mood": "chill",
+  "bpm": 118,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2430560489,
+  "progression": "i-bII-i-V7-i-bII-i-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.523Z"
+}

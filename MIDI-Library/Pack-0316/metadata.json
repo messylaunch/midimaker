@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0316",
+  "name": "Hollow Motion 316",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 136,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1297027336,
+  "progression": "i-VImaj7-i9-VIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.928Z"
+}

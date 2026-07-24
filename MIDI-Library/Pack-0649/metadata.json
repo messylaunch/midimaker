@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0649",
+  "name": "Soft Wave 649",
+  "genre": "afrobeats",
+  "mood": "chill",
+  "bpm": 115,
+  "key": "C",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 3,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 462857933,
+  "progression": "Imaj9-V9-vi7-IVmaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.646Z"
+}

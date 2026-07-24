@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0537",
+  "name": "Ignition Voyage 537",
+  "genre": "synthwave",
+  "mood": "energetic",
+  "bpm": 110,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3815465789,
+  "progression": "i-VII-VI-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.365Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0029",
+  "name": "Soft Vision 029",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 128,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3984453241,
+  "progression": "i7-VIImaj9-VImaj7-VIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 21.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.476Z"
+}

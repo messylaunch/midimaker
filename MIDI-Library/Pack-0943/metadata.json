@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0943",
+  "name": "Deep Harbor 943",
+  "genre": "afrobeats",
+  "mood": "emotional",
+  "bpm": 111,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3479987595,
+  "progression": "vi-IV-Imaj7-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.527Z"
+}

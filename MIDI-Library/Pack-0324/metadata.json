@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0324",
+  "name": "Smooth Garden 324",
+  "genre": "electronic",
+  "mood": "chill",
+  "bpm": 129,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1057170288,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 15.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.943Z"
+}

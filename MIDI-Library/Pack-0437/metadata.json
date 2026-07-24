@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0437",
+  "name": "Velour Anthem 437",
+  "genre": "latin",
+  "mood": "romantic",
+  "bpm": 118,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 361208913,
+  "progression": "I-IVmaj7-Imaj7-V9-I-IVmaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 38,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.153Z"
+}

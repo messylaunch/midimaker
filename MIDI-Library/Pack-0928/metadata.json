@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0928",
+  "name": "Lazy Groove 928",
+  "genre": "rnb",
+  "mood": "chill",
+  "bpm": 63,
+  "key": "F#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2284586708,
+  "progression": "i7-v7-iv7-VImaj7-i7-v7-iv7-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.481Z"
+}

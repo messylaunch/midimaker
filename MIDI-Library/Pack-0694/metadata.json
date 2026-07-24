@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0694",
+  "name": "Polaroid Tempest 694",
+  "genre": "trap",
+  "mood": "nostalgic",
+  "bpm": 121,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 9,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3948331682,
+  "progression": "i7-iv",
+  "phrasePlan": "longNotes",
+  "noteDensity": 5.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.778Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0886",
+  "name": "Pastel Season 886",
+  "genre": "rnb",
+  "mood": "dreamy",
+  "bpm": 87,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2462715362,
+  "progression": "Imaj7-bVIImaj7-IVmaj7-iv7-Imaj7-bVIImaj7-IVmaj7-iv7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.354Z"
+}

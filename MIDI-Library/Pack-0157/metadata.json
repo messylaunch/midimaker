@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0157",
+  "name": "Blazing Static 157",
+  "genre": "house",
+  "mood": "energetic",
+  "bpm": 124,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 154175225,
+  "progression": "i-IVmaj9-VImaj7-VIImaj9-i-IVmaj9-VImaj7-VIImaj9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 30.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.652Z"
+}

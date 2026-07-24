@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0728",
+  "name": "Charged Anthem 728",
+  "genre": "jazzpop",
+  "mood": "energetic",
+  "bpm": 96,
+  "key": "A#",
+  "scale": "Melodic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3975620652,
+  "progression": "i7-VI7-iim7b5-V7-i7-VI7-iim7b5-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.874Z"
+}

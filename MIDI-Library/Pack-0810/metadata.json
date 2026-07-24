@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0810",
+  "name": "Silent Signal 810",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 90,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 7,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2595368318,
+  "progression": "i-VI-III-VII-i-VI-III-VII",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 22.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.126Z"
+}

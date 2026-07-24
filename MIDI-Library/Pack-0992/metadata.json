@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0992",
+  "name": "Easy Pulse 992",
+  "genre": "soul",
+  "mood": "chill",
+  "bpm": 77,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 398633620,
+  "progression": "Imaj7-V7-vi7-IVmaj9-Imaj7-V7-vi7-IVmaj9-Imaj7-V7-vi7-IVmaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.666Z"
+}

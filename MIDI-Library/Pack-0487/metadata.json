@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0487",
+  "name": "Soaring Meadow 487",
+  "genre": "rnb",
+  "mood": "uplifting",
+  "bpm": 88,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4206713027,
+  "progression": "Imaj7-bVIImaj7-IVmaj7-iv7-Imaj7-bVIImaj7-IVmaj7-iv7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 10.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.260Z"
+}

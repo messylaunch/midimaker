@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0105",
+  "name": "Ignition Circuit 105",
+  "genre": "videogame",
+  "mood": "energetic",
+  "bpm": 140,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3858091757,
+  "progression": "Imaj9-V7-vi9-iii9-Imaj9-V7-vi9-iii9",
+  "phrasePlan": "AABB",
+  "noteDensity": 20,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.563Z"
+}

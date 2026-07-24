@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0405",
+  "name": "Sparkling Lantern 405",
+  "genre": "funk",
+  "mood": "happy",
+  "bpm": 115,
+  "key": "F",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1291231857,
+  "progression": "I-IV-I-V-I-IV-I-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.090Z"
+}

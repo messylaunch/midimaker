@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0580",
+  "name": "Rainy Mirage 580",
+  "genre": "disco",
+  "mood": "sad",
+  "bpm": 125,
+  "key": "B",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1956287088,
+  "progression": "i-VIIsus4-i-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 26.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.469Z"
+}

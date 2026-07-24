@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0217",
+  "name": "Glowing Canyon 217",
+  "genre": "rock",
+  "mood": "warm",
+  "bpm": 131,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 473104509,
+  "progression": "Imaj7-IVmaj7-Imaj9-V7-Imaj7-IVmaj7-Imaj9-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.744Z"
+}

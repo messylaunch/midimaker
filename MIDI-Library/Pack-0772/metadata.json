@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0772",
+  "name": "Bright Static 772",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 69,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 511696560,
+  "progression": "Imaj7-iii7-IVmaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.013Z"
+}

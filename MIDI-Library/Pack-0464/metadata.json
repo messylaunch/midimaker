@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0464",
+  "name": "Winter Voyage 464",
+  "genre": "hiphop",
+  "mood": "sad",
+  "bpm": 94,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3317282724,
+  "progression": "i7-IVmaj7-VII-VImaj7-i7-IVmaj7-VII-VImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 25.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.209Z"
+}

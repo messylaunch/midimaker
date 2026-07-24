@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0980",
+  "name": "Longing Garden 980",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 100,
+  "key": "A",
+  "scale": "Melodic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2909339360,
+  "progression": "i9-iv9-VII7-IIImaj7-i9-iv9-VII7-IIImaj7-i9-iv9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.631Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0890",
+  "name": "Warpath Meadow 890",
+  "genre": "alternative",
+  "mood": "aggressive",
+  "bpm": 122,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 233322030,
+  "progression": "i-bIImaj7-i-V-i-bIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 16.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.368Z"
+}

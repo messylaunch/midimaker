@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0527",
+  "name": "Ignition Static 527",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 88,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3037111339,
+  "progression": "Imaj9-V7-vi7-IVmaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.344Z"
+}

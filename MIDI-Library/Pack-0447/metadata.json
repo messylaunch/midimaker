@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0447",
+  "name": "Aurora Prism 447",
+  "genre": "funk",
+  "mood": "dreamy",
+  "bpm": 114,
+  "key": "A#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1139301243,
+  "progression": "i7-IV7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 41.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.175Z"
+}

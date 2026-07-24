@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0544",
+  "name": "Smiling Meadow 544",
+  "genre": "afrobeats",
+  "mood": "happy",
+  "bpm": 109,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 886554452,
+  "progression": "Imaj7-Vsus4-vi9-IVmaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 27.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.383Z"
+}

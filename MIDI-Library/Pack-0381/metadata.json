@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0381",
+  "name": "Sepia Wave 381",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 121,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2040871705,
+  "progression": "I-V7-vi7-iii-I-V7-vi7-iii",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.047Z"
+}

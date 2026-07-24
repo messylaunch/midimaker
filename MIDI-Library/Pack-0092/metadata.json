@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0092",
+  "name": "Velvet Pulse 092",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 122,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3671760104,
+  "progression": "i7-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.547Z"
+}

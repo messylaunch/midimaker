@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0360",
+  "name": "Polaroid Memory 360",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 102,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2134247324,
+  "progression": "i-VII-VI-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 35.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.012Z"
+}

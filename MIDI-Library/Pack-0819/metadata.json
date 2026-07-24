@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0819",
+  "name": "Ignition Comet 819",
+  "genre": "videogame",
+  "mood": "energetic",
+  "bpm": 159,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 709850679,
+  "progression": "Imaj7-V9-vi7-IVmaj9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 24.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.157Z"
+}

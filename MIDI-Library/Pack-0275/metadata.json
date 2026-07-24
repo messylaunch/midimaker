@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0275",
+  "name": "Tender Drift 275",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 83,
+  "key": "D#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 3,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4104298071,
+  "progression": "vi7-V-IVmaj7-V7-vi7-V-IVmaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.840Z"
+}

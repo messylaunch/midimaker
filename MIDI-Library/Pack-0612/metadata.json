@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0612",
+  "name": "Honey Mirage 612",
+  "genre": "pop",
+  "mood": "warm",
+  "bpm": 106,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1034669136,
+  "progression": "Imaj7-iv7-Imaj7-V7-Imaj7-iv7-Imaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.550Z"
+}

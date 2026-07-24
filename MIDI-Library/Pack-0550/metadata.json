@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0550",
+  "name": "Vivid Voyage 550",
+  "genre": "rnb",
+  "mood": "happy",
+  "bpm": 92,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3927594290,
+  "progression": "Imaj7-bVIImaj7-IVmaj7-iv7",
+  "phrasePlan": "AABB",
+  "noteDensity": 7.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.397Z"
+}

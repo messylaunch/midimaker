@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0021",
+  "name": "Rainy Pulse 021",
+  "genre": "videogame",
+  "mood": "sad",
+  "bpm": 152,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4223261937,
+  "progression": "i7-v7-VI-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.464Z"
+}

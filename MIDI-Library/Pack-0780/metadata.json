@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0780",
+  "name": "Crimson Echo 780",
+  "genre": "pop",
+  "mood": "romantic",
+  "bpm": 121,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 271835192,
+  "progression": "Imaj7-IV-vi-V7-Imaj7-IV-vi-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 35,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.037Z"
+}

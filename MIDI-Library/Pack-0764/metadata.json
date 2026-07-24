@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0764",
+  "name": "Empire Tide 764",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 110,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 5,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 750390088,
+  "progression": "IV-Imaj7-V-vi7-IV-Imaj7-V-vi7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.989Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0299",
+  "name": "Vintage Pulse 299",
+  "genre": "soul",
+  "mood": "nostalgic",
+  "bpm": 70,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3422422735,
+  "progression": "I-IV-I-V-I-IV-I-V-I-IV-I-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.885Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0086",
+  "name": "Savage Pulse 086",
+  "genre": "hiphop",
+  "mood": "aggressive",
+  "bpm": 90,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 664258050,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 14.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.540Z"
+}

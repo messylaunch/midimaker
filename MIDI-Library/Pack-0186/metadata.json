@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0186",
+  "name": "Eclipse Voyage 186",
+  "genre": "reggae",
+  "mood": "dark",
+  "bpm": 75,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4118498798,
+  "progression": "i-iv9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 21.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.697Z"
+}

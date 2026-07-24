@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0106",
+  "name": "Turbo Circuit 106",
+  "genre": "trap",
+  "mood": "energetic",
+  "bpm": 131,
+  "key": "A#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2211267646,
+  "progression": "i-VI",
+  "phrasePlan": "AABB",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.565Z"
+}

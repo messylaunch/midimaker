@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0789",
+  "name": "Rainy Pulse 789",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 92,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2714708465,
+  "progression": "i-VI-VII-v-i-VI-VII-v",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 16.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.064Z"
+}

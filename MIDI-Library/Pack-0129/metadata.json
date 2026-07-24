@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0129",
+  "name": "Glowing Lantern 129",
+  "genre": "pop",
+  "mood": "warm",
+  "bpm": 122,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3099686213,
+  "progression": "Imaj7-IVmaj7-vi7-Vsus4-Imaj7-IVmaj7-vi7-Vsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.604Z"
+}

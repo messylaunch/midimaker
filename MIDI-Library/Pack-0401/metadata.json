@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0401",
+  "name": "Enigma Skyline 401",
+  "genre": "hiphop",
+  "mood": "mysterious",
+  "bpm": 99,
+  "key": "D#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3587225909,
+  "progression": "i-iv7-VI-V",
+  "phrasePlan": "longNotes",
+  "noteDensity": 10.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.081Z"
+}

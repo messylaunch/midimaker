@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0794",
+  "name": "Velvet Meadow 794",
+  "genre": "latin",
+  "mood": "chill",
+  "bpm": 105,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3107604878,
+  "progression": "I-iii-IV-V-I-iii-IV-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.081Z"
+}

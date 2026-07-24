@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0248",
+  "name": "Rose Groove 248",
+  "genre": "latin",
+  "mood": "romantic",
+  "bpm": 122,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1149813772,
+  "progression": "i7-IIImaj7-VII-VImaj9-i7-IIImaj7-VII-VImaj9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.794Z"
+}

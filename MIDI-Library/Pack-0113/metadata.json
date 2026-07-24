@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0113",
+  "name": "Silent Mirage 113",
+  "genre": "alternative",
+  "mood": "sad",
+  "bpm": 113,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3611922517,
+  "progression": "i-iv-VII-III",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.579Z"
+}

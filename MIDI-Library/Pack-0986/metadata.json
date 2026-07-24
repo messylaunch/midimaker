@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0986",
+  "name": "Horizon Motion 986",
+  "genre": "cinematic",
+  "mood": "epic",
+  "bpm": 88,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1621071054,
+  "progression": "Imaj7-V-bVIImaj7-IVmaj9-Imaj7-V",
+  "phrasePlan": "longNotes",
+  "noteDensity": 12.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.646Z"
+}

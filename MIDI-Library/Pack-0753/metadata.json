@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0753",
+  "name": "Rose Mosaic 753",
+  "genre": "reggae",
+  "mood": "romantic",
+  "bpm": 79,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1612306133,
+  "progression": "ii-Vsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.957Z"
+}

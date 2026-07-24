@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0946",
+  "name": "Grey Ritual 946",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 139,
+  "key": "G",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2848626534,
+  "progression": "i7-bIIsus4-i-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.538Z"
+}

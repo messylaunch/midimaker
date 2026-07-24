@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0328",
+  "name": "Mellow Drift 328",
+  "genre": "disco",
+  "mood": "chill",
+  "bpm": 110,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3055996348,
+  "progression": "i-IV-VII-VI-i-IV-VII-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 34.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.951Z"
+}

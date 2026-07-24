@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0483",
+  "name": "Drifting Lantern 483",
+  "genre": "videogame",
+  "mood": "chill",
+  "bpm": 122,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2208284551,
+  "progression": "i7-VI-III-VII",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 11.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.252Z"
+}

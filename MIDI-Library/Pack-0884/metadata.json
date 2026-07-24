@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0884",
+  "name": "Tender Voyage 884",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 95,
+  "key": "A",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1453658176,
+  "progression": "I-IV-vi-V7-I-IV",
+  "phrasePlan": "callResponse",
+  "noteDensity": 8.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.349Z"
+}

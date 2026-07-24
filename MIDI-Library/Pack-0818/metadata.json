@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0818",
+  "name": "Kinetic Circuit 818",
+  "genre": "cinematic",
+  "mood": "energetic",
+  "bpm": 64,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2356670694,
+  "progression": "i7-iv7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 5.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.153Z"
+}

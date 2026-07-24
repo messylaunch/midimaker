@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0005",
+  "name": "Polaroid Vision 005",
+  "genre": "soul",
+  "mood": "nostalgic",
+  "bpm": 74,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 371214081,
+  "progression": "i-VII-VI-VII-i-VII-VI-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.436Z"
+}

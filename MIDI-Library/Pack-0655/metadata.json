@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0655",
+  "name": "Onyx Mosaic 655",
+  "genre": "rnb",
+  "mood": "dark",
+  "bpm": 88,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3469049003,
+  "progression": "i7-bIImaj7-i7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.662Z"
+}

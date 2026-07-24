@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0735",
+  "name": "Aurora Mosaic 735",
+  "genre": "videogame",
+  "mood": "dreamy",
+  "bpm": 103,
+  "key": "G#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1081295963,
+  "progression": "i-VII-VImaj7-VII-i-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.898Z"
+}

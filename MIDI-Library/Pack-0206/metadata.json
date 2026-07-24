@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0206",
+  "name": "Masked Drift 206",
+  "genre": "latin",
+  "mood": "mysterious",
+  "bpm": 108,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1368836890,
+  "progression": "i-v-VImaj7-IIImaj7-i-v-VImaj7-IIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 16.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.727Z"
+}

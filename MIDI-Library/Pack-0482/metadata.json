@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0482",
+  "name": "Turbo Groove 482",
+  "genre": "cinematic",
+  "mood": "energetic",
+  "bpm": 66,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3846584374,
+  "progression": "i7-v7-VImaj7-IIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 9.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.250Z"
+}

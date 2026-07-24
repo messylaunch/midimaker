@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0276",
+  "name": "Longing Garden 276",
+  "genre": "pop",
+  "mood": "emotional",
+  "bpm": 120,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 5,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2465863072,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 37.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.842Z"
+}

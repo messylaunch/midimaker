@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0024",
+  "name": "Summer Vision 024",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 115,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3557183468,
+  "progression": "IVmaj7-Imaj7-V9-vi9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.468Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0963",
+  "name": "Misty Mosaic 963",
+  "genre": "reggae",
+  "mood": "dreamy",
+  "bpm": 93,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 8,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 731636647,
+  "progression": "IV-I-V-vi",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.586Z"
+}

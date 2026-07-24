@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0162",
+  "name": "Open Motion 162",
+  "genre": "country",
+  "mood": "uplifting",
+  "bpm": 107,
+  "key": "D",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 506340726,
+  "progression": "ii9-V7-Imaj9-vi9-ii9-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 13,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.662Z"
+}

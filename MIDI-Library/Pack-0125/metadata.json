@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0125",
+  "name": "Sunset Memory 125",
+  "genre": "cinematic",
+  "mood": "warm",
+  "bpm": 96,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1076055065,
+  "progression": "IVsus4-Imaj7-V7-vi7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 8.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.599Z"
+}

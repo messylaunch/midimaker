@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0838",
+  "name": "Cassette Wave 838",
+  "genre": "afrobeats",
+  "mood": "nostalgic",
+  "bpm": 96,
+  "key": "A#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3903684114,
+  "progression": "I-vi-IVmaj7-Vsus4-I-vi-IVmaj7-Vsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.223Z"
+}

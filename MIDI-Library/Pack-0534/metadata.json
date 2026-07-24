@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0534",
+  "name": "Charged Machine 534",
+  "genre": "electronic",
+  "mood": "energetic",
+  "bpm": 125,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 109244482,
+  "progression": "Imaj7-bVII-IV-I",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.356Z"
+}

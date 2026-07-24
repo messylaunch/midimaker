@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0572",
+  "name": "Open Machine 572",
+  "genre": "soul",
+  "mood": "uplifting",
+  "bpm": 74,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2194063368,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 24.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.448Z"
+}

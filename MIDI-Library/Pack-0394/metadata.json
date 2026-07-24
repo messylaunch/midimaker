@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0394",
+  "name": "Shining Skyline 394",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 98,
+  "key": "C#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2153016606,
+  "progression": "I-I7-IV-#ivdim",
+  "phrasePlan": "callResponse",
+  "noteDensity": 9.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.070Z"
+}

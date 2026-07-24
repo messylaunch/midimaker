@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0393",
+  "name": "Floating Mirage 393",
+  "genre": "country",
+  "mood": "dreamy",
+  "bpm": 111,
+  "key": "E",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3793549261,
+  "progression": "Imaj7-IVmaj9-Imaj7-V7-Imaj7-IVmaj9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.069Z"
+}

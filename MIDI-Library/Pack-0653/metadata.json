@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0653",
+  "name": "Aurora Machine 653",
+  "genre": "hiphop",
+  "mood": "dreamy",
+  "bpm": 95,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2461290249,
+  "progression": "i9-v7-iv7-VImaj9-i9-v7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.655Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0244",
+  "name": "Riot Groove 244",
+  "genre": "disco",
+  "mood": "aggressive",
+  "bpm": 117,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3454720960,
+  "progression": "i-IVmaj7-VII-VImaj7-i-IVmaj7-VII-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.788Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0264",
+  "name": "Blushing Memory 264",
+  "genre": "synthwave",
+  "mood": "romantic",
+  "bpm": 106,
+  "key": "C#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 671111676,
+  "progression": "i9-VImaj7-VIImaj9-v7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.820Z"
+}

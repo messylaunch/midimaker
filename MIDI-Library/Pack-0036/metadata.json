@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0036",
+  "name": "Sunset Mirage 036",
+  "genre": "country",
+  "mood": "warm",
+  "bpm": 117,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1056455568,
+  "progression": "I-IVmaj7-Imaj7-V7-I-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.485Z"
+}

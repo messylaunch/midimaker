@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0090",
+  "name": "Veiled Bloom 090",
+  "genre": "funk",
+  "mood": "mysterious",
+  "bpm": 97,
+  "key": "G#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2662723406,
+  "progression": "i7-IV7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 29.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.544Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0913",
+  "name": "Faded Season 913",
+  "genre": "house",
+  "mood": "nostalgic",
+  "bpm": 125,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1122772789,
+  "progression": "i9-IVsus4-VImaj9-VIImaj7-i9-IVsus4-VImaj9-VIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 13,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.435Z"
+}

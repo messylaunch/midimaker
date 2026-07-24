@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0188",
+  "name": "Candlelit Voyage 188",
+  "genre": "cinematic",
+  "mood": "romantic",
+  "bpm": 87,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 831027848,
+  "progression": "vi7-IVmaj7-I-V7-vi7-IVmaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 9.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.701Z"
+}

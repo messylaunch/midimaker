@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0731",
+  "name": "Hollow Signal 731",
+  "genre": "latin",
+  "mood": "sad",
+  "bpm": 122,
+  "key": "A",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 7,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3378338591,
+  "progression": "i-VImaj7-III-VII-i-VImaj7-III-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.887Z"
+}

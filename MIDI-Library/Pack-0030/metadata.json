@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0030",
+  "name": "Cloud Machine 030",
+  "genre": "electronic",
+  "mood": "dreamy",
+  "bpm": 122,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 8,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2343921098,
+  "progression": "i7-iv7-i-V",
+  "phrasePlan": "longNotes",
+  "noteDensity": 11.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.477Z"
+}

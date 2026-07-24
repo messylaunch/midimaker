@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0308",
+  "name": "Polaroid Ritual 308",
+  "genre": "jazzpop",
+  "mood": "nostalgic",
+  "bpm": 97,
+  "key": "D",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1535856512,
+  "progression": "i7-bII7-i7-V7-i7-bII7-i7-V7-i7-bII7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.904Z"
+}

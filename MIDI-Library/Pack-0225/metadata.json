@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0225",
+  "name": "Skyline Garden 225",
+  "genre": "country",
+  "mood": "uplifting",
+  "bpm": 126,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 3,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 267703269,
+  "progression": "I-iv-I-V-I-iv-I-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 9.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.755Z"
+}

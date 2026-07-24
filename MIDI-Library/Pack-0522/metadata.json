@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0522",
+  "name": "Vintage Canyon 522",
+  "genre": "reggae",
+  "mood": "nostalgic",
+  "bpm": 80,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2620065182,
+  "progression": "IV-I-V-vi7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 20.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.333Z"
+}

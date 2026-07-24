@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0673",
+  "name": "Easy Prism 673",
+  "genre": "trap",
+  "mood": "chill",
+  "bpm": 144,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4007906597,
+  "progression": "i-VI-III-VII-i-VI-III-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 10.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.715Z"
+}

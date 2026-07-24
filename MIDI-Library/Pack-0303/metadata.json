@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0303",
+  "name": "Phantom Skyline 303",
+  "genre": "electronic",
+  "mood": "dark",
+  "bpm": 129,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1117531915,
+  "progression": "i-VI-III-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.893Z"
+}

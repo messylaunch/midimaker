@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0571",
+  "name": "Horizon Fable 571",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 61,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3834202815,
+  "progression": "Imaj7-iii7-vi7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 32.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.445Z"
+}

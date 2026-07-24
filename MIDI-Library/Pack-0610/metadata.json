@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0610",
+  "name": "Electric Mirage 610",
+  "genre": "trap",
+  "mood": "energetic",
+  "bpm": 136,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 18534582,
+  "progression": "i-bII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.546Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0823",
+  "name": "Venom Ritual 823",
+  "genre": "rnb",
+  "mood": "aggressive",
+  "bpm": 62,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2775392115,
+  "progression": "i7-v7-iv7-VImaj7-i7-v7-iv7-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 11.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.166Z"
+}

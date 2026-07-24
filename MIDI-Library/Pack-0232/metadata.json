@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0232",
+  "name": "Phantom Memory 232",
+  "genre": "trap",
+  "mood": "dark",
+  "bpm": 120,
+  "key": "C#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1668509468,
+  "progression": "i-III-iv-VI-i-III-iv-VI",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.767Z"
+}

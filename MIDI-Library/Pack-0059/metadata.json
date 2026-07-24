@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0059",
+  "name": "Floating Wave 059",
+  "genre": "latin",
+  "mood": "dreamy",
+  "bpm": 97,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2013015231,
+  "progression": "Imaj7-V-vi-IV-Imaj7-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.509Z"
+}

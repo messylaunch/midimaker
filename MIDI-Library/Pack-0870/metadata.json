@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0870",
+  "name": "Deep Mirage 870",
+  "genre": "electronic",
+  "mood": "emotional",
+  "bpm": 127,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 2,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2981275890,
+  "progression": "i7-bIImaj7-VImaj9-V9-i7-bIImaj7-VImaj9-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.309Z"
+}

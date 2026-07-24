@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0589",
+  "name": "Bare Ember 589",
+  "genre": "trap",
+  "mood": "emotional",
+  "bpm": 154,
+  "key": "C",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 77060937,
+  "progression": "i-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 9.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.491Z"
+}

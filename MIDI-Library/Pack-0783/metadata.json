@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0783",
+  "name": "Mellow Groove 783",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 105,
+  "key": "A#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3935834923,
+  "progression": "i7-bII-i7-bII-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.045Z"
+}

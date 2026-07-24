@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0635",
+  "name": "Longing Wave 635",
+  "genre": "soul",
+  "mood": "emotional",
+  "bpm": 92,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1924136319,
+  "progression": "i7-iv-VImaj9-V-i7-iv-VImaj9-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.613Z"
+}

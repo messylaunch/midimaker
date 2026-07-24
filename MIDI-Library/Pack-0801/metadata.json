@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0801",
+  "name": "Aching Skyline 801",
+  "genre": "pop",
+  "mood": "emotional",
+  "bpm": 106,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 178709925,
+  "progression": "vi7-IV-Imaj7-V-vi7-IV-Imaj7-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 15.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.099Z"
+}

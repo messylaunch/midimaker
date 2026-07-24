@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0574",
+  "name": "Masked Mirage 574",
+  "genre": "rock",
+  "mood": "mysterious",
+  "bpm": 150,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 8,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3243769258,
+  "progression": "i-IIIsus4-VII-VI-i-IIIsus4-VII-VI",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 15.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.452Z"
+}

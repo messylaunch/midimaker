@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0816",
+  "name": "Yearbook Garden 816",
+  "genre": "reggae",
+  "mood": "nostalgic",
+  "bpm": 81,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1374077764,
+  "progression": "IVmaj9-Imaj7-V7-vi9-IVmaj9-Imaj7-V7-vi9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 16.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.148Z"
+}

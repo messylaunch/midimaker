@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0457",
+  "name": "Longing Wave 457",
+  "genre": "gospel",
+  "mood": "emotional",
+  "bpm": 90,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1883052941,
+  "progression": "Imaj7-iii7-IVmaj7-V7-Imaj7-iii7-IVmaj7-V7-Imaj7-iii7-IVmaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.194Z"
+}

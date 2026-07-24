@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0002",
+  "name": "Veiled Static 002",
+  "genre": "hiphop",
+  "mood": "mysterious",
+  "bpm": 88,
+  "key": "F",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1029428246,
+  "progression": "i7-VIIsus4-VImaj7-VIImaj7-i7-VIIsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 8.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.428Z"
+}

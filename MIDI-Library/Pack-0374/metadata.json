@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0374",
+  "name": "Cool Groove 374",
+  "genre": "latin",
+  "mood": "chill",
+  "bpm": 95,
+  "key": "E",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 608104418,
+  "progression": "i-VI-VII-i-VI-VII-i",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.038Z"
+}

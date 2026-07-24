@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0228",
+  "name": "Fading Garden 228",
+  "genre": "reggae",
+  "mood": "sad",
+  "bpm": 72,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 2,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3898427088,
+  "progression": "i-v",
+  "phrasePlan": "AABB",
+  "noteDensity": 13,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.762Z"
+}

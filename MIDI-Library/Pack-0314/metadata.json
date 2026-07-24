@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0314",
+  "name": "Drifting Tempest 314",
+  "genre": "cinematic",
+  "mood": "chill",
+  "bpm": 62,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 289301614,
+  "progression": "Imaj7-vi7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.921Z"
+}

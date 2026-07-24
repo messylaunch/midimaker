@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0609",
+  "name": "Lucid Ember 609",
+  "genre": "videogame",
+  "mood": "dreamy",
+  "bpm": 119,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 2,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1624070501,
+  "progression": "i7-v7-iv7-VImaj9-i7-v7-iv7-VImaj9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 19,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.544Z"
+}

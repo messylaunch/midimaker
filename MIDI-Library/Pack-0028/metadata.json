@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0028",
+  "name": "Monolith Static 028",
+  "genre": "rock",
+  "mood": "epic",
+  "bpm": 117,
+  "key": "F",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1327786024,
+  "progression": "vi9-IV-Imaj9-V9-vi9-IV-Imaj9-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 20.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.474Z"
+}

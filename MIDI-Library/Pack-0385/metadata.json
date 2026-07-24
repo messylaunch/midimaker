@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0385",
+  "name": "Venom Ritual 385",
+  "genre": "rock",
+  "mood": "aggressive",
+  "bpm": 130,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 8,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4032504901,
+  "progression": "i7-VI-III-VII-i7-VI-III-VII",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.055Z"
+}

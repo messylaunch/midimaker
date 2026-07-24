@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0944",
+  "name": "Summit Mirage 944",
+  "genre": "cinematic",
+  "mood": "epic",
+  "bpm": 104,
+  "key": "A",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 8,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1839569860,
+  "progression": "I-bVI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 7,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.529Z"
+}

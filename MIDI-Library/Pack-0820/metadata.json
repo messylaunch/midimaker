@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0820",
+  "name": "Sepia Avenue 820",
+  "genre": "trap",
+  "mood": "nostalgic",
+  "bpm": 134,
+  "key": "A",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3364154752,
+  "progression": "i-v",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.159Z"
+}

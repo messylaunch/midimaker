@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0474",
+  "name": "Ruthless Prism 474",
+  "genre": "synthwave",
+  "mood": "aggressive",
+  "bpm": 110,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4085413582,
+  "progression": "i7-VImaj9-IIImaj9-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.233Z"
+}

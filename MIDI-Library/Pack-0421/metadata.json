@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0421",
+  "name": "Soft Fable 421",
+  "genre": "trap",
+  "mood": "chill",
+  "bpm": 141,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 806225761,
+  "progression": "i7-v-VI-iv7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 7.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.120Z"
+}

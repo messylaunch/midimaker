@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0829",
+  "name": "Onyx Groove 829",
+  "genre": "house",
+  "mood": "dark",
+  "bpm": 122,
+  "key": "F",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1485845849,
+  "progression": "i7-iv7-VIsus4-VIIsus4-i7-iv7-VIsus4-VIIsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 35.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.188Z"
+}

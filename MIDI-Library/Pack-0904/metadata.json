@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0904",
+  "name": "Silk Tempest 904",
+  "genre": "trap",
+  "mood": "romantic",
+  "bpm": 159,
+  "key": "G#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3000016508,
+  "progression": "i9-iv9-i7-bIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.411Z"
+}

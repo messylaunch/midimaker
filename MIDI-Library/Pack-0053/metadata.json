@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0053",
+  "name": "Lazy Lantern 053",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 128,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3226015441,
+  "progression": "i-iv-VIImaj7-III-i-iv",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 20.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.503Z"
+}

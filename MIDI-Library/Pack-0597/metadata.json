@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0597",
+  "name": "Cassette Canyon 597",
+  "genre": "electronic",
+  "mood": "nostalgic",
+  "bpm": 125,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4134268593,
+  "progression": "Imaj9-V9-vi7-IVmaj7-Imaj9-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.508Z"
+}

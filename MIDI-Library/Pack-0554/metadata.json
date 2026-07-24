@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0554",
+  "name": "Empire Groove 554",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 108,
+  "key": "D#",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1698201214,
+  "progression": "I-V7-bVII-IV-I-V7-bVII-IV",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 16.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.407Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0330",
+  "name": "Monolith Fable 330",
+  "genre": "country",
+  "mood": "epic",
+  "bpm": 99,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4072143198,
+  "progression": "vi9-V7-IVmaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 11.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.955Z"
+}

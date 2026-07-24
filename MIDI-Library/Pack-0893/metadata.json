@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0893",
+  "name": "Smooth Mosaic 893",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 130,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3870710041,
+  "progression": "i7-VI-IIIsus4-iv-i7-VI-IIIsus4-iv",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.374Z"
+}

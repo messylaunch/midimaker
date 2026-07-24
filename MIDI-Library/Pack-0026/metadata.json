@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0026",
+  "name": "Deep Canyon 026",
+  "genre": "soul",
+  "mood": "emotional",
+  "bpm": 74,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 278363278,
+  "progression": "i7-VII-i7-VI-i7-VII-i7-VI-i7-VII-i7-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.471Z"
+}

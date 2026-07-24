@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0223",
+  "name": "Midnight Circuit 223",
+  "genre": "disco",
+  "mood": "dark",
+  "bpm": 117,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3546687067,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 28.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.753Z"
+}

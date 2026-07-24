@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0799",
+  "name": "Horizon Harbor 799",
+  "genre": "trap",
+  "mood": "epic",
+  "bpm": 128,
+  "key": "C#",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3457280027,
+  "progression": "i7-VImaj9-i7-VIImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.095Z"
+}

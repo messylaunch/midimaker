@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0435",
+  "name": "Tender Skyline 435",
+  "genre": "country",
+  "mood": "emotional",
+  "bpm": 100,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3648446647,
+  "progression": "ii-V-I-vi-ii-V-I-vi",
+  "phrasePlan": "AABB",
+  "noteDensity": 18,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.149Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0023",
+  "name": "Deep Machine 023",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 85,
+  "key": "A",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 936298899,
+  "progression": "i-iv7-VII-III",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.466Z"
+}

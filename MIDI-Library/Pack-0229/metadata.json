@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0229",
+  "name": "Lucid Echo 229",
+  "genre": "afrobeats",
+  "mood": "dreamy",
+  "bpm": 101,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2259352609,
+  "progression": "ii-V-Imaj7-vi-ii-V-Imaj7-vi",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 9.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.763Z"
+}

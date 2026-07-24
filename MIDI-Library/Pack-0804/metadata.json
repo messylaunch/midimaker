@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0804",
+  "name": "Velvet Machine 804",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 101,
+  "key": "C#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 10,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3876522128,
+  "progression": "I-V-vi7-IV",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.109Z"
+}

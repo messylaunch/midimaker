@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0808",
+  "name": "Easy Prism 808",
+  "genre": "house",
+  "mood": "chill",
+  "bpm": 120,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1580020188,
+  "progression": "i-VII-VI-VIImaj7-i-VII-VI-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.121Z"
+}

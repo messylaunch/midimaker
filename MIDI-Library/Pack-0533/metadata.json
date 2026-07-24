@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0533",
+  "name": "Easy Tide 533",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 113,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1756723953,
+  "progression": "Imaj9-IVmaj7-vi7-V9-Imaj9-IVmaj7-vi7-V9",
+  "phrasePlan": "AABB",
+  "noteDensity": 16.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.355Z"
+}

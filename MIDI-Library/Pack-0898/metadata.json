@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0898",
+  "name": "Glowing Tempest 898",
+  "genre": "gospel",
+  "mood": "warm",
+  "bpm": 68,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4289591702,
+  "progression": "I-bVII-IV-iv",
+  "phrasePlan": "callResponse",
+  "noteDensity": 8.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.386Z"
+}

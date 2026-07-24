@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0756",
+  "name": "Lucid Garden 756",
+  "genre": "videogame",
+  "mood": "dreamy",
+  "bpm": 105,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 988182976,
+  "progression": "i7-bIImaj7-VImaj7-V-i7-bIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.964Z"
+}

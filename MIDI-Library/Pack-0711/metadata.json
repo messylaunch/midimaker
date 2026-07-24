@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0711",
+  "name": "Brutal Circuit 711",
+  "genre": "reggae",
+  "mood": "aggressive",
+  "bpm": 95,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1831329251,
+  "progression": "i7-iv-VI-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.824Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0556",
+  "name": "Thunder Pulse 556",
+  "genre": "house",
+  "mood": "epic",
+  "bpm": 125,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2705943320,
+  "progression": "i7-iv7-VII-VImaj7-i7-iv7-VII-VImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 25.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.411Z"
+}

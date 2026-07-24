@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0209",
+  "name": "Brutal Echo 209",
+  "genre": "cinematic",
+  "mood": "aggressive",
+  "bpm": 88,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 712998645,
+  "progression": "i-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.730Z"
+}

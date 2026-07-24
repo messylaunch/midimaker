@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0662",
+  "name": "Cassette Bloom 662",
+  "genre": "dance",
+  "mood": "nostalgic",
+  "bpm": 127,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 574720194,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 46.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.678Z"
+}

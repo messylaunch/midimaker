@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0095",
+  "name": "Misty Voyage 095",
+  "genre": "dance",
+  "mood": "dreamy",
+  "bpm": 139,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3080916955,
+  "progression": "IVmaj7-Imaj7-V9-vi9-IVmaj7-Imaj7-V9-vi9",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 18.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.551Z"
+}

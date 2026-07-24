@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0064",
+  "name": "Veiled Static 064",
+  "genre": "trap",
+  "mood": "mysterious",
+  "bpm": 140,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2364230452,
+  "progression": "i7-v9-VImaj7-iv7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.514Z"
+}

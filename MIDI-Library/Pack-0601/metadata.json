@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0601",
+  "name": "Summer Drift 601",
+  "genre": "disco",
+  "mood": "nostalgic",
+  "bpm": 113,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1896454141,
+  "progression": "IV-I-V-vi-IV-I-V-vi",
+  "phrasePlan": "AABB",
+  "noteDensity": 27.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.520Z"
+}

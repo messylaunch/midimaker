@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0845",
+  "name": "Charged Echo 845",
+  "genre": "soul",
+  "mood": "energetic",
+  "bpm": 86,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1009355337,
+  "progression": "i7-iv7-VII-III-i7-iv7-VII-III-i7-iv7-VII-III",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.241Z"
+}

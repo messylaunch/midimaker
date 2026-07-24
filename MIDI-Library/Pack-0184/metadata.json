@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0184",
+  "name": "Honest Skyline 184",
+  "genre": "gospel",
+  "mood": "emotional",
+  "bpm": 108,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3068809292,
+  "progression": "I-IV-Imaj7-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.694Z"
+}

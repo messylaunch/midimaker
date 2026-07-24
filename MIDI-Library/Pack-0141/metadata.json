@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0141",
+  "name": "Aching Anthem 141",
+  "genre": "country",
+  "mood": "emotional",
+  "bpm": 121,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 9,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 633020681,
+  "progression": "I-bVIImaj9-IVmaj7-Isus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.624Z"
+}

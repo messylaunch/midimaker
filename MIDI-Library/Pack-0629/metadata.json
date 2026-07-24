@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0629",
+  "name": "Racing Drift 629",
+  "genre": "cinematic",
+  "mood": "energetic",
+  "bpm": 84,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3212368017,
+  "progression": "i7-VImaj7-VIImaj7-i7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.596Z"
+}

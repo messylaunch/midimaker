@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0939",
+  "name": "Sweet Mirage 939",
+  "genre": "country",
+  "mood": "romantic",
+  "bpm": 116,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1414429519,
+  "progression": "Imaj9-V7-bVIImaj7-IVmaj9-Imaj9-V7-bVIImaj7-IVmaj9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.518Z"
+}

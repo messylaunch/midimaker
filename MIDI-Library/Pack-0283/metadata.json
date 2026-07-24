@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0283",
+  "name": "Blushing Fable 283",
+  "genre": "house",
+  "mood": "romantic",
+  "bpm": 122,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3865485791,
+  "progression": "i7-VImaj7-iv7-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 34.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.856Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0083",
+  "name": "Nocturne Bloom 083",
+  "genre": "cinematic",
+  "mood": "dark",
+  "bpm": 69,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1254707991,
+  "progression": "i-bIImaj7-i9-VIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 12.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.536Z"
+}

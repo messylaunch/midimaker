@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0180",
+  "name": "Thunder Signal 180",
+  "genre": "synthwave",
+  "mood": "epic",
+  "bpm": 98,
+  "key": "F#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1043642112,
+  "progression": "i7-VImaj9-VIImaj7-v9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.689Z"
+}

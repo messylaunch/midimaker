@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0486",
+  "name": "Velvet Season 486",
+  "genre": "pop",
+  "mood": "chill",
+  "bpm": 100,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1550066034,
+  "progression": "i7-III-VII-VI-i7-III-VII-VI",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.259Z"
+}

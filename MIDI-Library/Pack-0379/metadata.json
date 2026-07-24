@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0379",
+  "name": "Easy Bloom 379",
+  "genre": "trap",
+  "mood": "chill",
+  "bpm": 138,
+  "key": "D#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1024724607,
+  "progression": "i-VIsus4-VII-i7-i-VIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.045Z"
+}

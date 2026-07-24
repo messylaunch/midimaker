@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0292",
+  "name": "Kinetic Canyon 292",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 113,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1987308176,
+  "progression": "i-VII-VIsus4-VIImaj7-i-VII-VIsus4-VIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 30.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.873Z"
+}

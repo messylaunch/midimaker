@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0258",
+  "name": "Fading Comet 258",
+  "genre": "funk",
+  "mood": "sad",
+  "bpm": 104,
+  "key": "G#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 3,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1927119638,
+  "progression": "i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 43.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.811Z"
+}

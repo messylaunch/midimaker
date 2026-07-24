@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0139",
+  "name": "Sunny Echo 139",
+  "genre": "disco",
+  "mood": "happy",
+  "bpm": 125,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3911857263,
+  "progression": "Imaj7-iv7-Isus4-Vsus4-Imaj7-iv7-Isus4-Vsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.622Z"
+}

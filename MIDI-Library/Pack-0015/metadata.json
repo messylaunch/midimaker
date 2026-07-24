@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0015",
+  "name": "Ignition Lantern 015",
+  "genre": "country",
+  "mood": "energetic",
+  "bpm": 128,
+  "key": "C",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1148519979,
+  "progression": "Imaj7-iii7-IVmaj9-V9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.456Z"
+}

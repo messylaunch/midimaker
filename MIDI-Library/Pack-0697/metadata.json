@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0697",
+  "name": "Grey Signal 697",
+  "genre": "rnb",
+  "mood": "sad",
+  "bpm": 81,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3292493213,
+  "progression": "i7-IV7-VImaj7-V7-i7-IV7-VImaj7-V7-i7-IV7-VImaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 32.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.785Z"
+}

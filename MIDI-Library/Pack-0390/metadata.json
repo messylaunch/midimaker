@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0390",
+  "name": "Arcane Meadow 390",
+  "genre": "synthwave",
+  "mood": "mysterious",
+  "bpm": 88,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 162940114,
+  "progression": "i7-VImaj7-VIIsus4-v9",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.064Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0681",
+  "name": "Polaroid Season 681",
+  "genre": "electronic",
+  "mood": "nostalgic",
+  "bpm": 120,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3769077933,
+  "progression": "i-VI-VIImaj7-i-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.739Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0065",
+  "name": "Cryptic Pulse 065",
+  "genre": "hiphop",
+  "mood": "mysterious",
+  "bpm": 99,
+  "key": "C",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 757121669,
+  "progression": "i7-v-VI-IIImaj7-i7-v",
+  "phrasePlan": "callResponse",
+  "noteDensity": 21.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.515Z"
+}

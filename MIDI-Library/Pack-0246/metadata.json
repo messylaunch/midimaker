@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0246",
+  "name": "Moonlit Prism 246",
+  "genre": "country",
+  "mood": "romantic",
+  "bpm": 91,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 142333794,
+  "progression": "Imaj7-vi7-IVmaj7-V7-Imaj7-vi7-IVmaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 26.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.791Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0460",
+  "name": "Empire Comet 460",
+  "genre": "afrobeats",
+  "mood": "epic",
+  "bpm": 99,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1251708280,
+  "progression": "I-vi7-IV-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 29.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.200Z"
+}

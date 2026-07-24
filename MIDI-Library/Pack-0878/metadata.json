@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0878",
+  "name": "Honest Fable 878",
+  "genre": "latin",
+  "mood": "emotional",
+  "bpm": 96,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2742450810,
+  "progression": "i7-bIImaj7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 20.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.334Z"
+}

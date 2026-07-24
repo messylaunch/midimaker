@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0173",
+  "name": "Savage Wave 173",
+  "genre": "soul",
+  "mood": "aggressive",
+  "bpm": 73,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3930594281,
+  "progression": "i-VI-VIImaj7-i-VI-VIImaj7-i-VI-VIImaj7-i",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.679Z"
+}

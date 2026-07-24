@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0566",
+  "name": "Nocturne Groove 566",
+  "genre": "cinematic",
+  "mood": "dark",
+  "bpm": 89,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3482462754,
+  "progression": "i7-iv7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 6.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.431Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0733",
+  "name": "Empire Meadow 733",
+  "genre": "afrobeats",
+  "mood": "epic",
+  "bpm": 107,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 98715833,
+  "progression": "i7-VImaj7-iv7-VIIsus4-i7-VImaj7-iv7-VIIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.891Z"
+}

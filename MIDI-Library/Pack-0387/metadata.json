@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0387",
+  "name": "Labyrinth Garden 387",
+  "genre": "electronic",
+  "mood": "mysterious",
+  "bpm": 124,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 753521127,
+  "progression": "i9-iv7-VIImaj7-IIImaj9-i9-iv7-VIImaj7-IIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 19.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.059Z"
+}

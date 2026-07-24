@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0698",
+  "name": "Lazy Circuit 698",
+  "genre": "soul",
+  "mood": "chill",
+  "bpm": 87,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 6,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1651829742,
+  "progression": "i7-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.787Z"
+}

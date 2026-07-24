@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0478",
+  "name": "Velour Meadow 478",
+  "genre": "gospel",
+  "mood": "romantic",
+  "bpm": 110,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1788878602,
+  "progression": "Imaj9-iii7-IVmaj7-V7-Imaj9-iii7-IVmaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.241Z"
+}

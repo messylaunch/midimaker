@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0254",
+  "name": "Distant Groove 254",
+  "genre": "hiphop",
+  "mood": "sad",
+  "bpm": 92,
+  "key": "D#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4198472426,
+  "progression": "i-v-VI-IIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.804Z"
+}

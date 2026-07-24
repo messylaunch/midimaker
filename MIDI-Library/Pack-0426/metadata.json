@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0426",
+  "name": "Summit Fable 426",
+  "genre": "funk",
+  "mood": "epic",
+  "bpm": 110,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1231398910,
+  "progression": "i7-bIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 50.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.131Z"
+}

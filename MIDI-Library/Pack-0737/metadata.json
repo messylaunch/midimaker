@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0737",
+  "name": "Bare Vision 737",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 97,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2088792549,
+  "progression": "i7-VI-III-VII-i7-VI-III-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 10.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.912Z"
+}

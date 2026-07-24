@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0674",
+  "name": "Riot Harbor 674",
+  "genre": "hiphop",
+  "mood": "aggressive",
+  "bpm": 88,
+  "key": "B",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2403025782,
+  "progression": "i-v-VI-IIIsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.717Z"
+}

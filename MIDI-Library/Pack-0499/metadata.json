@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0499",
+  "name": "Sweet Wave 499",
+  "genre": "gospel",
+  "mood": "romantic",
+  "bpm": 87,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1729565559,
+  "progression": "Imaj7-iii-IVsus4-V9-Imaj7-iii-IVsus4-V9-Imaj7-iii-IVsus4-V9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.285Z"
+}

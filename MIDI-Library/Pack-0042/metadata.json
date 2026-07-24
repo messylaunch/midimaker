@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0042",
+  "name": "Thunder Ember 042",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 156,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4096577662,
+  "progression": "i-iv-VII-III-i-iv-VII-III",
+  "phrasePlan": "AABB",
+  "noteDensity": 39.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.491Z"
+}

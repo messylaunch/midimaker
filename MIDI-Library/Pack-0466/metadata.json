@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0466",
+  "name": "Titan Voyage 466",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 72,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 30319430,
+  "progression": "i9-iv7-VII-IIImaj7-i9-iv7-VII-IIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.216Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0311",
+  "name": "Vintage Circuit 311",
+  "genre": "latin",
+  "mood": "nostalgic",
+  "bpm": 111,
+  "key": "A#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 877785459,
+  "progression": "i-VImaj7-iv7-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 26.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.914Z"
+}

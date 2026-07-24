@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0647",
+  "name": "Summit Ember 647",
+  "genre": "latin",
+  "mood": "epic",
+  "bpm": 111,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3741428003,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.642Z"
+}

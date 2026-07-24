@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0865",
+  "name": "Olympus Groove 865",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 64,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 4,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2554792037,
+  "progression": "i7-bIImaj7-i7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.290Z"
+}

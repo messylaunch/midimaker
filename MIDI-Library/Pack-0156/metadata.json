@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0156",
+  "name": "Rainy Season 156",
+  "genre": "electronic",
+  "mood": "sad",
+  "bpm": 135,
+  "key": "F",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1761280168,
+  "progression": "i9-iv7-VImaj7-V7-i9-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.650Z"
+}

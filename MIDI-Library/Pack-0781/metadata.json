@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0781",
+  "name": "Soft Tempest 781",
+  "genre": "rnb",
+  "mood": "chill",
+  "bpm": 82,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 7,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2919982985,
+  "progression": "i7-VImaj7-IIImaj9-VIImaj7-i7-VImaj7-IIImaj9-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.041Z"
+}

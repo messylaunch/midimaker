@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0012",
+  "name": "Winter Drift 012",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 98,
+  "key": "D",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1806471992,
+  "progression": "i-bIIsus4-VI-VII-i-bIIsus4-VI-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 18.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.450Z"
+}

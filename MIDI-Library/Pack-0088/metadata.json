@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0088",
+  "name": "Faded Drift 088",
+  "genre": "rnb",
+  "mood": "nostalgic",
+  "bpm": 90,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1646588844,
+  "progression": "IVmaj7-iii7-ii7-Imaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 9.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.542Z"
+}

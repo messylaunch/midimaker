@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0641",
+  "name": "Ruthless Wave 641",
+  "genre": "dance",
+  "mood": "aggressive",
+  "bpm": 131,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 701666117,
+  "progression": "i7-IIImaj9-VIImaj7-VImaj7-i7-IIImaj9-VIImaj7-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 32.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.628Z"
+}

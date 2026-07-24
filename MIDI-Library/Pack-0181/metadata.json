@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0181",
+  "name": "Blazing Drift 181",
+  "genre": "disco",
+  "mood": "energetic",
+  "bpm": 111,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3691785553,
+  "progression": "IV-I-V-vi",
+  "phrasePlan": "AABB",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.690Z"
+}

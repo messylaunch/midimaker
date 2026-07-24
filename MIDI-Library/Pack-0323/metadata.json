@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0323",
+  "name": "Sepia Groove 323",
+  "genre": "alternative",
+  "mood": "nostalgic",
+  "bpm": 135,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2664148263,
+  "progression": "i-iv-VII-IIIsus4",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.942Z"
+}

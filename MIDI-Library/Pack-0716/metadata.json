@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0716",
+  "name": "Open Prism 716",
+  "genre": "hiphop",
+  "mood": "uplifting",
+  "bpm": 99,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2182970488,
+  "progression": "Imaj7-bVImaj9-bVIImaj7-Imaj9-Imaj7-bVImaj9-bVIImaj7-Imaj9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.841Z"
+}

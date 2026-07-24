@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0037",
+  "name": "Yearbook Machine 037",
+  "genre": "gospel",
+  "mood": "nostalgic",
+  "bpm": 61,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3744575969,
+  "progression": "Imaj7-IVmaj9-vi9-V7-Imaj7-IVmaj9-vi9-V7-Imaj7-IVmaj9-vi9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.486Z"
+}

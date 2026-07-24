@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0863",
+  "name": "Warpath Ritual 863",
+  "genre": "hiphop",
+  "mood": "aggressive",
+  "bpm": 95,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 7,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1547050203,
+  "progression": "i-VII-VI-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.284Z"
+}

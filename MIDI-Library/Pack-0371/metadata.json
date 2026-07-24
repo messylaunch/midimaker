@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0371",
+  "name": "Kinetic Lantern 371",
+  "genre": "jazzpop",
+  "mood": "energetic",
+  "bpm": 100,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1263566071,
+  "progression": "Imaj7-bIIImaj7-bVImaj7-bIImaj7-Imaj7-bIIImaj7-bVImaj7-bIImaj7-Imaj7-bIIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 27.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.032Z"
+}

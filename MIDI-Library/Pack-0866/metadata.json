@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0866",
+  "name": "Olympus Mosaic 866",
+  "genre": "soul",
+  "mood": "epic",
+  "bpm": 79,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 916230070,
+  "progression": "i-VIImaj7-VI-VIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.296Z"
+}

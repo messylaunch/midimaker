@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0743",
+  "name": "Cassette Garden 743",
+  "genre": "alternative",
+  "mood": "nostalgic",
+  "bpm": 133,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 842471363,
+  "progression": "I-iii7-IV-V-I-iii7-IV-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 25.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.927Z"
+}

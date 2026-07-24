@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0995",
+  "name": "Sweet Mirage 995",
+  "genre": "alternative",
+  "mood": "romantic",
+  "bpm": 133,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4037598599,
+  "progression": "Imaj7-V-vi7-iii-Imaj7-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 11,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.675Z"
+}

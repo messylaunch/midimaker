@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0251",
+  "name": "Blushing Prism 251",
+  "genre": "cinematic",
+  "mood": "romantic",
+  "bpm": 65,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 558987263,
+  "progression": "i9-VImaj7-IIImaj9-iv7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.800Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0481",
+  "name": "Mellow Canyon 481",
+  "genre": "afrobeats",
+  "mood": "chill",
+  "bpm": 109,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1192133349,
+  "progression": "i9-VIImaj9-VIsus4-VIIsus4-i9-VIImaj9-VIsus4-VIIsus4",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.248Z"
+}

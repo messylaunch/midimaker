@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0413",
+  "name": "Longing Bloom 413",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 108,
+  "key": "G#",
+  "scale": "Melodic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 1,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1045067257,
+  "progression": "i7-VI7-iim7b5-V7-i7-VI7-iim7b5-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.106Z"
+}

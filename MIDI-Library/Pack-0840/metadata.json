@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0840",
+  "name": "Olympus Avenue 840",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 160,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 657615804,
+  "progression": "vi-IV-I-V-vi-IV-I-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.228Z"
+}

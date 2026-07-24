@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0403",
+  "name": "Feral Signal 403",
+  "genre": "rnb",
+  "mood": "aggressive",
+  "bpm": 91,
+  "key": "A#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 274847174,
+  "progression": "i7-v7-iv7-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.087Z"
+}

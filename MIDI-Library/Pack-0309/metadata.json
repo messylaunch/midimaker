@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0309",
+  "name": "Yearbook Bloom 309",
+  "genre": "country",
+  "mood": "nostalgic",
+  "bpm": 106,
+  "key": "A",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4190160337,
+  "progression": "Imaj7-V7-vi7-IVmaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.908Z"
+}

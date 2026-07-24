@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0586",
+  "name": "Floating Groove 586",
+  "genre": "afrobeats",
+  "mood": "dreamy",
+  "bpm": 103,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 734636126,
+  "progression": "Imaj7-V9-vi7-iii",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.483Z"
+}

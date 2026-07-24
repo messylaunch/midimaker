@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0040",
+  "name": "Voltage Avenue 040",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 112,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3114149084,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.489Z"
+}

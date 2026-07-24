@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0210",
+  "name": "Faded Tempest 210",
+  "genre": "videogame",
+  "mood": "nostalgic",
+  "bpm": 134,
+  "key": "A",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3367302214,
+  "progression": "I-V7-IV-I-V7-IV",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.733Z"
+}

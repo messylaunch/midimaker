@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0332",
+  "name": "Crimson Harbor 332",
+  "genre": "latin",
+  "mood": "romantic",
+  "bpm": 114,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 784660216,
+  "progression": "IVmaj7-Imaj7-V7-vi7-IVmaj7-Imaj7-V7-vi7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.960Z"
+}

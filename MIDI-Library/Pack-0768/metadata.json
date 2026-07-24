@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0768",
+  "name": "Drifting Garden 768",
+  "genre": "synthwave",
+  "mood": "chill",
+  "bpm": 90,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2807575668,
+  "progression": "i7-VI-III-VIIsus4-i7-VI-III-VIIsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.003Z"
+}

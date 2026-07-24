@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0367",
+  "name": "Lucid Canyon 367",
+  "genre": "house",
+  "mood": "dreamy",
+  "bpm": 126,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3501347787,
+  "progression": "I-II-IV-I-II-IV-I",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 26.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.025Z"
+}

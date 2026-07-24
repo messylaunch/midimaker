@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0298",
+  "name": "Polaroid Motion 298",
+  "genre": "rnb",
+  "mood": "nostalgic",
+  "bpm": 92,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 3,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 765890430,
+  "progression": "Imaj7-vi7-IVmaj7-V7-Imaj7-vi7-IVmaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.883Z"
+}

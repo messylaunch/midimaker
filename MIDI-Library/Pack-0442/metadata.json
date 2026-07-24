@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0442",
+  "name": "Velvet Tempest 442",
+  "genre": "trap",
+  "mood": "chill",
+  "bpm": 139,
+  "key": "F#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 721239278,
+  "progression": "i-v-VI-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 10,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.163Z"
+}

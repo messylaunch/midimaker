@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0717",
+  "name": "Misty Harbor 717",
+  "genre": "pop",
+  "mood": "dreamy",
+  "bpm": 98,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 543880137,
+  "progression": "Imaj7-IV-vi-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.845Z"
+}

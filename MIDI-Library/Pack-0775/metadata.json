@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0775",
+  "name": "Electric Groove 775",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 96,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4173611427,
+  "progression": "i-v-VImaj7-III-i-v-VImaj7-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 31.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.022Z"
+}

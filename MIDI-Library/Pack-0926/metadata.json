@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0926",
+  "name": "Velour Avenue 926",
+  "genre": "hiphop",
+  "mood": "romantic",
+  "bpm": 94,
+  "key": "E",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1302268234,
+  "progression": "i9-iv7-VIImaj7-IIImaj9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 10.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.474Z"
+}

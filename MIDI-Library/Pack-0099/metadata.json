@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0099",
+  "name": "Sepia Pulse 099",
+  "genre": "country",
+  "mood": "nostalgic",
+  "bpm": 118,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 776022023,
+  "progression": "vi7-IVmaj7-I-V-vi7-IVmaj7-I-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.556Z"
+}

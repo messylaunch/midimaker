@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0238",
+  "name": "Velour Machine 238",
+  "genre": "rock",
+  "mood": "romantic",
+  "bpm": 122,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 379979258,
+  "progression": "I-vi-IV-V-I-vi-IV-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 37.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.777Z"
+}

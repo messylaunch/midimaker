@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0708",
+  "name": "Misty Season 708",
+  "genre": "country",
+  "mood": "dreamy",
+  "bpm": 102,
+  "key": "A#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2421795568,
+  "progression": "vi9-IVmaj7-Imaj9-V7-vi9-IVmaj7-Imaj9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.814Z"
+}

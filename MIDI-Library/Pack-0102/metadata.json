@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0102",
+  "name": "Polaroid Meadow 102",
+  "genre": "reggae",
+  "mood": "nostalgic",
+  "bpm": 90,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 187653106,
+  "progression": "I-V7-vi-IV-I-V7-vi-IV",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.559Z"
+}

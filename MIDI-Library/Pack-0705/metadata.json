@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0705",
+  "name": "Labyrinth Circuit 705",
+  "genre": "synthwave",
+  "mood": "mysterious",
+  "bpm": 107,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 8,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3086157573,
+  "progression": "i7-VIImaj9-VImaj9-iv7-i7-VIImaj9-VImaj9-iv7",
+  "phrasePlan": "AABB",
+  "noteDensity": 17,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.808Z"
+}

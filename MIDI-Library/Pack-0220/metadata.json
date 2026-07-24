@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0220",
+  "name": "Midnight Season 220",
+  "genre": "house",
+  "mood": "dark",
+  "bpm": 124,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4137268072,
+  "progression": "i7-VImaj7-iv7-VIIsus4",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 25,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.748Z"
+}

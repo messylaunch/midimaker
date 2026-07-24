@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0257",
+  "name": "Crimson Motion 257",
+  "genre": "soul",
+  "mood": "romantic",
+  "bpm": 89,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3565424069,
+  "progression": "vi7-IVmaj7-Imaj7-V-vi7-IVmaj7-Imaj7-V-vi7-IVmaj7-Imaj7-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 17,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.810Z"
+}

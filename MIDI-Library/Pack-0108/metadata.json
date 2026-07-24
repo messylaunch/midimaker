@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0108",
+  "name": "Cool Harbor 108",
+  "genre": "pop",
+  "mood": "chill",
+  "bpm": 122,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3193074136,
+  "progression": "i7-iv-VIImaj9-III-i7-iv-VIImaj9-III",
+  "phrasePlan": "longNotes",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.566Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0477",
+  "name": "Candy Voyage 477",
+  "genre": "country",
+  "mood": "happy",
+  "bpm": 105,
+  "key": "F",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3429407161,
+  "progression": "IV-I-V-vi7-IV-I-V-vi7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.239Z"
+}

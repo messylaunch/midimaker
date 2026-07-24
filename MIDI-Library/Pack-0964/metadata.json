@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0964",
+  "name": "Lazy Lantern 964",
+  "genre": "afrobeats",
+  "mood": "chill",
+  "bpm": 96,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3386055152,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.588Z"
+}

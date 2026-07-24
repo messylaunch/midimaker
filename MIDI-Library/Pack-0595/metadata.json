@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0595",
+  "name": "Polaroid Ember 595",
+  "genre": "rock",
+  "mood": "nostalgic",
+  "bpm": 118,
+  "key": "F#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3151687959,
+  "progression": "i7-VImaj9-IIImaj7-VIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.502Z"
+}

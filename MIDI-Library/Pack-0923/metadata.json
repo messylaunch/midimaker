@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0923",
+  "name": "Hollow Comet 923",
+  "genre": "cinematic",
+  "mood": "sad",
+  "bpm": 105,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1932977759,
+  "progression": "i-VII",
+  "phrasePlan": "longNotes",
+  "noteDensity": 7.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.465Z"
+}

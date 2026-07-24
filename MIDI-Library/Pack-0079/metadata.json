@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0079",
+  "name": "Ascending Mirage 079",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 87,
+  "key": "C",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3526077163,
+  "progression": "Imaj7-iii-IV-Vsus4-Imaj7-iii-IV-Vsus4-Imaj7-iii-IV-Vsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 22.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.531Z"
+}

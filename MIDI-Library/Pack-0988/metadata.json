@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0988",
+  "name": "Kinetic Fable 988",
+  "genre": "trap",
+  "mood": "energetic",
+  "bpm": 153,
+  "key": "A",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2670493800,
+  "progression": "i7-VImaj7-IIImaj7-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 10.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.657Z"
+}

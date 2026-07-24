@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0970",
+  "name": "Longing Groove 970",
+  "genre": "rnb",
+  "mood": "emotional",
+  "bpm": 95,
+  "key": "D",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2131115998,
+  "progression": "i9-iv7-VII-IIImaj7-i9-iv7-VII-IIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 26.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.606Z"
+}

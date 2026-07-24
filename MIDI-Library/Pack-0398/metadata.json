@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0398",
+  "name": "Vintage Ritual 398",
+  "genre": "cinematic",
+  "mood": "nostalgic",
+  "bpm": 95,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4211742298,
+  "progression": "i-III-VII-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 7.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.076Z"
+}

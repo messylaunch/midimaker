@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0592",
+  "name": "Hazy Ritual 592",
+  "genre": "rnb",
+  "mood": "dreamy",
+  "bpm": 71,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3783020068,
+  "progression": "Imaj7-bIIImaj7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 9.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.497Z"
+}

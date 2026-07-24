@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0817",
+  "name": "Fading Meadow 817",
+  "genre": "afrobeats",
+  "mood": "sad",
+  "bpm": 114,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3997072021,
+  "progression": "i7-VI-VIImaj7-i-i7-VI-VIImaj7-i",
+  "phrasePlan": "callResponse",
+  "noteDensity": 27.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.151Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0449",
+  "name": "Pastel Ember 449",
+  "genre": "alternative",
+  "mood": "dreamy",
+  "bpm": 128,
+  "key": "G#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2121877509,
+  "progression": "i7-iv7-VImaj9-V9-i7-iv7-VImaj9-V9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 19.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.178Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0821",
+  "name": "Lucid Groove 821",
+  "genre": "hiphop",
+  "mood": "dreamy",
+  "bpm": 98,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1725719505,
+  "progression": "i-v-VImaj7-IIIsus4-i-v",
+  "phrasePlan": "callResponse",
+  "noteDensity": 7.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.162Z"
+}

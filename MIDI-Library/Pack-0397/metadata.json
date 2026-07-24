@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0397",
+  "name": "Rose Tempest 397",
+  "genre": "afrobeats",
+  "mood": "romantic",
+  "bpm": 102,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1563594761,
+  "progression": "i-bII-VI-V-i-bII-VI-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.074Z"
+}

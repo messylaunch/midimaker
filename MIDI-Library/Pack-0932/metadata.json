@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0932",
+  "name": "Distant Groove 932",
+  "genre": "alternative",
+  "mood": "sad",
+  "bpm": 118,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 12726032,
+  "progression": "i7-v7-iv7-VImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 4.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.491Z"
+}

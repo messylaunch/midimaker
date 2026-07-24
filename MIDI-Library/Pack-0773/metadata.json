@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0773",
+  "name": "Turbo Ember 773",
+  "genre": "latin",
+  "mood": "energetic",
+  "bpm": 108,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3166131201,
+  "progression": "i-iv-VIImaj7-III-i-iv-VIImaj7-III",
+  "phrasePlan": "AABB",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.016Z"
+}

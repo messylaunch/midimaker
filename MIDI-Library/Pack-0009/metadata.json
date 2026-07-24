@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0009",
+  "name": "Tender Voyage 009",
+  "genre": "electronic",
+  "mood": "emotional",
+  "bpm": 123,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2395365453,
+  "progression": "i-VIImaj7-i-VIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.445Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0355",
+  "name": "Rainy Wave 355",
+  "genre": "afrobeats",
+  "mood": "sad",
+  "bpm": 96,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 3,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1742268167,
+  "progression": "i-VImaj7-VIIsus4-i-VImaj7-VIIsus4-i",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.002Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0766",
+  "name": "Sweet Bloom 766",
+  "genre": "house",
+  "mood": "romantic",
+  "bpm": 121,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1758148842,
+  "progression": "i-VI-i-VII-i-VI-i-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.995Z"
+}

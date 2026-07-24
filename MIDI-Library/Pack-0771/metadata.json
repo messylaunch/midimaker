@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0771",
+  "name": "Hazy Machine 771",
+  "genre": "country",
+  "mood": "dreamy",
+  "bpm": 103,
+  "key": "E",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2150016871,
+  "progression": "IV-I-V-vi-IV-I-V-vi",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 19.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.011Z"
+}

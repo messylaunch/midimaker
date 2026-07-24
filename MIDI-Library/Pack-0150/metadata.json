@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0150",
+  "name": "Mellow Motion 150",
+  "genre": "pop",
+  "mood": "chill",
+  "bpm": 113,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3048499906,
+  "progression": "Isus4-V-vi-iii-Isus4-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 8.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.638Z"
+}

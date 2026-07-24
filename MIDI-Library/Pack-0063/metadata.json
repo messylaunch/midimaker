@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0063",
+  "name": "Olympus Motion 063",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 159,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 7,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4002665979,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 24.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.513Z"
+}

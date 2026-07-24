@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0740",
+  "name": "Riot Skyline 740",
+  "genre": "soul",
+  "mood": "aggressive",
+  "bpm": 97,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1500439760,
+  "progression": "i-bII-VI-V-i-bII-VI-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.921Z"
+}

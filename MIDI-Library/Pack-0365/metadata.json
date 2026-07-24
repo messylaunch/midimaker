@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0365",
+  "name": "Honest Vision 365",
+  "genre": "alternative",
+  "mood": "emotional",
+  "bpm": 100,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2486019625,
+  "progression": "i9-iv7-VImaj7-V7-i9-iv7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 17,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.021Z"
+}

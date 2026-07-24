@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0456",
+  "name": "Summer Anthem 456",
+  "genre": "country",
+  "mood": "nostalgic",
+  "bpm": 98,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3555058748,
+  "progression": "I-vi7-IVmaj7-V9-I-vi7-IVmaj7-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 9.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.193Z"
+}

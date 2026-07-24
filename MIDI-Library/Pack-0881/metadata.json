@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0881",
+  "name": "Kinetic Static 881",
+  "genre": "cinematic",
+  "mood": "energetic",
+  "bpm": 80,
+  "key": "F#",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2111630677,
+  "progression": "i-iv-VIImaj7-III",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.341Z"
+}

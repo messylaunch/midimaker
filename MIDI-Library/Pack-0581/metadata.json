@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0581",
+  "name": "Open Anthem 581",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 102,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 5,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 315754945,
+  "progression": "iim7b5-V7-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.472Z"
+}

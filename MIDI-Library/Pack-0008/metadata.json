@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0008",
+  "name": "Velvet Tide 008",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 125,
+  "key": "F#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4035898108,
+  "progression": "i-VI-IIImaj7-VII-i-VI-IIImaj7-VII",
+  "phrasePlan": "longNotes",
+  "noteDensity": 6.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.444Z"
+}

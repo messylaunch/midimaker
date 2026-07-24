@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0646",
+  "name": "Sunny Prism 646",
+  "genre": "gospel",
+  "mood": "happy",
+  "bpm": 62,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1053307858,
+  "progression": "Imaj7-IVmaj7-vi-V9",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.640Z"
+}

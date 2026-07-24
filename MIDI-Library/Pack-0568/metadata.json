@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0568",
+  "name": "Rainy Mosaic 568",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 129,
+  "key": "F#",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 170076108,
+  "progression": "i-v",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.439Z"
+}

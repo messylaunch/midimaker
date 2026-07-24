@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0723",
+  "name": "Lucid Circuit 723",
+  "genre": "electronic",
+  "mood": "dreamy",
+  "bpm": 124,
+  "key": "G#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3617163671,
+  "progression": "i-v7-VImaj7-IIImaj9-i-v7-VImaj7-IIImaj9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 30.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.863Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0689",
+  "name": "Kinetic Bloom 689",
+  "genre": "latin",
+  "mood": "energetic",
+  "bpm": 110,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 4,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3531317781,
+  "progression": "i7-bIImaj7-i9-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.763Z"
+}

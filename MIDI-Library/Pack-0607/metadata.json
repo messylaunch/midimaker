@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0607",
+  "name": "Racing Motion 607",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 102,
+  "key": "D#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 616345051,
+  "progression": "I-IV-Imaj7-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.541Z"
+}

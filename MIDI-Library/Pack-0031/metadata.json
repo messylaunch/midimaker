@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0031",
+  "name": "Arcane Bloom 031",
+  "genre": "house",
+  "mood": "mysterious",
+  "bpm": 120,
+  "key": "F#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 696425243,
+  "progression": "i7-bIIsus4-VIImaj7-i7-bIIsus4-VIImaj7-i7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 24.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.478Z"
+}

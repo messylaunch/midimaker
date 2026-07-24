@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0531",
+  "name": "Honest Season 531",
+  "genre": "funk",
+  "mood": "emotional",
+  "bpm": 110,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 740576599,
+  "progression": "I-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.352Z"
+}

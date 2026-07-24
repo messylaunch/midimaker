@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0938",
+  "name": "Golden Wave 938",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 104,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3061237246,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 24.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.516Z"
+}

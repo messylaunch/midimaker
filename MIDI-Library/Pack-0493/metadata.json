@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0493",
+  "name": "Horizon Voyage 493",
+  "genre": "house",
+  "mood": "epic",
+  "bpm": 125,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2984279721,
+  "progression": "i7-VImaj9-i-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.272Z"
+}

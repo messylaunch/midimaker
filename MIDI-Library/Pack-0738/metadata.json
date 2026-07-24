@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0738",
+  "name": "Sparkling Lantern 738",
+  "genre": "pop",
+  "mood": "happy",
+  "bpm": 125,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 450492214,
+  "progression": "Imaj7-bVII-IV-Imaj9-Imaj7-bVII",
+  "phrasePlan": "AABB",
+  "noteDensity": 40.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.917Z"
+}

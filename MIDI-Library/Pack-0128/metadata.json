@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0128",
+  "name": "Weightless Season 128",
+  "genre": "hiphop",
+  "mood": "dreamy",
+  "bpm": 91,
+  "key": "F",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 445251572,
+  "progression": "i9-VImaj7-VIImaj7-i7-i9-VImaj7-VIImaj7-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.603Z"
+}

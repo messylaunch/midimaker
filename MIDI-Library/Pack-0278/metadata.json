@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0278",
+  "name": "Phantom Season 278",
+  "genre": "soul",
+  "mood": "dark",
+  "bpm": 91,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3507159362,
+  "progression": "i-bII-i9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.845Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0754",
+  "name": "Radiant Lantern 754",
+  "genre": "afrobeats",
+  "mood": "uplifting",
+  "bpm": 106,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4266740774,
+  "progression": "I-bVII-IVmaj7-Imaj7-I-bVII-IVmaj7-Imaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.959Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0969",
+  "name": "Silk Anthem 969",
+  "genre": "pop",
+  "mood": "romantic",
+  "bpm": 102,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3738089869,
+  "progression": "i-VII-VI-VII-i-VII-VI-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 11.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.599Z"
+}

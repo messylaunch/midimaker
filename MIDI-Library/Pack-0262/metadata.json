@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0262",
+  "name": "Arcane Tempest 262",
+  "genre": "house",
+  "mood": "mysterious",
+  "bpm": 120,
+  "key": "F#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3992169554,
+  "progression": "i-VI-i7-VII-i-VI-i7-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 19.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.817Z"
+}

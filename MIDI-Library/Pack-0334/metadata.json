@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0334",
+  "name": "Rose Pulse 334",
+  "genre": "afrobeats",
+  "mood": "romantic",
+  "bpm": 111,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1834345370,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.962Z"
+}

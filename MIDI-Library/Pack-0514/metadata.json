@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0514",
+  "name": "Onyx Ember 514",
+  "genre": "house",
+  "mood": "dark",
+  "bpm": 123,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2857857558,
+  "progression": "i-VIImaj7-VIsus4-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.316Z"
+}

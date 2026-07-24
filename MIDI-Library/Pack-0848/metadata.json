@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0848",
+  "name": "Midnight Harbor 848",
+  "genre": "alternative",
+  "mood": "dark",
+  "bpm": 123,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 385236260,
+  "progression": "i-VI-VII-i",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.248Z"
+}

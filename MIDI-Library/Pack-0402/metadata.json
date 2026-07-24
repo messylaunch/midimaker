@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0402",
+  "name": "Vintage Mosaic 402",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 115,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 8,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1915236486,
+  "progression": "i7-VII-VI-VIIsus4-i7-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.084Z"
+}

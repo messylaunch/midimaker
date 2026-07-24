@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0557",
+  "name": "Open Groove 557",
+  "genre": "dance",
+  "mood": "uplifting",
+  "bpm": 126,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1065804137,
+  "progression": "Imaj7-V7-vi9-iii9-Imaj7-V7-vi9-iii9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 23,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.414Z"
+}

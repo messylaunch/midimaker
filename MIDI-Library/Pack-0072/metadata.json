@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0072",
+  "name": "Lazy Bloom 072",
+  "genre": "electronic",
+  "mood": "chill",
+  "bpm": 122,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2125405884,
+  "progression": "i-iv7-VII-IIImaj7-i-iv7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 29.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.523Z"
+}

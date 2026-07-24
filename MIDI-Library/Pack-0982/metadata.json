@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0982",
+  "name": "Monolith Motion 982",
+  "genre": "gospel",
+  "mood": "epic",
+  "bpm": 92,
+  "key": "C",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3925470082,
+  "progression": "I-vi-ii-V-I-vi-ii-V-I-vi-ii-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.635Z"
+}

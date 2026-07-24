@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0526",
+  "name": "Horizon Signal 526",
+  "genre": "trap",
+  "mood": "epic",
+  "bpm": 159,
+  "key": "C",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 348729050,
+  "progression": "i-bII-i-VIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 10.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.342Z"
+}

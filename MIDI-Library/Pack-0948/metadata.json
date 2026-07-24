@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0948",
+  "name": "Vintage Tide 948",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 114,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3831202816,
+  "progression": "Imaj7-V-vi-iii9-Imaj7-V-vi-iii9",
+  "phrasePlan": "AABB",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.543Z"
+}

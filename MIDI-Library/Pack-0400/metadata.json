@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0400",
+  "name": "Obsidian Fable 400",
+  "genre": "trap",
+  "mood": "dark",
+  "bpm": 151,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 932905956,
+  "progression": "i-bIImaj7-VImaj9-v",
+  "phrasePlan": "callResponse",
+  "noteDensity": 26.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.079Z"
+}

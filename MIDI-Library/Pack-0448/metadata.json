@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0448",
+  "name": "Electric Wave 448",
+  "genre": "rock",
+  "mood": "energetic",
+  "bpm": 128,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3760313012,
+  "progression": "Imaj7-IVmaj7-Imaj9-V9-Imaj7-IVmaj7-Imaj9-V9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 16.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.176Z"
+}

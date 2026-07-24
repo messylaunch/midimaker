@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0701",
+  "name": "Racing Signal 701",
+  "genre": "alternative",
+  "mood": "energetic",
+  "bpm": 128,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1021124313,
+  "progression": "i9-iv7-i7-V7-i9-iv7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 46.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.798Z"
+}

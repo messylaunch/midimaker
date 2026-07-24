@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0357",
+  "name": "Veiled Garden 357",
+  "genre": "videogame",
+  "mood": "mysterious",
+  "bpm": 101,
+  "key": "B",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2724828321,
+  "progression": "i-VI-IIImaj7-iv-i-VI-IIImaj7-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.006Z"
+}

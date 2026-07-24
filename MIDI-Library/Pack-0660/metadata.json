@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0660",
+  "name": "Aching Mosaic 660",
+  "genre": "electronic",
+  "mood": "emotional",
+  "bpm": 123,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3861945120,
+  "progression": "i-v-VI-III-i-v-VI-III",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 16.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.673Z"
+}

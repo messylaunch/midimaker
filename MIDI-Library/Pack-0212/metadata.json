@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0212",
+  "name": "Hollow Harbor 212",
+  "genre": "hiphop",
+  "mood": "sad",
+  "bpm": 81,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 80077280,
+  "progression": "i7-VI-VIIsus4-i-i7-VI-VIIsus4-i",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.736Z"
+}

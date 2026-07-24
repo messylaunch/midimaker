@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0872",
+  "name": "Mellow Meadow 872",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 127,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 3,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3989022108,
+  "progression": "i7-VIImaj7-i7-VIsus4",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 11.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.314Z"
+}

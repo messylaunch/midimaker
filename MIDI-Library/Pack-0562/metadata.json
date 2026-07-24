@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0562",
+  "name": "Tender Fable 562",
+  "genre": "gospel",
+  "mood": "emotional",
+  "bpm": 94,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 7,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1425801702,
+  "progression": "I-vi-ii-V-I-vi-ii-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 10.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.424Z"
+}

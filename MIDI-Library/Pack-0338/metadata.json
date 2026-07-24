@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0338",
+  "name": "Charged Season 338",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 95,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3825962182,
+  "progression": "i-VImaj7-iv7-VII-i-VImaj7-iv7-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.968Z"
+}

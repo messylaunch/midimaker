@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0132",
+  "name": "Horizon Motion 132",
+  "genre": "funk",
+  "mood": "epic",
+  "bpm": 114,
+  "key": "B",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2511312944,
+  "progression": "i9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 28.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.610Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0545",
+  "name": "Drifting Groove 545",
+  "genre": "cinematic",
+  "mood": "chill",
+  "bpm": 97,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3576641189,
+  "progression": "IVmaj7-Imaj9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 4.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.385Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0787",
+  "name": "Titan Signal 787",
+  "genre": "house",
+  "mood": "epic",
+  "bpm": 120,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 8,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1706966103,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 20.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.059Z"
+}

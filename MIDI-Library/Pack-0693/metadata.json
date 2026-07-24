@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0693",
+  "name": "Golden Drift 693",
+  "genre": "videogame",
+  "mood": "emotional",
+  "bpm": 146,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1293503313,
+  "progression": "vi9-IVmaj7-Imaj7-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 24.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.776Z"
+}

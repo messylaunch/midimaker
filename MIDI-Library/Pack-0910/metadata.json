@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0910",
+  "name": "Candlelit Mosaic 910",
+  "genre": "rock",
+  "mood": "romantic",
+  "bpm": 119,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1745335386,
+  "progression": "vi-IV-I-V-vi-IV-I-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.428Z"
+}

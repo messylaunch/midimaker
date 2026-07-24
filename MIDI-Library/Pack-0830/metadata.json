@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0830",
+  "name": "Lucid Static 830",
+  "genre": "dance",
+  "mood": "dreamy",
+  "bpm": 131,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4142509226,
+  "progression": "i-VIImaj7-VImaj7-VIImaj9-i-VIImaj7-VImaj7-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.192Z"
+}

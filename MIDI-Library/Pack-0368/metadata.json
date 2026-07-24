@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0368",
+  "name": "Retro Motion 368",
+  "genre": "dance",
+  "mood": "nostalgic",
+  "bpm": 132,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1854654724,
+  "progression": "I-IVmaj7-I-V-I-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 22.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.027Z"
+}

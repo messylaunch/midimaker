@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0947",
+  "name": "Kinetic Skyline 947",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 89,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 8,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1174539959,
+  "progression": "i7-iv7-VImaj7-V-i7-iv7-VImaj7-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 10.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.540Z"
+}

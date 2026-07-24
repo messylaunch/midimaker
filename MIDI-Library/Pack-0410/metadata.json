@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0410",
+  "name": "Vivid Tempest 410",
+  "genre": "dance",
+  "mood": "happy",
+  "bpm": 124,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1710080526,
+  "progression": "Imaj9-IVmaj7-Imaj9-V7-Imaj9-IVmaj7-Imaj9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 22,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.101Z"
+}

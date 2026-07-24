@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0060",
+  "name": "Crimson Season 060",
+  "genre": "reggae",
+  "mood": "romantic",
+  "bpm": 72,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 339059208,
+  "progression": "i9-VImaj9-VIIsus4-i7-i9-VImaj9-VIIsus4-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 23,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.510Z"
+}

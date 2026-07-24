@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0540",
+  "name": "Aching Mirage 540",
+  "genre": "country",
+  "mood": "emotional",
+  "bpm": 130,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3157366312,
+  "progression": "Imaj7-IImaj7-IVmaj9-Isus4",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.373Z"
+}

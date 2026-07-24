@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0853",
+  "name": "Aurora Memory 853",
+  "genre": "disco",
+  "mood": "dreamy",
+  "bpm": 115,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 804085169,
+  "progression": "i7-iv7-VImaj9-V7-i7-iv7-VImaj9-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 33.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.260Z"
+}

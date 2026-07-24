@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0638",
+  "name": "Sweet Harbor 638",
+  "genre": "alternative",
+  "mood": "romantic",
+  "bpm": 136,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1333026922,
+  "progression": "Imaj7-V7-IVmaj9-Imaj7-V7-IVmaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 19.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.622Z"
+}

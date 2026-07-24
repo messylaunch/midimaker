@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0089",
+  "name": "Ruthless Motion 089",
+  "genre": "soul",
+  "mood": "aggressive",
+  "bpm": 74,
+  "key": "D#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 8153597,
+  "progression": "i7-iv7-VII-III-i7-iv7-VII-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.543Z"
+}

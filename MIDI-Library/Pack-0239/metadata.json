@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0239",
+  "name": "Weightless Avenue 239",
+  "genre": "alternative",
+  "mood": "dreamy",
+  "bpm": 109,
+  "key": "F",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3036658507,
+  "progression": "i7-iv-VIImaj9-IIImaj7-i7-iv-VIImaj9-IIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 18.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.779Z"
+}

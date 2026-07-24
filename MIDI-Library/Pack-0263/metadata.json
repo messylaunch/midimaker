@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0263",
+  "name": "Smooth Avenue 263",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 131,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2345345955,
+  "progression": "i7-VIImaj7-VI-VIImaj7-i7-VIImaj7-VI-VIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 18.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.819Z"
+}

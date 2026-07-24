@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0567",
+  "name": "Ascending Motion 567",
+  "genre": "videogame",
+  "mood": "uplifting",
+  "bpm": 144,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1844158579,
+  "progression": "I-iv7-Imaj7-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.437Z"
+}

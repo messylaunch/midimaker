@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0936",
+  "name": "Soft Ritual 936",
+  "genre": "synthwave",
+  "mood": "chill",
+  "bpm": 99,
+  "key": "A",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2078394460,
+  "progression": "i7-VImaj9-VII-v",
+  "phrasePlan": "longNotes",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.509Z"
+}

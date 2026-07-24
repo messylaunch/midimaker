@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0793",
+  "name": "Kinetic Vision 793",
+  "genre": "gospel",
+  "mood": "energetic",
+  "bpm": 84,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 417518141,
+  "progression": "Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.074Z"
+}

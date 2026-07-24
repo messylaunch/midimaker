@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0159",
+  "name": "Soft Mirage 159",
+  "genre": "synthwave",
+  "mood": "chill",
+  "bpm": 86,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1161933723,
+  "progression": "i7-VIImaj9-VImaj7-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.656Z"
+}

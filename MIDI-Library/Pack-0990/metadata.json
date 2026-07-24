@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0990",
+  "name": "Shining Bloom 990",
+  "genre": "pop",
+  "mood": "uplifting",
+  "bpm": 117,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3686645002,
+  "progression": "I-IVmaj7-vi7-V9-I-IVmaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 13.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.661Z"
+}

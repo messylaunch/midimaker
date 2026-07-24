@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0285",
+  "name": "Silk Motion 285",
+  "genre": "synthwave",
+  "mood": "romantic",
+  "bpm": 94,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 586636665,
+  "progression": "i7-IIIsus4-VIImaj7-VImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 21.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.859Z"
+}

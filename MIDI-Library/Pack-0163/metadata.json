@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0163",
+  "name": "Cassette Prism 163",
+  "genre": "gospel",
+  "mood": "nostalgic",
+  "bpm": 68,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3160890567,
+  "progression": "I-vi7-ii-V-I-vi7-ii-V-I-vi7-ii-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.664Z"
+}

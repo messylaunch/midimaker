@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0745",
+  "name": "Rose Ritual 745",
+  "genre": "house",
+  "mood": "romantic",
+  "bpm": 120,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1849951085,
+  "progression": "i-iv-VI-v-i-iv-VI-v",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 24.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.932Z"
+}

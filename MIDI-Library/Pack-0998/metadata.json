@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0998",
+  "name": "Aching Motion 998",
+  "genre": "dance",
+  "mood": "emotional",
+  "bpm": 130,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3446755186,
+  "progression": "i-iv-VII-IIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 16.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.686Z"
+}

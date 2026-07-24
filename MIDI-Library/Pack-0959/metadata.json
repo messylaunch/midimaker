@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0959",
+  "name": "Honest Motion 959",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 102,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2967861627,
+  "progression": "Imaj7-I7-IVmaj7-iv7-Imaj7-I7-IVmaj7-iv7-Imaj7-I7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.577Z"
+}

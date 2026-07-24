@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0080",
+  "name": "Polaroid Ember 080",
+  "genre": "latin",
+  "mood": "nostalgic",
+  "bpm": 100,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1885544484,
+  "progression": "i7-v-iv-VImaj7-i7-v-iv-VImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 27.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.533Z"
+}

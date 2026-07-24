@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0520",
+  "name": "Aching Echo 520",
+  "genre": "gospel",
+  "mood": "emotional",
+  "bpm": 72,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1637484796,
+  "progression": "I-IV-vi-V-I-IV-vi-V-I-IV-vi-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.329Z"
+}

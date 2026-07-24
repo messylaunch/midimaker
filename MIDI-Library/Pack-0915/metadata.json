@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0915",
+  "name": "Cryptic Drift 915",
+  "genre": "synthwave",
+  "mood": "mysterious",
+  "bpm": 106,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2171786455,
+  "progression": "i7-VImaj9-IVmaj7-VIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 19.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.440Z"
+}

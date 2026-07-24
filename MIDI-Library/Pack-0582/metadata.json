@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0582",
+  "name": "Velour Anthem 582",
+  "genre": "country",
+  "mood": "romantic",
+  "bpm": 129,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3005976338,
+  "progression": "I-vi-IVsus4-V-I-vi",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 18.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.474Z"
+}

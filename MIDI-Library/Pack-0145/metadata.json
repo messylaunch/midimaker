@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0145",
+  "name": "Cheerful Motion 145",
+  "genre": "afrobeats",
+  "mood": "happy",
+  "bpm": 100,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2623457845,
+  "progression": "Imaj7-bIIImaj7-IV-iv-Imaj7-bIIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.631Z"
+}

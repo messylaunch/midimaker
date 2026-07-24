@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0006",
+  "name": "Moonlit Tempest 006",
+  "genre": "funk",
+  "mood": "romantic",
+  "bpm": 114,
+  "key": "C#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3027893586,
+  "progression": "i7-IV7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 48.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.439Z"
+}

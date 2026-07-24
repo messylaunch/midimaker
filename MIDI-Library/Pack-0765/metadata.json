@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0765",
+  "name": "Rose Static 765",
+  "genre": "electronic",
+  "mood": "romantic",
+  "bpm": 122,
+  "key": "B",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3404956313,
+  "progression": "i-iv-i-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.992Z"
+}

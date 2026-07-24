@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0345",
+  "name": "Monolith Motion 345",
+  "genre": "electronic",
+  "mood": "epic",
+  "bpm": 133,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 972544253,
+  "progression": "i-v-VI-III-i-v-VI-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.983Z"
+}

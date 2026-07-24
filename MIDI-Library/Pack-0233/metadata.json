@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0233",
+  "name": "Titan Signal 233",
+  "genre": "hiphop",
+  "mood": "epic",
+  "bpm": 88,
+  "key": "C",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 21554541,
+  "progression": "i7-VIsus4-IIImaj7-VIIsus4-i7-VIsus4-IIImaj7-VIIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.770Z"
+}

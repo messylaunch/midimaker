@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0706",
+  "name": "Venom Tempest 706",
+  "genre": "disco",
+  "mood": "aggressive",
+  "bpm": 124,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1439219030,
+  "progression": "i-v-VI-III-i-v-VI-III",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.811Z"
+}

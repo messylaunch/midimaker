@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0776",
+  "name": "Crimson Wave 776",
+  "genre": "cinematic",
+  "mood": "romantic",
+  "bpm": 105,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2568865788,
+  "progression": "I-iii7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 7,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.025Z"
+}

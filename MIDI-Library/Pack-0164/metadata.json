@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0164",
+  "name": "Hazy Avenue 164",
+  "genre": "latin",
+  "mood": "dreamy",
+  "bpm": 121,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1522323984,
+  "progression": "i-v-iv-VI-i-v-iv-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.666Z"
+}

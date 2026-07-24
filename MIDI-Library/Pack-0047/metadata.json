@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0047",
+  "name": "Smooth Mirage 047",
+  "genre": "soul",
+  "mood": "chill",
+  "bpm": 73,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 219836427,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.496Z"
+}

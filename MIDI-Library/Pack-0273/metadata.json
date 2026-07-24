@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0273",
+  "name": "Longing Memory 273",
+  "genre": "videogame",
+  "mood": "emotional",
+  "bpm": 138,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3088966325,
+  "progression": "i-IV-VII-VI-i-IV-VII-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 36.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.836Z"
+}

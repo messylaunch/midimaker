@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0519",
+  "name": "Vintage Vision 519",
+  "genre": "country",
+  "mood": "nostalgic",
+  "bpm": 104,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3275920035,
+  "progression": "ii-V-I-vi-ii-V-I-vi",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 17.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.327Z"
+}

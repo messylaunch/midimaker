@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0784",
+  "name": "Radiant Vision 784",
+  "genre": "rock",
+  "mood": "uplifting",
+  "bpm": 121,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2295433572,
+  "progression": "I-V-vi-iii",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.047Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0805",
+  "name": "Blazing Bloom 805",
+  "genre": "rock",
+  "mood": "energetic",
+  "bpm": 137,
+  "key": "F#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2235862753,
+  "progression": "Imaj7-IVmaj7-Imaj9-V9-Imaj7-IVmaj7-Imaj9-V9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 17.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.111Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0208",
+  "name": "Kinetic Season 208",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 95,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2351429796,
+  "progression": "i-VII-VI-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 21.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.729Z"
+}

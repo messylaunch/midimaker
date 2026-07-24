@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0271",
+  "name": "Arcane Canyon 271",
+  "genre": "afrobeats",
+  "mood": "mysterious",
+  "bpm": 100,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2106389803,
+  "progression": "i7-v9-iv-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 20.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.833Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0672",
+  "name": "Open Mosaic 672",
+  "genre": "videogame",
+  "mood": "uplifting",
+  "bpm": 104,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 10,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1353340884,
+  "progression": "IV-I-V-vi-IV-I-V-vi",
+  "phrasePlan": "motifDev",
+  "noteDensity": 38.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.712Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0194",
+  "name": "Sparkling Ember 194",
+  "genre": "soul",
+  "mood": "happy",
+  "bpm": 88,
+  "key": "D#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3879673686,
+  "progression": "vi7-IVmaj7-Imaj7-V7-vi7-IVmaj7-Imaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.708Z"
+}

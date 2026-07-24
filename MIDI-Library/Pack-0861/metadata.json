@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0861",
+  "name": "Misty Vision 861",
+  "genre": "videogame",
+  "mood": "dreamy",
+  "bpm": 130,
+  "key": "B",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 2,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 564227897,
+  "progression": "Imaj7-IVmaj9-vi9-V-Imaj7-IVmaj9-vi9-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.279Z"
+}

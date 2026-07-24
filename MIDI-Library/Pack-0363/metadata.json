@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0363",
+  "name": "Cryptic Anthem 363",
+  "genre": "funk",
+  "mood": "mysterious",
+  "bpm": 103,
+  "key": "B",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1503439503,
+  "progression": "i7-iv7-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.018Z"
+}

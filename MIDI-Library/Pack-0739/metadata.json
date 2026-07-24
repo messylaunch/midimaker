@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0739",
+  "name": "Retro Anthem 739",
+  "genre": "rnb",
+  "mood": "nostalgic",
+  "bpm": 62,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3138481799,
+  "progression": "i7-VImaj7-IIImaj7-VIImaj7-i7-VImaj7-IIImaj7-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.919Z"
+}

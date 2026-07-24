@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0054",
+  "name": "Grey Tempest 054",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 88,
+  "key": "B",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1585876002,
+  "progression": "i-VImaj7-III-VIIsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 18.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.504Z"
+}

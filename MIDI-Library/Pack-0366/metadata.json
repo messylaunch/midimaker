@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0366",
+  "name": "Savage Tide 366",
+  "genre": "electronic",
+  "mood": "aggressive",
+  "bpm": 126,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 846912634,
+  "progression": "i-IIImaj7-VIImaj7-VIsus4-i-IIImaj7-VIImaj7-VIsus4",
+  "phrasePlan": "longNotes",
+  "noteDensity": 20.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.023Z"
+}

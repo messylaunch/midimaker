@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0676",
+  "name": "Summit Prism 676",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 91,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3410522128,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.724Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0608",
+  "name": "Golden Echo 608",
+  "genre": "cinematic",
+  "mood": "emotional",
+  "bpm": 72,
+  "key": "D",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3270779668,
+  "progression": "Imaj7-bIIImaj7-IV-iv7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 4.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.542Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0895",
+  "name": "Masked Pulse 895",
+  "genre": "disco",
+  "mood": "mysterious",
+  "bpm": 110,
+  "key": "F#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 583489211,
+  "progression": "i7-v7-VImaj7-III",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 30.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.379Z"
+}

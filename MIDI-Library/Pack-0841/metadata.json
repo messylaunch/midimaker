@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0841",
+  "name": "Misty Ritual 841",
+  "genre": "trap",
+  "mood": "dreamy",
+  "bpm": 120,
+  "key": "C#",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3305890061,
+  "progression": "i-bII-i7-VIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.233Z"
+}

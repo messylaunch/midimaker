@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0955",
+  "name": "Faded Avenue 955",
+  "genre": "house",
+  "mood": "nostalgic",
+  "bpm": 120,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 969396287,
+  "progression": "i7-iv7-VI-v-i7-iv7-VI-v",
+  "phrasePlan": "callResponse",
+  "noteDensity": 31.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.566Z"
+}

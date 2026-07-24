@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0749",
+  "name": "Rose Static 749",
+  "genre": "jazzpop",
+  "mood": "romantic",
+  "bpm": 88,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3917106328,
+  "progression": "i9-iv9-bII7-i7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.946Z"
+}

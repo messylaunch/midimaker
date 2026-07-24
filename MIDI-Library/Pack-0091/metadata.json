@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0091",
+  "name": "Aurora Season 091",
+  "genre": "rock",
+  "mood": "dreamy",
+  "bpm": 122,
+  "key": "C#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1015899807,
+  "progression": "i7-v9-VImaj7-IIImaj7-i7-v9-VImaj7-IIImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 38.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.546Z"
+}

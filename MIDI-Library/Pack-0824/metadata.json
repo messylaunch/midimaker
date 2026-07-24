@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0824",
+  "name": "Summit Signal 824",
+  "genre": "soul",
+  "mood": "epic",
+  "bpm": 85,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1136301772,
+  "progression": "i7-v7-VIsus4-IIImaj7-i7-v7-VIsus4-IIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.169Z"
+}

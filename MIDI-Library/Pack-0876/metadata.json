@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0876",
+  "name": "Soaring Season 876",
+  "genre": "country",
+  "mood": "uplifting",
+  "bpm": 130,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1692487384,
+  "progression": "Imaj7-iii-IVmaj7-V7-Imaj7-iii-IVmaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.326Z"
+}

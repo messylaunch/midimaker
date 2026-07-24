@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0654",
+  "name": "Mellow Pulse 654",
+  "genre": "pop",
+  "mood": "chill",
+  "bpm": 116,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 6,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 814597466,
+  "progression": "i-VImaj7-IIImaj7-iv-i-VImaj7-IIImaj7-iv",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.659Z"
+}

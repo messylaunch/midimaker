@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0027",
+  "name": "Colossal Echo 027",
+  "genre": "funk",
+  "mood": "epic",
+  "bpm": 106,
+  "key": "F",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2934764255,
+  "progression": "i7-bIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 19.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.472Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0425",
+  "name": "Occult Tempest 425",
+  "genre": "soul",
+  "mood": "mysterious",
+  "bpm": 85,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2871796141,
+  "progression": "i-iv-i-V-i-iv-i-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.129Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0118",
+  "name": "Summer Static 118",
+  "genre": "disco",
+  "mood": "nostalgic",
+  "bpm": 110,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3970380002,
+  "progression": "I-II-IV-I-II-IV-I",
+  "phrasePlan": "AABB",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.588Z"
+}

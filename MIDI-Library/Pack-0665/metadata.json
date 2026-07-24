@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0665",
+  "name": "Weightless Lantern 665",
+  "genre": "jazzpop",
+  "mood": "dreamy",
+  "bpm": 106,
+  "key": "D",
+  "scale": "Melodic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4281220029,
+  "progression": "iim7b5-V7-i7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.684Z"
+}

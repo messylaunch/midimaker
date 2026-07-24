@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0916",
+  "name": "Charged Drift 916",
+  "genre": "disco",
+  "mood": "energetic",
+  "bpm": 112,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 524962336,
+  "progression": "Imaj7-V9-vi7-IVmaj7-Imaj7-V9-vi7-IVmaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 18.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.442Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0953",
+  "name": "Horizon Drift 953",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 106,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4256244893,
+  "progression": "I-bVIImaj7-IVmaj7-I-bVIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 9.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.559Z"
+}

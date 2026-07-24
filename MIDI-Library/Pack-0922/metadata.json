@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0922",
+  "name": "Aching Prism 922",
+  "genre": "afrobeats",
+  "mood": "emotional",
+  "bpm": 110,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3539558414,
+  "progression": "IVmaj7-I-V-vi",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.462Z"
+}

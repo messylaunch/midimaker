@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0315",
+  "name": "Feral Lantern 315",
+  "genre": "videogame",
+  "mood": "aggressive",
+  "bpm": 140,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2943851455,
+  "progression": "i7-VImaj7-VIImaj7-i-i7-VImaj7-VIImaj7-i-i7-VImaj7-VIImaj7-i",
+  "phrasePlan": "motifDev",
+  "noteDensity": 20.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.925Z"
+}

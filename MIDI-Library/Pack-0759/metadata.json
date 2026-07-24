@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0759",
+  "name": "Cassette Groove 759",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 97,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 390917299,
+  "progression": "i-VII-VI-VII-i-VII-VI-VII",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.972Z"
+}

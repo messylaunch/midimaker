@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0033",
+  "name": "Cloud Motion 033",
+  "genre": "synthwave",
+  "mood": "dreamy",
+  "bpm": 112,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1679001765,
+  "progression": "i7-VI-IIIsus4-VII-i7-VI-IIIsus4-VII",
+  "phrasePlan": "longNotes",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.481Z"
+}

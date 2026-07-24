@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0561",
+  "name": "Summit Mosaic 561",
+  "genre": "country",
+  "mood": "epic",
+  "bpm": 112,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3064236949,
+  "progression": "I-IV-vi-V-I-IV-vi-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 18.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.422Z"
+}

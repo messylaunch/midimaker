@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0751",
+  "name": "Honey Ember 751",
+  "genre": "gospel",
+  "mood": "warm",
+  "bpm": 90,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 629725515,
+  "progression": "Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7-Imaj7-bVI7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.951Z"
+}

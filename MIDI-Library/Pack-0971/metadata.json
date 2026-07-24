@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0971",
+  "name": "Cheerful Motion 971",
+  "genre": "soul",
+  "mood": "happy",
+  "bpm": 88,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 5,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 492811567,
+  "progression": "Imaj7-V7-vi7-iii-Imaj7-V7-vi7-iii",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.608Z"
+}

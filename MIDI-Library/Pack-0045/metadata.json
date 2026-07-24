@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0045",
+  "name": "Lucid Memory 045",
+  "genre": "pop",
+  "mood": "dreamy",
+  "bpm": 123,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3472180073,
+  "progression": "Isus4-IV-Isus4-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 38.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.495Z"
+}

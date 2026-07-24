@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0003",
+  "name": "Smooth Comet 003",
+  "genre": "pop",
+  "mood": "chill",
+  "bpm": 116,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3683863143,
+  "progression": "Imaj7-V7-vi9-IVmaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.431Z"
+}

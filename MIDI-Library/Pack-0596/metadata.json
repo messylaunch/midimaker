@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0596",
+  "name": "Easy Skyline 596",
+  "genre": "alternative",
+  "mood": "chill",
+  "bpm": 120,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1477605216,
+  "progression": "Imaj9-V7-vi9-IVmaj7-Imaj9-V7-vi9-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.505Z"
+}

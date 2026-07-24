@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0779",
+  "name": "Vintage Circuit 779",
+  "genre": "hiphop",
+  "mood": "nostalgic",
+  "bpm": 85,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1945791215,
+  "progression": "i7-bIImaj9-VIsus4-Vsus4-i7-bIImaj9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.034Z"
+}

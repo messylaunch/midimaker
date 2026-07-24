@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0614",
+  "name": "Turbo Garden 614",
+  "genre": "soul",
+  "mood": "energetic",
+  "bpm": 85,
+  "key": "C",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2016999922,
+  "progression": "I-V-IV-IVmaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.555Z"
+}

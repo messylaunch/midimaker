@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0699",
+  "name": "Faded Fable 699",
+  "genre": "funk",
+  "mood": "nostalgic",
+  "bpm": 114,
+  "key": "A#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 5005631,
+  "progression": "i9-iv7-v7-i9-iv7-v7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 31,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.793Z"
+}

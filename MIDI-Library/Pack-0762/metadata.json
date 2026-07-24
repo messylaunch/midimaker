@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0762",
+  "name": "Easy Motion 762",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 105,
+  "key": "G#",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4027916206,
+  "progression": "i7-IV7",
+  "phrasePlan": "AABB",
+  "noteDensity": 27.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.981Z"
+}

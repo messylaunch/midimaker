@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0897",
+  "name": "Rose Signal 897",
+  "genre": "country",
+  "mood": "romantic",
+  "bpm": 109,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1632911941,
+  "progression": "Isus4-II-IV-I-Isus4-II-IV-I",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.384Z"
+}

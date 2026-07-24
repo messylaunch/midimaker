@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0782",
+  "name": "Feral Wave 782",
+  "genre": "soul",
+  "mood": "aggressive",
+  "bpm": 72,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1279303130,
+  "progression": "i-iv-VII-III-i-iv-VII-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.043Z"
+}

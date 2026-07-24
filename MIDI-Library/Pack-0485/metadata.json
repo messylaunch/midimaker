@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0485",
+  "name": "Midnight Lantern 485",
+  "genre": "hiphop",
+  "mood": "dark",
+  "bpm": 87,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3190598433,
+  "progression": "i-VII-VI-VII-i-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.255Z"
+}

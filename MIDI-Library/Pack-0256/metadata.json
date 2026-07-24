@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0256",
+  "name": "Blazing Ritual 256",
+  "genre": "rnb",
+  "mood": "energetic",
+  "bpm": 65,
+  "key": "A#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 910988916,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.806Z"
+}

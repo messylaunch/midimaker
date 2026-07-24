@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0746",
+  "name": "Deep Groove 746",
+  "genre": "dance",
+  "mood": "emotional",
+  "bpm": 136,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 211663550,
+  "progression": "i7-VIImaj9-VIsus4-VIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.934Z"
+}

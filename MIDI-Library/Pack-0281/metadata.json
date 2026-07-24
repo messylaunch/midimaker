@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0281",
+  "name": "Aurora Memory 281",
+  "genre": "alternative",
+  "mood": "dreamy",
+  "bpm": 119,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2882647101,
+  "progression": "i9-VII-VImaj9-VIImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 8.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.850Z"
+}

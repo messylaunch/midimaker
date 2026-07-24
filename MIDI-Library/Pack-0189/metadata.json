@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0189",
+  "name": "Summit Meadow 189",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 111,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3485593817,
+  "progression": "i-VI-VII-i-VI-VII-i",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.702Z"
+}

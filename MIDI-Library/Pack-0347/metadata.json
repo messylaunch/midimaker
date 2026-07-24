@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0347",
+  "name": "Lonely Lantern 347",
+  "genre": "dance",
+  "mood": "sad",
+  "bpm": 129,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1946473887,
+  "progression": "i-VImaj7-iv7-VIIsus4-i-VImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 43.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.986Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0317",
+  "name": "Velvet Groove 317",
+  "genre": "hiphop",
+  "mood": "chill",
+  "bpm": 93,
+  "key": "D",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3951335257,
+  "progression": "i-VImaj7-IIImaj7-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.929Z"
+}

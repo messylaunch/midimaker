@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0734",
+  "name": "Retro Harbor 734",
+  "genre": "cinematic",
+  "mood": "nostalgic",
+  "bpm": 81,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2721828362,
+  "progression": "i7-v7-VImaj7-IIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.893Z"
+}

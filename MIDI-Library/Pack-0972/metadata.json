@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0972",
+  "name": "Cipher Prism 972",
+  "genre": "funk",
+  "mood": "mysterious",
+  "bpm": 96,
+  "key": "G",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3147246456,
+  "progression": "i7-iv7-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 17.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.610Z"
+}

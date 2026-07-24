@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0353",
+  "name": "Voltage Groove 353",
+  "genre": "latin",
+  "mood": "energetic",
+  "bpm": 112,
+  "key": "C",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 726395493,
+  "progression": "I-IV-I-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.998Z"
+}

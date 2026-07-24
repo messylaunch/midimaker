@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0243",
+  "name": "Summit Ember 243",
+  "genre": "synthwave",
+  "mood": "epic",
+  "bpm": 98,
+  "key": "F#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 4,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 798860407,
+  "progression": "i-VIImaj7-VImaj7-iv7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 18.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.787Z"
+}

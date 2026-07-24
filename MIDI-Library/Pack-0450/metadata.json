@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0450",
+  "name": "Onyx Echo 450",
+  "genre": "electronic",
+  "mood": "dark",
+  "bpm": 133,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 481742422,
+  "progression": "i-IIImaj7-VII-VI-i-IIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 16.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.181Z"
+}

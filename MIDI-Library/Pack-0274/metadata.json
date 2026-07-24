@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0274",
+  "name": "Faded Drift 274",
+  "genre": "trap",
+  "mood": "nostalgic",
+  "bpm": 142,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1448417286,
+  "progression": "i-v-VI-iv7-i-v-VI-iv7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 31.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.838Z"
+}

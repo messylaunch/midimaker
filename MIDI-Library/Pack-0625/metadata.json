@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0625",
+  "name": "Blazing Avenue 625",
+  "genre": "gospel",
+  "mood": "energetic",
+  "bpm": 76,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1145388629,
+  "progression": "Imaj7-iii7-IVmaj9-V9-Imaj7-iii7-IVmaj9-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.582Z"
+}

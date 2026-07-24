@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0358",
+  "name": "Empire Canyon 358",
+  "genre": "trap",
+  "mood": "epic",
+  "bpm": 150,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 8,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1084295922,
+  "progression": "i-III-iv-VI-i-III-iv-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.008Z"
+}

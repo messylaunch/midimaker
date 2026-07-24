@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0505",
+  "name": "Retro Ember 505",
+  "genre": "trap",
+  "mood": "nostalgic",
+  "bpm": 149,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 7,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 442116445,
+  "progression": "i7-VImaj7-i9-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 6.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.295Z"
+}

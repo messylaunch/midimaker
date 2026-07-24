@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0906",
+  "name": "Honey Tempest 906",
+  "genre": "pop",
+  "mood": "warm",
+  "bpm": 118,
+  "key": "D#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4049701662,
+  "progression": "I-V-IVsus4-IV",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.415Z"
+}

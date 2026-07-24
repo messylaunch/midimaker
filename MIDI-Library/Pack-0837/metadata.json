@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0837",
+  "name": "Lazy Canyon 837",
+  "genre": "reggae",
+  "mood": "chill",
+  "bpm": 94,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1247148225,
+  "progression": "i-iv7-i-V7-i-iv7-i-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.219Z"
+}

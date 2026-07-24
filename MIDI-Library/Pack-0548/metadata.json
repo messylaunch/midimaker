@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0548",
+  "name": "Longing Motion 548",
+  "genre": "hiphop",
+  "mood": "emotional",
+  "bpm": 87,
+  "key": "D",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2952092048,
+  "progression": "i-v-iv-VIsus4-i-v",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.394Z"
+}

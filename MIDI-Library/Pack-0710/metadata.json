@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0710",
+  "name": "Arcane Avenue 710",
+  "genre": "latin",
+  "mood": "mysterious",
+  "bpm": 120,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3438192530,
+  "progression": "i-VII-i-VI",
+  "phrasePlan": "callResponse",
+  "noteDensity": 30.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.821Z"
+}

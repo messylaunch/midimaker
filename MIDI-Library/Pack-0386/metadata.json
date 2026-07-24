@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0386",
+  "name": "Deep Ember 386",
+  "genre": "alternative",
+  "mood": "emotional",
+  "bpm": 115,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2391825302,
+  "progression": "i-III-VII-VIsus4-i-III-VII-VIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 37.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.058Z"
+}

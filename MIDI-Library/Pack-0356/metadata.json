@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0356",
+  "name": "Copper Signal 356",
+  "genre": "cinematic",
+  "mood": "warm",
+  "bpm": 73,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 7,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 68164944,
+  "progression": "IV-I-V-vi-IV-I",
+  "phrasePlan": "longNotes",
+  "noteDensity": 5.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.003Z"
+}

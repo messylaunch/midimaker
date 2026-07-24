@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0981",
+  "name": "Sparkling Pulse 981",
+  "genre": "country",
+  "mood": "happy",
+  "bpm": 107,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1268806705,
+  "progression": "IVmaj9-Imaj7-V9-vi",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 11.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.633Z"
+}

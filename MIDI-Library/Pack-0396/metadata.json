@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0396",
+  "name": "Cool Groove 396",
+  "genre": "reggae",
+  "mood": "chill",
+  "bpm": 70,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3169131192,
+  "progression": "Imaj9-IVmaj7-Imaj7-V7-Imaj9-IVmaj7-Imaj7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 14.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.073Z"
+}

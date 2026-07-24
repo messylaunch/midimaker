@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0868",
+  "name": "Crimson Ember 868",
+  "genre": "rock",
+  "mood": "romantic",
+  "bpm": 123,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 6,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1965931344,
+  "progression": "I-V-IV-IVmaj7-I-V-IV-IVmaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 38.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.303Z"
+}

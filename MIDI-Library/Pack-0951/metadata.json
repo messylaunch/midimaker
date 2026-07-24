@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0951",
+  "name": "Iron Avenue 951",
+  "genre": "funk",
+  "mood": "aggressive",
+  "bpm": 109,
+  "key": "D",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3240114163,
+  "progression": "i7-IV7",
+  "phrasePlan": "AABB",
+  "noteDensity": 36.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.553Z"
+}

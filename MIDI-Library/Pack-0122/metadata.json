@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0122",
+  "name": "Silent Season 122",
+  "genre": "latin",
+  "mood": "sad",
+  "bpm": 95,
+  "key": "F",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1734007086,
+  "progression": "i7-bIImaj9-VImaj9-V9-i7-bIImaj9-VImaj9-V9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.594Z"
+}

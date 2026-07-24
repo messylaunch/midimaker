@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0887",
+  "name": "Sweet Prism 887",
+  "genre": "soul",
+  "mood": "romantic",
+  "bpm": 84,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 855868211,
+  "progression": "i7-IIImaj9-VIImaj9-VImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.356Z"
+}

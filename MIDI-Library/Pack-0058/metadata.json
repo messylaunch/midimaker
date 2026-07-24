@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0058",
+  "name": "Soaring Pulse 058",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 98,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 7,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3651450222,
+  "progression": "I-vi7-ii-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.508Z"
+}

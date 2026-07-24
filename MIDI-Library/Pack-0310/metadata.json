@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0310",
+  "name": "Ascending Bloom 310",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 63,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2518186786,
+  "progression": "I-bIII-IV-#ivdim-I-bIII-IV-#ivdim-I-bIII-IV-#ivdim",
+  "phrasePlan": "callResponse",
+  "noteDensity": 22.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.911Z"
+}

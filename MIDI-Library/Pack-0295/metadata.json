@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0295",
+  "name": "Cryptic Mosaic 295",
+  "genre": "trap",
+  "mood": "mysterious",
+  "bpm": 121,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1356340611,
+  "progression": "i-iv-VI-V-i-iv-VI-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.877Z"
+}

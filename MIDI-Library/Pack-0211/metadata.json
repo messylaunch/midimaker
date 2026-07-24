@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0211",
+  "name": "Velvet Motion 211",
+  "genre": "trap",
+  "mood": "chill",
+  "bpm": 124,
+  "key": "F#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 8,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1720478615,
+  "progression": "i-iv-i-bII",
+  "phrasePlan": "longNotes",
+  "noteDensity": 8.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.734Z"
+}

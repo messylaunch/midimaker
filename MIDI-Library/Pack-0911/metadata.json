@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0911",
+  "name": "Fading Wave 911",
+  "genre": "alternative",
+  "mood": "sad",
+  "bpm": 125,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 106900395,
+  "progression": "i-VI-VII-i-VI-VII-i",
+  "phrasePlan": "motifDev",
+  "noteDensity": 10.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.430Z"
+}

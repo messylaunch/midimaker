@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0602",
+  "name": "Drifting Avenue 602",
+  "genre": "jazzpop",
+  "mood": "chill",
+  "bpm": 93,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 255921486,
+  "progression": "Imaj7-IVmaj7-iii7-vi7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.524Z"
+}

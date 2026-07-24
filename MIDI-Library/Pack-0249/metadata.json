@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0249",
+  "name": "Maple Ritual 249",
+  "genre": "reggae",
+  "mood": "warm",
+  "bpm": 70,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3804265053,
+  "progression": "I-IV-vi7-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 22.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.795Z"
+}

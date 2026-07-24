@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0777",
+  "name": "Candlelit Prism 777",
+  "genre": "videogame",
+  "mood": "romantic",
+  "bpm": 101,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 928349517,
+  "progression": "Imaj7-IVmaj7-Imaj7-V7-Imaj7-IVmaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 50.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.029Z"
+}

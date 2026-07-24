@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0219",
+  "name": "Veiled Ember 219",
+  "genre": "electronic",
+  "mood": "mysterious",
+  "bpm": 126,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1480604959,
+  "progression": "i7-VIIsus4-VImaj7-VIImaj7-i7-VIIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 22.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.747Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0177",
+  "name": "Smooth Ember 177",
+  "genre": "electronic",
+  "mood": "chill",
+  "bpm": 134,
+  "key": "F",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 4,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1701708821,
+  "progression": "i-bII-i-V-i-bII-i-V",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 12.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.685Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0877",
+  "name": "Vintage Echo 877",
+  "genre": "gospel",
+  "mood": "nostalgic",
+  "bpm": 75,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 87999529,
+  "progression": "Imaj7-IV-I-V-Imaj7-IV-I-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.328Z"
+}

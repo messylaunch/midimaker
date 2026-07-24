@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0798",
+  "name": "Brutal Harbor 798",
+  "genre": "videogame",
+  "mood": "aggressive",
+  "bpm": 134,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 836268746,
+  "progression": "i7-iv7-i-V-i7-iv7-i-V",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 19.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.092Z"
+}

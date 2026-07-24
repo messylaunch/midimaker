@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0193",
+  "name": "Ruthless Vision 193",
+  "genre": "rnb",
+  "mood": "aggressive",
+  "bpm": 95,
+  "key": "A#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1189583109,
+  "progression": "i7-VImaj7-IIImaj7-VIImaj7-i7-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.707Z"
+}

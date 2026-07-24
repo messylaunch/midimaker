@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0032",
+  "name": "Racing Circuit 032",
+  "genre": "dance",
+  "mood": "energetic",
+  "bpm": 124,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3352957268,
+  "progression": "I-II-IVmaj7-I-II-IVmaj7-I",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 19.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.480Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0377",
+  "name": "Sweet Tempest 377",
+  "genre": "cinematic",
+  "mood": "romantic",
+  "bpm": 68,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4270265053,
+  "progression": "ii-V7-I-vi7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 5.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.042Z"
+}

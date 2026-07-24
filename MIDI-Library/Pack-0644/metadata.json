@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0644",
+  "name": "Longing Pulse 644",
+  "genre": "jazzpop",
+  "mood": "emotional",
+  "bpm": 107,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 7,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 45811248,
+  "progression": "Imaj7-bII7-Imaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.633Z"
+}

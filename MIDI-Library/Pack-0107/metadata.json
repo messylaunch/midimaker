@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0107",
+  "name": "Enigma Pulse 107",
+  "genre": "hiphop",
+  "mood": "mysterious",
+  "bpm": 86,
+  "key": "D",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 6,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 538639247,
+  "progression": "i-VImaj7-VII-i",
+  "phrasePlan": "callResponse",
+  "noteDensity": 8.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.565Z"
+}

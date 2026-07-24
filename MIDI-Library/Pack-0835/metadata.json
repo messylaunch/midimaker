@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0835",
+  "name": "Rising Echo 835",
+  "genre": "gospel",
+  "mood": "uplifting",
+  "bpm": 96,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 264555303,
+  "progression": "I-IV-Imaj7-V-I-IV-Imaj7-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.215Z"
+}

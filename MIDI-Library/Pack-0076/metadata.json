@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0076",
+  "name": "Crimson Wave 076",
+  "genre": "disco",
+  "mood": "romantic",
+  "bpm": 114,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4182575096,
+  "progression": "ii7-V7-Imaj7-vi7-ii7-V7-Imaj7-vi7",
+  "phrasePlan": "AABB",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.527Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0795",
+  "name": "Weightless Groove 795",
+  "genre": "reggae",
+  "mood": "dreamy",
+  "bpm": 85,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1467207647,
+  "progression": "ii-V-I-vi-ii-V-I-vi",
+  "phrasePlan": "callResponse",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.083Z"
+}

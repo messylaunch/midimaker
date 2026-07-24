@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0978",
+  "name": "Ruthless Mosaic 978",
+  "genre": "synthwave",
+  "mood": "aggressive",
+  "bpm": 110,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1859895622,
+  "progression": "i-VImaj9-VII-v9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.626Z"
+}

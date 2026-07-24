@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0747",
+  "name": "Tender Circuit 747",
+  "genre": "synthwave",
+  "mood": "emotional",
+  "bpm": 116,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2866098191,
+  "progression": "i-VII-VI-iv-i-VII-VI-iv",
+  "phrasePlan": "longNotes",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.936Z"
+}

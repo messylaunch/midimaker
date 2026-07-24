@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0101",
+  "name": "Turbo Bloom 101",
+  "genre": "latin",
+  "mood": "energetic",
+  "bpm": 102,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1792419233,
+  "progression": "Imaj7-V-vi-iii-Imaj7-V-vi-iii",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.558Z"
+}

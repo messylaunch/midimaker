@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0912",
+  "name": "Grey Static 912",
+  "genre": "electronic",
+  "mood": "sad",
+  "bpm": 135,
+  "key": "D",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2761204196,
+  "progression": "i-VIImaj7-i-VI-i-VIImaj7-i-VI",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.433Z"
+}

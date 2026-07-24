@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0598",
+  "name": "Racing Ritual 598",
+  "genre": "house",
+  "mood": "energetic",
+  "bpm": 126,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2493735938,
+  "progression": "i-VI-i-VII-i-VI-i-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 18.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.510Z"
+}

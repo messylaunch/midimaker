@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0538",
+  "name": "Mellow Ritual 538",
+  "genre": "disco",
+  "mood": "chill",
+  "bpm": 119,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2174786190,
+  "progression": "Isus4-IVsus4-Imaj7-V7-Isus4-IVsus4-Imaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 21,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.367Z"
+}

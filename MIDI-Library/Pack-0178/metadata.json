@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0178",
+  "name": "Eclipse Tide 178",
+  "genre": "house",
+  "mood": "dark",
+  "bpm": 123,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 5,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 61323878,
+  "progression": "i-iv-VI-v",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 25.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.686Z"
+}

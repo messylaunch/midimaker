@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0498",
+  "name": "Aching Comet 498",
+  "genre": "country",
+  "mood": "emotional",
+  "bpm": 97,
+  "key": "G#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 1,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3336543526,
+  "progression": "ii9-Vsus4-Isus4-vi7",
+  "phrasePlan": "AABB",
+  "noteDensity": 22.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.282Z"
+}

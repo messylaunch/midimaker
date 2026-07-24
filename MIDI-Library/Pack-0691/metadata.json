@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0691",
+  "name": "Feral Voyage 691",
+  "genre": "afrobeats",
+  "mood": "aggressive",
+  "bpm": 106,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 243818423,
+  "progression": "i-III-VII-VImaj7-i-III-VII-VImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.770Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0791",
+  "name": "Kinetic Signal 791",
+  "genre": "jazzpop",
+  "mood": "energetic",
+  "bpm": 92,
+  "key": "A",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3697026707,
+  "progression": "Imaj7-ii7-iii7-IVmaj7-Imaj7-ii7-iii7-IVmaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.069Z"
+}

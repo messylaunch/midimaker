@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0245",
+  "name": "Soaring Circuit 245",
+  "genre": "jazzpop",
+  "mood": "uplifting",
+  "bpm": 80,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1780633873,
+  "progression": "Imaj7-vi7-ii7-V7-Imaj7-vi7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 25,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.789Z"
+}

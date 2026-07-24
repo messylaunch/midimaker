@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0293",
+  "name": "Velour Anthem 293",
+  "genre": "cinematic",
+  "mood": "romantic",
+  "bpm": 85,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 340484321,
+  "progression": "i-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 5.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.874Z"
+}

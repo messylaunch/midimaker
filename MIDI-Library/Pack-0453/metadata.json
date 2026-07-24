@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0453",
+  "name": "Summit Mirage 453",
+  "genre": "synthwave",
+  "mood": "epic",
+  "bpm": 118,
+  "key": "G",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4179587393,
+  "progression": "i-VI-VII-v7-i-VI-VII-v7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 15.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.186Z"
+}

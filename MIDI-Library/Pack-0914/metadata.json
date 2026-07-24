@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0914",
+  "name": "Floating Meadow 914",
+  "genre": "dance",
+  "mood": "dreamy",
+  "bpm": 127,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 8,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3810877062,
+  "progression": "i7-bIImaj7-VImaj7-V9-i7-bIImaj7-VImaj7-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 29,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.438Z"
+}

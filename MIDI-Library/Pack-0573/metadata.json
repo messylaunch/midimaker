@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0573",
+  "name": "Lazy Static 573",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 113,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 589186649,
+  "progression": "i9",
+  "phrasePlan": "callResponse",
+  "noteDensity": 19.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.450Z"
+}

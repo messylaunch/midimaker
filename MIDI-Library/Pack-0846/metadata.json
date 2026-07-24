@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0846",
+  "name": "Velvet Static 846",
+  "genre": "funk",
+  "mood": "chill",
+  "bpm": 114,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 5,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3663790490,
+  "progression": "Imaj7-V7-bVIImaj7-IVmaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 43.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.243Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0552",
+  "name": "Phantom Meadow 552",
+  "genre": "funk",
+  "mood": "dark",
+  "bpm": 102,
+  "key": "D",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 8,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 648757980,
+  "progression": "i7-bII-i7",
+  "phrasePlan": "AABB",
+  "noteDensity": 42.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.402Z"
+}

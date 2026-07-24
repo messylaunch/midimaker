@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0081",
+  "name": "Distant Signal 081",
+  "genre": "reggae",
+  "mood": "sad",
+  "bpm": 93,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 246982261,
+  "progression": "i-iv-VI-V-i-iv-VI-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.534Z"
+}

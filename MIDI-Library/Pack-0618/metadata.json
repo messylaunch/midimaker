@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0618",
+  "name": "Cassette Tempest 618",
+  "genre": "electronic",
+  "mood": "nostalgic",
+  "bpm": 130,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 8,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4041138750,
+  "progression": "i7-v7-VImaj7-IIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 15.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.566Z"
+}

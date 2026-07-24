@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0590",
+  "name": "Charged Vision 590",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 90,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 5,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2733593242,
+  "progression": "i7-IVsus4-VIImaj9-VImaj9-i7-IVsus4-VIImaj9-VImaj9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.493Z"
+}

@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0902",
+  "name": "Cozy Voyage 902",
+  "genre": "cinematic",
+  "mood": "warm",
+  "bpm": 107,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 8,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1984160466,
+  "progression": "I-Vsus4-IVmaj7-IV",
+  "phrasePlan": "motifDev",
+  "noteDensity": 7.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.400Z"
+}

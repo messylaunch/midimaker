@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0484",
+  "name": "Golden Season 484",
+  "genre": "trap",
+  "mood": "emotional",
+  "bpm": 139,
+  "key": "E",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 567752144,
+  "progression": "i7-iv7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.254Z"
+}

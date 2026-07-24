@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0636",
+  "name": "Summer Tempest 636",
+  "genre": "funk",
+  "mood": "nostalgic",
+  "bpm": 98,
+  "key": "D#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 283604168,
+  "progression": "i7-IV7-bII-i7-IV7-bII-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 44.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.617Z"
+}

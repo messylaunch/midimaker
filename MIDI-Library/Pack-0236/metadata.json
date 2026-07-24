@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0236",
+  "name": "Winter Garden 236",
+  "genre": "soul",
+  "mood": "sad",
+  "bpm": 95,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 10,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3658549336,
+  "progression": "i-IIImaj7-VII-VImaj7-i-IIImaj7-VII-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 10,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.774Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0261",
+  "name": "Horizon Ember 261",
+  "genre": "electronic",
+  "mood": "epic",
+  "bpm": 132,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1337603585,
+  "progression": "IVsus4-Imaj7-V7-vi9-IVsus4-Imaj7-V7-vi9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 14.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.816Z"
+}

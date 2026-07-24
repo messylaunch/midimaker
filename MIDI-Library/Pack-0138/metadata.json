@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0138",
+  "name": "Fading Harbor 138",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 118,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1221770782,
+  "progression": "i7-VImaj7-IIImaj9-VIImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 14.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.619Z"
+}

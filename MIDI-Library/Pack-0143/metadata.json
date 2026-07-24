@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0143",
+  "name": "Polaroid Pulse 143",
+  "genre": "latin",
+  "mood": "nostalgic",
+  "bpm": 102,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1640619691,
+  "progression": "i9-bIImaj7-VIsus4-Vsus4-i9-bIImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 16.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.628Z"
+}

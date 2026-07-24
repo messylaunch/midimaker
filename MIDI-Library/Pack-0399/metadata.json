@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0399",
+  "name": "Mellow Meadow 399",
+  "genre": "videogame",
+  "mood": "chill",
+  "bpm": 132,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2571341227,
+  "progression": "Isus4-Vsus4-vi7-IVsus4-Isus4-Vsus4-vi7-IVsus4",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 40.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.078Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0961",
+  "name": "Ember Motion 961",
+  "genre": "gospel",
+  "mood": "warm",
+  "bpm": 90,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 6,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4010472965,
+  "progression": "I-bIIImaj7-IVmaj7-#ivdim",
+  "phrasePlan": "callResponse",
+  "noteDensity": 13.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.582Z"
+}

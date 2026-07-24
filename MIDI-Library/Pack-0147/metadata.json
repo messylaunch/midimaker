@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0147",
+  "name": "Velvet Avenue 147",
+  "genre": "videogame",
+  "mood": "chill",
+  "bpm": 106,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3639592919,
+  "progression": "Imaj7-V7-vi-IVmaj7-Imaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 23.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.634Z"
+}

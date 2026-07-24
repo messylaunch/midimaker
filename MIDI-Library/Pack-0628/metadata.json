@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0628",
+  "name": "Cassette Lantern 628",
+  "genre": "afrobeats",
+  "mood": "nostalgic",
+  "bpm": 96,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 555983168,
+  "progression": "i-v-VI-III-i-v-VI-III",
+  "phrasePlan": "callResponse",
+  "noteDensity": 29.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.594Z"
+}

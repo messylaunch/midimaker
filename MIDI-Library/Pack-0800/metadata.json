@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0800",
+  "name": "Velour Lantern 800",
+  "genre": "hiphop",
+  "mood": "romantic",
+  "bpm": 97,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 1,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1818848852,
+  "progression": "i-iv-i-V",
+  "phrasePlan": "longNotes",
+  "noteDensity": 17.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.097Z"
+}

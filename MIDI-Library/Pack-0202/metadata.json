@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0202",
+  "name": "Sepia Mosaic 202",
+  "genre": "disco",
+  "mood": "nostalgic",
+  "bpm": 124,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3606258398,
+  "progression": "Imaj7-vi7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 41.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.721Z"
+}

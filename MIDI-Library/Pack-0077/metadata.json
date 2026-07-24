@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0077",
+  "name": "Glowing Skyline 077",
+  "genre": "jazzpop",
+  "mood": "warm",
+  "bpm": 98,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2543500617,
+  "progression": "Imaj7-IVmaj7-iii7-vi7-Imaj7-IVmaj7-iii7-vi7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.529Z"
+}

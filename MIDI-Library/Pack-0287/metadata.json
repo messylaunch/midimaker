@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0287",
+  "name": "Blazing Motion 287",
+  "genre": "jazzpop",
+  "mood": "energetic",
+  "bpm": 93,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 8,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1627671067,
+  "progression": "Imaj7-IVmaj7-iii7-vi7-Imaj7-IVmaj7-iii7-vi7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 15.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.862Z"
+}

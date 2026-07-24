@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0869",
+  "name": "Monolith Mirage 869",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 110,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 325399201,
+  "progression": "i7-iv-VII-IIImaj7-i7-iv-VII-IIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 17.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.305Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0558",
+  "name": "Summit Static 558",
+  "genre": "synthwave",
+  "mood": "epic",
+  "bpm": 101,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3722320058,
+  "progression": "i7-VImaj7-IIImaj7-VIImaj9",
+  "phrasePlan": "longNotes",
+  "noteDensity": 20.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.416Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0288",
+  "name": "Amber Machine 288",
+  "genre": "country",
+  "mood": "warm",
+  "bpm": 108,
+  "key": "C",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4284334164,
+  "progression": "I-iii-IV-V-I-iii-IV-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 12.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.865Z"
+}

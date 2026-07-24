@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0807",
+  "name": "Velvet Meadow 807",
+  "genre": "electronic",
+  "mood": "chill",
+  "bpm": 127,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3252009859,
+  "progression": "Isus4-IVmaj7-Imaj7-V7-Isus4-IVmaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.116Z"
+}

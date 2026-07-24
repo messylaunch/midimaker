@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0757",
+  "name": "Distant Machine 757",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 154,
+  "key": "G#",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3678404369,
+  "progression": "i-iv7-VIsus4-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 9.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.967Z"
+}

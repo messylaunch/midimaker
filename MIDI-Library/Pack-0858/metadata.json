@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0858",
+  "name": "Sparkling Circuit 858",
+  "genre": "reggae",
+  "mood": "happy",
+  "bpm": 89,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1155071054,
+  "progression": "ii-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.270Z"
+}

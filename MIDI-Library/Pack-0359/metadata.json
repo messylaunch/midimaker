@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0359",
+  "name": "Feral Anthem 359",
+  "genre": "hiphop",
+  "mood": "aggressive",
+  "bpm": 82,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3741220931,
+  "progression": "i-VI-VII-i7-i-VI-VII-i7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.010Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0934",
+  "name": "Skyline Canyon 934",
+  "genre": "house",
+  "mood": "uplifting",
+  "bpm": 124,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1062263986,
+  "progression": "I-IVsus4-vi7-V-I-IVsus4-vi7-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 22.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.503Z"
+}

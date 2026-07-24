@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0235",
+  "name": "Charged Comet 235",
+  "genre": "rnb",
+  "mood": "energetic",
+  "bpm": 64,
+  "key": "C#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1037668879,
+  "progression": "Imaj7-V-vi7-IVmaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.773Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0814",
+  "name": "Golden Signal 814",
+  "genre": "gospel",
+  "mood": "emotional",
+  "bpm": 66,
+  "key": "G",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 2,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 357685178,
+  "progression": "I-I7-IV-#ivdim-I-I7-IV-#ivdim",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.140Z"
+}

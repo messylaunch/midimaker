@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0989",
+  "name": "Voltage Garden 989",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 97,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1029965753,
+  "progression": "i7-VI-VIImaj9-i9-i7-VI",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.659Z"
+}

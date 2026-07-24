@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0041",
+  "name": "Silent Tide 041",
+  "genre": "cinematic",
+  "mood": "sad",
+  "bpm": 102,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1473731117,
+  "progression": "i-iv",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 7.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.490Z"
+}

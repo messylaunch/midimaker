@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0626",
+  "name": "Moonlit Fable 626",
+  "genre": "latin",
+  "mood": "romantic",
+  "bpm": 115,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 10,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3801265574,
+  "progression": "i-iv7-i-Vsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 20.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.585Z"
+}

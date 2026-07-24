@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0066",
+  "name": "Bouncing Mirage 066",
+  "genre": "pop",
+  "mood": "happy",
+  "bpm": 106,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 9,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3413670102,
+  "progression": "Imaj9-IImaj9-IVmaj9-Imaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 15.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.516Z"
+}

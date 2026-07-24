@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0722",
+  "name": "Obsidian Tempest 722",
+  "genre": "alternative",
+  "mood": "dark",
+  "bpm": 136,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 960500294,
+  "progression": "i-v-VI-III",
+  "phrasePlan": "motifDev",
+  "noteDensity": 7.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.860Z"
+}

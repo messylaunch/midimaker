@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0885",
+  "name": "Colossal Tempest 885",
+  "genre": "pop",
+  "mood": "epic",
+  "bpm": 99,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 1,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4109539217,
+  "progression": "vi7-V7-IVmaj7-V7-vi7-V7-IVmaj7-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 13.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.352Z"
+}

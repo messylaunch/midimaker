@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0372",
+  "name": "Weightless Canyon 372",
+  "genre": "country",
+  "mood": "dreamy",
+  "bpm": 118,
+  "key": "F#",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 3,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3920228928,
+  "progression": "I-iv-I-V-I-iv",
+  "phrasePlan": "AABB",
+  "noteDensity": 21.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.034Z"
+}

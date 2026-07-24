@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0949",
+  "name": "Blushing Ritual 949",
+  "genre": "rnb",
+  "mood": "romantic",
+  "bpm": 85,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2190686801,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 25.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.546Z"
+}

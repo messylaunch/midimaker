@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0813",
+  "name": "Cozy Canyon 813",
+  "genre": "country",
+  "mood": "warm",
+  "bpm": 116,
+  "key": "G",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1998082153,
+  "progression": "IVmaj7-Imaj7-V7-vi7",
+  "phrasePlan": "AABB",
+  "noteDensity": 14.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.136Z"
+}

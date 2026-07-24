@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0688",
+  "name": "Monolith Echo 688",
+  "genre": "gospel",
+  "mood": "epic",
+  "bpm": 94,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 874654916,
+  "progression": "Imaj7-IVmaj7-Imaj7-V9-Imaj7-IVmaj7-Imaj7-V9-Imaj7-IVmaj7-Imaj7-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 21.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.757Z"
+}

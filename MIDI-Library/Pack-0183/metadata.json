@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0183",
+  "name": "Rising Avenue 183",
+  "genre": "country",
+  "mood": "uplifting",
+  "bpm": 130,
+  "key": "E",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 412277491,
+  "progression": "Imaj9-vi7-IVmaj7-Vsus4",
+  "phrasePlan": "AABB",
+  "noteDensity": 24.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.693Z"
+}

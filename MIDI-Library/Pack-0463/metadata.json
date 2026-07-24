@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0463",
+  "name": "Charged Avenue 463",
+  "genre": "trap",
+  "mood": "energetic",
+  "bpm": 127,
+  "key": "E",
+  "scale": "Phrygian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 660615275,
+  "progression": "i-bII-VI-v",
+  "phrasePlan": "motifDev",
+  "noteDensity": 9.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.206Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0802",
+  "name": "Cool Meadow 802",
+  "genre": "rnb",
+  "mood": "chill",
+  "bpm": 76,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 10,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2835225590,
+  "progression": "i7-VImaj7-iv7-v7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 12.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.103Z"
+}

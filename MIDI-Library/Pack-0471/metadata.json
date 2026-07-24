@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0471",
+  "name": "Honest Mirage 471",
+  "genre": "electronic",
+  "mood": "emotional",
+  "bpm": 122,
+  "key": "D#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 8,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 421905363,
+  "progression": "i-VI-IIIsus4-iv",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 14.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.228Z"
+}

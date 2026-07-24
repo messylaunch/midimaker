@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0348",
+  "name": "Longing Voyage 348",
+  "genre": "synthwave",
+  "mood": "emotional",
+  "bpm": 92,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 308038632,
+  "progression": "i7-VImaj7-IIImaj7-VIIsus4",
+  "phrasePlan": "longNotes",
+  "noteDensity": 12,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.987Z"
+}

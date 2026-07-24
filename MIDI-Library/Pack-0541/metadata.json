@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0541",
+  "name": "Candy Machine 541",
+  "genre": "gospel",
+  "mood": "happy",
+  "bpm": 90,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 9,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1510542457,
+  "progression": "I-IV-vi-V-I-IV-vi-V",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.375Z"
+}

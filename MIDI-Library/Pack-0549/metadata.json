@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0549",
+  "name": "Sepia Lantern 549",
+  "genre": "pop",
+  "mood": "nostalgic",
+  "bpm": 111,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 6,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1304616929,
+  "progression": "i-IV-VII-VI-i-IV",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 16.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.395Z"
+}

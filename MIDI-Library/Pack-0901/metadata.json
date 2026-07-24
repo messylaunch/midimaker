@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0901",
+  "name": "Cool Memory 901",
+  "genre": "afrobeats",
+  "mood": "chill",
+  "bpm": 114,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3624561793,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 15.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.398Z"
+}

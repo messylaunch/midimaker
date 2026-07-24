@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0034",
+  "name": "Electric Avenue 034",
+  "genre": "disco",
+  "mood": "energetic",
+  "bpm": 117,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 7,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 40570614,
+  "progression": "i-VI-bIImaj7-V7-i-VI-bIImaj7-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 28.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.483Z"
+}

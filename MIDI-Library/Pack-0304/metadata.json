@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0304",
+  "name": "Floating Garden 304",
+  "genre": "house",
+  "mood": "dreamy",
+  "bpm": 127,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 7,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3772097860,
+  "progression": "i-VI-i-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.895Z"
+}

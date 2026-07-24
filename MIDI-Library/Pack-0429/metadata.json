@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0429",
+  "name": "Riot Voyage 429",
+  "genre": "electronic",
+  "mood": "aggressive",
+  "bpm": 122,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 600034025,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 23.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.137Z"
+}

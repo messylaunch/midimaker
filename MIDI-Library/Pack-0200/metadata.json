@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0200",
+  "name": "Velvet Avenue 200",
+  "genre": "dance",
+  "mood": "chill",
+  "bpm": 134,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2590127420,
+  "progression": "i-VI-IIIsus4-VII-i-VI-IIIsus4-VII",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 30.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.718Z"
+}

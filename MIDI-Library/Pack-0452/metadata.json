@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0452",
+  "name": "Blazing Voyage 452",
+  "genre": "dance",
+  "mood": "energetic",
+  "bpm": 129,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1489501168,
+  "progression": "i7-iv7-i7-V-i7-iv7-i7-V",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 30.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.184Z"
+}

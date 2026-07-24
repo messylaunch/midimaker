@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0909",
+  "name": "Warpath Wave 909",
+  "genre": "funk",
+  "mood": "aggressive",
+  "bpm": 107,
+  "key": "D",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3419291145,
+  "progression": "i7-iv7-i7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.425Z"
+}

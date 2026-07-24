@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0312",
+  "name": "Ruthless Comet 312",
+  "genre": "reggae",
+  "mood": "aggressive",
+  "bpm": 71,
+  "key": "A",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3534317772,
+  "progression": "i-iv-VII-III",
+  "phrasePlan": "callResponse",
+  "noteDensity": 18.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.915Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0152",
+  "name": "Ignition Bloom 152",
+  "genre": "soul",
+  "mood": "energetic",
+  "bpm": 89,
+  "key": "G#",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 6,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4056245868,
+  "progression": "vi-V-IVsus4-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 11.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.642Z"
+}

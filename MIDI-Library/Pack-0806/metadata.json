@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0806",
+  "name": "Titan Garden 806",
+  "genre": "alternative",
+  "mood": "epic",
+  "bpm": 105,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 597427250,
+  "progression": "i-bIImaj7-i-VII-i-bIImaj7-i-VII",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 8.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.113Z"
+}

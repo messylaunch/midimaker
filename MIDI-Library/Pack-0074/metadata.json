@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0074",
+  "name": "Bare Motion 074",
+  "genre": "dance",
+  "mood": "emotional",
+  "bpm": 134,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 8,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3174828638,
+  "progression": "i7-iv7-VIImaj7-IIImaj9-i7-iv7-VIImaj7-IIImaj9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 30.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.526Z"
+}

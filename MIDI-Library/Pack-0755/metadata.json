@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0755",
+  "name": "Honest Ritual 755",
+  "genre": "cinematic",
+  "mood": "emotional",
+  "bpm": 66,
+  "key": "E",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 6,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2628698743,
+  "progression": "i-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 5.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.962Z"
+}

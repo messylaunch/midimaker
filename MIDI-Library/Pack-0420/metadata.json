@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0420",
+  "name": "Distant Voyage 420",
+  "genre": "videogame",
+  "mood": "sad",
+  "bpm": 156,
+  "key": "E",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2453045520,
+  "progression": "i-iv7-VImaj7-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 22.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.118Z"
+}

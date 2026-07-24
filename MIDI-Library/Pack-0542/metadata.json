@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0542",
+  "name": "Iron Fable 542",
+  "genre": "latin",
+  "mood": "aggressive",
+  "bpm": 104,
+  "key": "B",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 1,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4165370826,
+  "progression": "i7-iv-VIImaj7-IIImaj9",
+  "phrasePlan": "AABB",
+  "noteDensity": 38.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.378Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0560",
+  "name": "Cipher Garden 560",
+  "genre": "jazzpop",
+  "mood": "mysterious",
+  "bpm": 120,
+  "key": "F#",
+  "scale": "Melodic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 409932868,
+  "progression": "i7-VI7-iim7b5-V7-i7-VI7-iim7b5-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.419Z"
+}

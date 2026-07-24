@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0259",
+  "name": "Retro Garden 259",
+  "genre": "rock",
+  "mood": "nostalgic",
+  "bpm": 137,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 7,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 320158055,
+  "progression": "Imaj7-V7-vi7-iii7-Imaj7-V7-vi7-iii7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 47.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.813Z"
+}

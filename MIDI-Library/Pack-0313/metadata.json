@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0313",
+  "name": "Blazing Pulse 313",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 106,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 2,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1894182429,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 33.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.919Z"
+}

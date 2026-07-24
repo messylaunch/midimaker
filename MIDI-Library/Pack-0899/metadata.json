@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0899",
+  "name": "Vintage Canyon 899",
+  "genre": "latin",
+  "mood": "nostalgic",
+  "bpm": 104,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2649063399,
+  "progression": "i-VImaj7-bII-V7",
+  "phrasePlan": "AABB",
+  "noteDensity": 15.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.392Z"
+}

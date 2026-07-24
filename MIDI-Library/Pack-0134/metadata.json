@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0134",
+  "name": "Longing Wave 134",
+  "genre": "alternative",
+  "mood": "emotional",
+  "bpm": 117,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3493631442,
+  "progression": "i-bII-VI-V-i-bII-VI-V",
+  "phrasePlan": "longNotes",
+  "noteDensity": 11.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.614Z"
+}

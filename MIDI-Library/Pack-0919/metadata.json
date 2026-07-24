@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0919",
+  "name": "Pastel Wave 919",
+  "genre": "gospel",
+  "mood": "dreamy",
+  "bpm": 109,
+  "key": "F",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 3,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4161862931,
+  "progression": "Imaj7-bVIImaj9-IVmaj7-iv7-Imaj7-bVIImaj9-IVmaj7-iv7-Imaj7-bVIImaj9-IVmaj7-iv7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 28.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.453Z"
+}

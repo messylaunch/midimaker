@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0306",
+  "name": "Rainy Memory 306",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 105,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 2,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 528110310,
+  "progression": "i-VII-VImaj7-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 15.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.901Z"
+}

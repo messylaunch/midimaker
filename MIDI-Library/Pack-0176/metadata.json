@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0176",
+  "name": "Charged Echo 176",
+  "genre": "alternative",
+  "mood": "energetic",
+  "bpm": 125,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3340144324,
+  "progression": "i7-iv7-i7-V7-i7-iv7",
+  "phrasePlan": "AABB",
+  "noteDensity": 18.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.683Z"
+}

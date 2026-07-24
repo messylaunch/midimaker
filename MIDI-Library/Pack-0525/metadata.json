@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0525",
+  "name": "Ruthless Skyline 525",
+  "genre": "videogame",
+  "mood": "aggressive",
+  "bpm": 130,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 9,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1995548809,
+  "progression": "i-VImaj7-III-iv",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 39.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.340Z"
+}

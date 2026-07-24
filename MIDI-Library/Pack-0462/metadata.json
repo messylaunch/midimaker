@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0462",
+  "name": "Olympus Season 462",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 125,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 3,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2301147674,
+  "progression": "I-II-IV-I-II-IV-I",
+  "phrasePlan": "AABB",
+  "noteDensity": 19.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.204Z"
+}

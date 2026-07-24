@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0418",
+  "name": "Kinetic Mosaic 418",
+  "genre": "afrobeats",
+  "mood": "energetic",
+  "bpm": 102,
+  "key": "G",
+  "scale": "Major Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 5,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1470207094,
+  "progression": "I-iv-I-V-I-iv-I-V",
+  "phrasePlan": "callResponse",
+  "noteDensity": 22.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.114Z"
+}

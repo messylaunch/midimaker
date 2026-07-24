@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0419",
+  "name": "Velvet Memory 419",
+  "genre": "cinematic",
+  "mood": "chill",
+  "bpm": 70,
+  "key": "A",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 4,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4126739399,
+  "progression": "i-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 3.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.115Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0465",
+  "name": "Open Signal 465",
+  "genre": "pop",
+  "mood": "emotional",
+  "bpm": 103,
+  "key": "A",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 9,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1676750325,
+  "progression": "Imaj9-V9-vi7-IVmaj9-Imaj9-V9-vi7-IVmaj9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 12.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.214Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0148",
+  "name": "Rainy Voyage 148",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 130,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 1,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2032631072,
+  "progression": "i-iv7-VImaj7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.635Z"
+}

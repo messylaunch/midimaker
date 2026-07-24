@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0516",
+  "name": "Shadow Harbor 516",
+  "genre": "synthwave",
+  "mood": "dark",
+  "bpm": 105,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 1,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3873730480,
+  "progression": "i7-VImaj7-bII-VII-i7-VImaj7-bII-VII",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.321Z"
+}

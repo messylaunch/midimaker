@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0458",
+  "name": "Yearbook Bloom 458",
+  "genre": "latin",
+  "mood": "nostalgic",
+  "bpm": 104,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 235573726,
+  "progression": "I-IV-I-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 23.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.196Z"
+}

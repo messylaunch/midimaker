@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0634",
+  "name": "Silent Motion 634",
+  "genre": "rnb",
+  "mood": "sad",
+  "bpm": 89,
+  "key": "G",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3562424110,
+  "progression": "i7-v7-iv7-VImaj7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 8.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.609Z"
+}

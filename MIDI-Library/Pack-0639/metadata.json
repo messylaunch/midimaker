@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0639",
+  "name": "Longing Ritual 639",
+  "genre": "electronic",
+  "mood": "emotional",
+  "bpm": 120,
+  "key": "G#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 7,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3981305787,
+  "progression": "i9-VIImaj7-VImaj7-VIIsus4-i9-VIImaj7-VImaj7-VIIsus4",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.624Z"
+}

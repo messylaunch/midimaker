@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0191",
+  "name": "Voltage Echo 191",
+  "genre": "hiphop",
+  "mood": "energetic",
+  "bpm": 97,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 7,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 173468795,
+  "progression": "i-iv-VI-V-i-iv",
+  "phrasePlan": "motifDev",
+  "noteDensity": 19.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.704Z"
+}

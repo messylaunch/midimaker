@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0539",
+  "name": "Floating Tempest 539",
+  "genre": "jazzpop",
+  "mood": "dreamy",
+  "bpm": 102,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 4,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 536350943,
+  "progression": "iii7-VI7-ii7-V7-iii7-VI7-ii7-V7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 16.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.369Z"
+}

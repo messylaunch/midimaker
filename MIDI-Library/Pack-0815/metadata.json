@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0815",
+  "name": "Summit Fable 815",
+  "genre": "latin",
+  "mood": "epic",
+  "bpm": 125,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 1,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3014216971,
+  "progression": "i7-bIImaj7-i-VII-i7-bIImaj7-i-VII",
+  "phrasePlan": "callResponse",
+  "noteDensity": 30.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.146Z"
+}

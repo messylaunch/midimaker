@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0100",
+  "name": "Sepia Pulse 100",
+  "genre": "gospel",
+  "mood": "nostalgic",
+  "bpm": 110,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2000s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3432951376,
+  "progression": "Imaj7-vi9-ii7-V7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 13.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.557Z"
+}

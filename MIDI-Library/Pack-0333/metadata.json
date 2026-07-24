@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0333",
+  "name": "Aching Tempest 333",
+  "genre": "reggae",
+  "mood": "emotional",
+  "bpm": 93,
+  "key": "D#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 3,
+  "rhythmicDensity": 10,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3474746441,
+  "progression": "i9-VImaj7-IIImaj9-VIImaj7-i9-VImaj7-IIImaj9-VIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 23.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.961Z"
+}

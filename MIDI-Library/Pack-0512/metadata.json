@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0512",
+  "name": "Masked Echo 512",
+  "genre": "alternative",
+  "mood": "mysterious",
+  "bpm": 114,
+  "key": "G",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 7,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1875264884,
+  "progression": "i9-VImaj9-IIImaj9-iv7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 20.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.312Z"
+}

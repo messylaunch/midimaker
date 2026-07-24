@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0508",
+  "name": "Olympus Harbor 508",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 74,
+  "key": "D",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 5,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4146093128,
+  "progression": "i7-iv7-VImaj7-V7-i7-iv7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 12.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.303Z"
+}

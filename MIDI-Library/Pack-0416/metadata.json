@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0416",
+  "name": "Olympus Vision 416",
+  "genre": "latin",
+  "mood": "epic",
+  "bpm": 99,
+  "key": "E",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 10,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 454072532,
+  "progression": "I-iv7-I-V",
+  "phrasePlan": "AABB",
+  "noteDensity": 16.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.110Z"
+}

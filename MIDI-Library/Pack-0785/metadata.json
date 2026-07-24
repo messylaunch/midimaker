@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0785",
+  "name": "Honest Prism 785",
+  "genre": "alternative",
+  "mood": "emotional",
+  "bpm": 117,
+  "key": "F#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 9,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 690553013,
+  "progression": "Imaj7-IVmaj7-vi7-V9",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 25.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.050Z"
+}

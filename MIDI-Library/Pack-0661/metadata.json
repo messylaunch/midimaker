@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0661",
+  "name": "Honest Echo 661",
+  "genre": "house",
+  "mood": "emotional",
+  "bpm": 127,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 9,
+  "rhythmicDensity": 5,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2215121265,
+  "progression": "i-iv-VI-v-i-iv-VI-v",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 21.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.676Z"
+}

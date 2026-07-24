@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0294",
+  "name": "Crimson Mirage 294",
+  "genre": "videogame",
+  "mood": "romantic",
+  "bpm": 153,
+  "key": "B",
+  "scale": "Mixolydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 9,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2994791986,
+  "progression": "vi7-IV-I-Vsus4-vi7-IV",
+  "phrasePlan": "motifDev",
+  "noteDensity": 17.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.876Z"
+}

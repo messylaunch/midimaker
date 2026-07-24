@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0718",
+  "name": "Cloud Canyon 718",
+  "genre": "rnb",
+  "mood": "dreamy",
+  "bpm": 67,
+  "key": "C#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 10,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3198314778,
+  "progression": "i7-VImaj7-III-VIIsus4-i7-VImaj7-III-VIIsus4",
+  "phrasePlan": "longNotes",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.847Z"
+}

@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0019",
+  "name": "Moonlit Groove 019",
+  "genre": "afrobeats",
+  "mood": "romantic",
+  "bpm": 107,
+  "key": "G#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 8,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3207278423,
+  "progression": "i9-VIImaj7-i7-VImaj7-i9-VIImaj7-i7-VImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 27.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.462Z"
+}

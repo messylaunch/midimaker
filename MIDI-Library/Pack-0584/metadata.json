@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0584",
+  "name": "Longing Circuit 584",
+  "genre": "latin",
+  "mood": "emotional",
+  "bpm": 110,
+  "key": "B",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 3,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 4021861564,
+  "progression": "Imaj7-II-IV-I-Imaj7-II-IV-I",
+  "phrasePlan": "callResponse",
+  "noteDensity": 30.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.479Z"
+}

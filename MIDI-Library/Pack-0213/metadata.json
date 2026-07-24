@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0213",
+  "name": "Tender Circuit 213",
+  "genre": "pop",
+  "mood": "emotional",
+  "bpm": 120,
+  "key": "C",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2000s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2770167601,
+  "progression": "i-VImaj7-bIImaj7-V7-i-VImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 18.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.737Z"
+}

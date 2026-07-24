@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0494",
+  "name": "Hollow Mirage 494",
+  "genre": "dance",
+  "mood": "sad",
+  "bpm": 130,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 6,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1312421114,
+  "progression": "i7-VImaj7-bII-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 18.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.274Z"
+}

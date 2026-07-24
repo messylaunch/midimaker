@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0621",
+  "name": "Racing Avenue 621",
+  "genre": "synthwave",
+  "mood": "energetic",
+  "bpm": 88,
+  "key": "F",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 10,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3450279209,
+  "progression": "i-III-VII-VI",
+  "phrasePlan": "longNotes",
+  "noteDensity": 13.6,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.572Z"
+}

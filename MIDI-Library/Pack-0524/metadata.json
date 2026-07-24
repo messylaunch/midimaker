@@ -1,0 +1,30 @@
+{
+  "packId": "pack-0524",
+  "name": "Aching Avenue 524",
+  "genre": "cinematic",
+  "mood": "emotional",
+  "bpm": 84,
+  "key": "C#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 6,
+  "complexity": 10,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3635949880,
+  "progression": "i7-IIImaj7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 9.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.337Z"
+}

@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0714",
+  "name": "Horizon Machine 714",
+  "genre": "videogame",
+  "mood": "epic",
+  "bpm": 104,
+  "key": "G#",
+  "scale": "Lydian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1200373982,
+  "progression": "I-V7-vi7-IV-I-V7-vi7-IV",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 22.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.837Z"
+}

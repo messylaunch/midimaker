@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0388",
+  "name": "Pastel Meadow 388",
+  "genre": "house",
+  "mood": "dreamy",
+  "bpm": 121,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 8,
+  "complexity": 3,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3441514288,
+  "progression": "i7-v7-VI-IIImaj7-i7-v7-VI-IIImaj7",
+  "phrasePlan": "AA1AA2",
+  "noteDensity": 29.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.061Z"
+}

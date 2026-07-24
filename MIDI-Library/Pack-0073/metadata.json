@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0073",
+  "name": "Thunder Skyline 073",
+  "genre": "house",
+  "mood": "epic",
+  "bpm": 123,
+  "key": "A#",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 2,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 484742157,
+  "progression": "i-VII-VImaj7-VIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 27.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.524Z"
+}

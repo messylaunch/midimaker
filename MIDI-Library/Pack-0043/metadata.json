@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0043",
+  "name": "Lonely Lantern 043",
+  "genre": "trap",
+  "mood": "sad",
+  "bpm": 133,
+  "key": "B",
+  "scale": "Harmonic Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 2,
+  "complexity": 8,
+  "rhythmicDensity": 1,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2456049615,
+  "progression": "i7-VImaj7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 7.5,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.492Z"
+}

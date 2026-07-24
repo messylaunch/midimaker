@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0459",
+  "name": "Weightless Avenue 459",
+  "genre": "reggae",
+  "mood": "dreamy",
+  "bpm": 75,
+  "key": "C",
+  "scale": "Dorian",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 4,
+  "rhythmicDensity": 7,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2890012463,
+  "progression": "i9-VIImaj7-VImaj7-VIImaj7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 24.1,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.198Z"
+}

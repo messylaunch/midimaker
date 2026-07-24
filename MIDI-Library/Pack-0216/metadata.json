@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0216",
+  "name": "Aurora Mosaic 216",
+  "genre": "funk",
+  "mood": "dreamy",
+  "bpm": 97,
+  "key": "B",
+  "scale": "Minor Pentatonic",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 1,
+  "complexity": 4,
+  "rhythmicDensity": 8,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1970s",
+    "1980s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2147191340,
+  "progression": "i9-iv7-v7",
+  "phrasePlan": "callResponse",
+  "noteDensity": 29.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.742Z"
+}

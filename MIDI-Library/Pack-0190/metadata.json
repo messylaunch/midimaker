@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0190",
+  "name": "Summit Voyage 190",
+  "genre": "trap",
+  "mood": "epic",
+  "bpm": 148,
+  "key": "D#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 3,
+  "complexity": 5,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 2,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1813607978,
+  "progression": "i9-VI-i9-VIImaj9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 7.9,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.703Z"
+}

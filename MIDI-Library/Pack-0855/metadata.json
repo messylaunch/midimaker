@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0855",
+  "name": "Kinetic Memory 855",
+  "genre": "country",
+  "mood": "energetic",
+  "bpm": 108,
+  "key": "D",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 4,
+  "complexity": 2,
+  "rhythmicDensity": 6,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 1785874771,
+  "progression": "Imaj7-IVmaj7-Imaj7-V7",
+  "phrasePlan": "ABAB1",
+  "noteDensity": 14.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.264Z"
+}

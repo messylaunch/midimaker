@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0844",
+  "name": "Thunder Echo 844",
+  "genre": "rnb",
+  "mood": "epic",
+  "bpm": 74,
+  "key": "E",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 5,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 4,
+  "eraInspiration": [
+    "1990s",
+    "2000s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 2681214200,
+  "progression": "i7-bII7-i7-v7-i7-bII7-i7-v7",
+  "phrasePlan": "motifDev",
+  "noteDensity": 22.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.239Z"
+}

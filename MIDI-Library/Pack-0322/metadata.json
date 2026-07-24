@@ -1,0 +1,32 @@
+{
+  "packId": "pack-0322",
+  "name": "Yearbook Garden 322",
+  "genre": "rock",
+  "mood": "nostalgic",
+  "bpm": 144,
+  "key": "F#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 2,
+  "rhythmicDensity": 2,
+  "experimentalAmount": 5,
+  "eraInspiration": [
+    "1970s",
+    "1980s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 15874006,
+  "progression": "i7-bIImaj9-VImaj7-V7-i7-bIImaj9-VImaj7-V7",
+  "phrasePlan": "longNotes",
+  "noteDensity": 42.4,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:27.941Z"
+}

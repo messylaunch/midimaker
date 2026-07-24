@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0828",
+  "name": "Drifting Comet 828",
+  "genre": "electronic",
+  "mood": "chill",
+  "bpm": 128,
+  "key": "A#",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 9,
+  "complexity": 4,
+  "rhythmicDensity": 9,
+  "experimentalAmount": 3,
+  "eraInspiration": [
+    "2010s",
+    "Modern"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3126378248,
+  "progression": "i7-iv7-VImaj7-V9-i7-iv7-VImaj7-V9",
+  "phrasePlan": "motifDev",
+  "noteDensity": 18.8,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:29.185Z"
+}

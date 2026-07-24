@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0383",
+  "name": "Glowing Machine 383",
+  "genre": "soul",
+  "mood": "warm",
+  "bpm": 88,
+  "key": "G#",
+  "scale": "Major",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 7,
+  "complexity": 5,
+  "rhythmicDensity": 3,
+  "experimentalAmount": 1,
+  "eraInspiration": [
+    "1970s",
+    "1990s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3049924795,
+  "progression": "ii-V-I-vi-ii-V-I-vi",
+  "phrasePlan": "motifDev",
+  "noteDensity": 11.3,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.051Z"
+}

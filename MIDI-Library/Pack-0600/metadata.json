@@ -1,0 +1,31 @@
+{
+  "packId": "pack-0600",
+  "name": "Grey Tempest 600",
+  "genre": "synthwave",
+  "mood": "sad",
+  "bpm": 116,
+  "key": "B",
+  "scale": "Natural Minor",
+  "timeSignature": "4/4",
+  "bars": 8,
+  "energy": 10,
+  "complexity": 1,
+  "rhythmicDensity": 4,
+  "experimentalAmount": 6,
+  "eraInspiration": [
+    "1980s",
+    "2010s"
+  ],
+  "generationMethod": "controlled-procedural",
+  "seed": 3543142828,
+  "progression": "i7-VImaj7-III-VIImaj7",
+  "phrasePlan": "AABB",
+  "noteDensity": 24,
+  "parts": {
+    "chords": "Chords.mid",
+    "melody": "Melody.mid",
+    "counterMelody": "CounterMelody.mid",
+    "bass": "Bass.mid"
+  },
+  "createdAt": "2026-07-24T20:39:28.516Z"
+}
