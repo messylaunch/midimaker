@@ -1,7 +1,36 @@
 import { useMemo, useState } from 'react';
-import type { CollectionRecord, PackRecord } from '@shared/types';
+import type { CollectionRecord, PackRecord, PackSettings } from '@shared/types';
+import { GENRES, MOODS, scaleById } from '@midimaker/engine';
 import { PackCard } from './PackCard';
 import type { SmartView } from './Sidebar';
+
+/** One-click dopamine: fully random (but musically coherent) settings. */
+function surpriseSettings(): PackSettings {
+  const r = (lo: number, hi: number) => lo + Math.floor(Math.random() * (hi - lo + 1));
+  const genre = GENRES[r(0, GENRES.length - 1)];
+  const [scaleId] = genre.scales[r(0, genre.scales.length - 1)];
+  const minor = scaleById(scaleId).minor;
+  const moods = MOODS.filter((m) => m.tonality === 'any' || (m.tonality === 'minor') === minor);
+  return {
+    seed: Math.floor(Math.random() * 0xffffffff) >>> 0,
+    genre: genre.id,
+    mood: moods[r(0, moods.length - 1)].id,
+    bpm: r(genre.bpmRange[0], genre.bpmRange[1]),
+    key: ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'][r(0, 11)],
+    scale: scaleId,
+    energy: r(3, 9),
+    complexity: r(2, 8),
+    rhythmicDensity: r(3, 8),
+    melodicMovement: r(3, 8),
+    chordComplexity: r(2, 7),
+    experimental: r(1, 4),
+    syncopation: r(2, 8),
+    noteLength: r(3, 8),
+    humanize: r(1, 5),
+    familiarity: (['familiar', 'balanced', 'balanced'] as const)[r(0, 2)],
+    era: genre.eras,
+  };
+}
 
 interface Props {
   packs: PackRecord[];
@@ -77,6 +106,21 @@ export function LibraryView(p: Props) {
     }
   };
 
+  const [surprising, setSurprising] = useState(false);
+  const surprise = async () => {
+    setSurprising(true);
+    try {
+      const pack = await window.api.generatePack(surpriseSettings());
+      await p.onRefresh();
+      p.onToast(`🎲 "${pack.name}" — ${pack.genre} · ${pack.mood} · ${pack.bpm} BPM`);
+      p.onPreview(pack);
+    } catch (e) {
+      p.onToast(`Surprise failed: ${(e as Error).message}`);
+    } finally {
+      setSurprising(false);
+    }
+  };
+
   return (
     <>
       <div className="toolbar">
@@ -91,7 +135,11 @@ export function LibraryView(p: Props) {
           <option value="rating">Rating</option>
         </select>
         <button onClick={() => setShowFilters(!showFilters)}>{showFilters ? 'Hide filters' : 'Filters'}</button>
+        <button onClick={surprise} disabled={surprising} title="Generate and preview a random pack">
+          {surprising ? <span className="spin">◌</span> : '🎲'} Surprise me
+        </button>
         <button className="primary" onClick={doImport}>Import MIDI Folder</button>
+        <span className="stats">{filtered.length} of {p.packs.length} packs</span>
       </div>
 
       {showFilters && (

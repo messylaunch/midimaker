@@ -2,6 +2,7 @@ import { useMemo, useState } from 'react';
 import type { CollectionRecord, PackRecord, PackSettings } from '@shared/types';
 import { GENRES, MOODS, SCALES } from '@midimaker/engine';
 import { PackCard } from './PackCard';
+import { Knob } from './Knob';
 
 const KEY_OPTIONS = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
 
@@ -130,16 +131,18 @@ export function GeneratorView(p: Props) {
               </select>
             </div>
 
-            <Slider label="BPM" min={40} max={220} value={bpm} onChange={setBpm} />
-            <Slider label="Energy" min={1} max={10} value={energy} onChange={setEnergy} />
-            <Slider label="Complexity" min={1} max={10} value={complexity} onChange={setComplexity} />
-            <Slider label="Rhythmic density" min={1} max={10} value={density} onChange={setDensity} />
-            <Slider label="Melodic movement" min={1} max={10} value={movement} onChange={setMovement} />
-            <Slider label="Chord complexity" min={1} max={10} value={chordComplexity} onChange={setChordComplexity} />
-            <Slider label="Experimental" min={1} max={10} value={experimental} onChange={setExperimental} />
-            <Slider label="Syncopation" min={1} max={10} value={syncopation} onChange={setSyncopation} />
-            <Slider label="Note length" min={1} max={10} value={noteLength} onChange={setNoteLength} />
-            <Slider label="Humanization" min={0} max={10} value={humanize} onChange={setHumanize} />
+            <div className="full knob-grid">
+              <Knob label="BPM" min={40} max={220} value={bpm} defaultValue={120} onChange={setBpm} size={62} />
+              <Knob label="Energy" min={1} max={10} value={energy} defaultValue={5} onChange={setEnergy} />
+              <Knob label="Complexity" min={1} max={10} value={complexity} defaultValue={5} onChange={setComplexity} />
+              <Knob label="Density" min={1} max={10} value={density} defaultValue={5} onChange={setDensity} />
+              <Knob label="Movement" min={1} max={10} value={movement} defaultValue={5} onChange={setMovement} />
+              <Knob label="Chords" min={1} max={10} value={chordComplexity} defaultValue={4} onChange={setChordComplexity} />
+              <Knob label="Experiment" min={1} max={10} value={experimental} defaultValue={2} onChange={setExperimental} />
+              <Knob label="Syncopate" min={1} max={10} value={syncopation} defaultValue={5} onChange={setSyncopation} />
+              <Knob label="Note Len" min={1} max={10} value={noteLength} defaultValue={5} onChange={setNoteLength} />
+              <Knob label="Humanize" min={0} max={10} value={humanize} defaultValue={3} onChange={setHumanize} />
+            </div>
 
             <div className="control full">
               <label>Familiar ↔ Surprise</label>
@@ -206,13 +209,3 @@ export function GeneratorView(p: Props) {
   );
 }
 
-function Slider({ label, min, max, value, onChange }: { label: string; min: number; max: number; value: number; onChange: (v: number) => void }) {
-  return (
-    <div className="control">
-      <label>
-        {label} <b>{value}</b>
-      </label>
-      <input type="range" min={min} max={max} value={value} onChange={(e) => onChange(Number(e.target.value))} />
-    </div>
-  );
-}

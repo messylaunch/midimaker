@@ -71,6 +71,8 @@ export class PreviewPlayer {
   private raf: number | null = null;
   private liveNodes = new Set<AudioNode>();
   private midiAccess: MIDIAccess | null = null;
+  private analyser: AnalyserNode | null = null;
+  private analyserBuf: Uint8Array<ArrayBuffer> | null = null;
 
   state: PlayerState = {
     playing: false,
@@ -155,6 +157,11 @@ export class PreviewPlayer {
       comp.ratio.value = 5;
       this.master.connect(comp);
       comp.connect(this.ctx.destination);
+      this.analyser = this.ctx.createAnalyser();
+      this.analyser.fftSize = 64;
+      this.analyser.smoothingTimeConstant = 0.75;
+      comp.connect(this.analyser);
+      this.analyserBuf = new Uint8Array(new ArrayBuffer(this.analyser.frequencyBinCount));
     }
     void this.ctx.resume();
     this.startCtxTime = this.ctx.currentTime + 0.1;
@@ -225,6 +232,22 @@ export class PreviewPlayer {
 
   private audible(part: PartName): boolean {
     return this.state.solo ? this.state.solo === part : !this.state.muted[part];
+  }
+
+  /** Frequency levels 0..1 for the preview-bar visualizer (built-in synth). */
+  getLevels(): number[] {
+    if (!this.analyser || !this.analyserBuf || !this.state.playing || this.state.midiOutId) return [];
+    this.analyser.getByteFrequencyData(this.analyserBuf);
+    const bins = this.analyserBuf;
+    const bands = 14;
+    const out: number[] = [];
+    const per = Math.floor(bins.length / bands);
+    for (let b = 0; b < bands; b++) {
+      let sum = 0;
+      for (let i = 0; i < per; i++) sum += bins[b * per + i];
+      out.push(sum / per / 255);
+    }
+    return out;
   }
 
   private secPerTick(): number {

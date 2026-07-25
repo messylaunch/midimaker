@@ -35,6 +35,9 @@ export function Sidebar(p: Props) {
       <button className={`nav-item ${p.view === 'songdrop' ? 'active' : ''}`} onClick={() => p.onNavigate('songdrop')}>
         🎧 Song Drop
       </button>
+      <button className={`nav-item ${p.view === 'guide' ? 'active' : ''}`} onClick={() => p.onNavigate('guide')}>
+        📖 Guide
+      </button>
 
       <div className="side-heading">Views</div>
       <button className={`nav-item ${inLibrary && p.smartView === 'favorites' ? 'active' : ''}`} onClick={() => p.onSmartView('favorites')}>

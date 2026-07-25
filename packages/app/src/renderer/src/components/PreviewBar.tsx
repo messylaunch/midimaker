@@ -1,6 +1,49 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { PartName } from '@shared/types';
 import { INSTRUMENTS, PART_ORDER, player, type InstrumentId } from '../preview/player';
+
+/** Live output visualizer: real FFT bars for the built-in synth, a tempo-synced pulse when routing MIDI out. */
+function Visualizer({ playing }: { playing: boolean }) {
+  const ref = useRef<HTMLCanvasElement>(null);
+  useEffect(() => {
+    const canvas = ref.current;
+    if (!canvas) return;
+    let raf = 0;
+    const draw = () => {
+      const dpr = window.devicePixelRatio || 1;
+      const w = canvas.clientWidth * dpr;
+      const h = canvas.clientHeight * dpr;
+      canvas.width = w;
+      canvas.height = h;
+      const ctx = canvas.getContext('2d');
+      if (!ctx) return;
+      ctx.clearRect(0, 0, w, h);
+      let levels = player.getLevels();
+      if (levels.length === 0 && playing) {
+        // MIDI-out mode: synth is silent, animate a beat-locked pulse instead
+        const s = player.state;
+        const beats = s.position * 32;
+        const beatEnv = 1 - (beats - Math.floor(beats));
+        levels = Array.from({ length: 14 }, (_, i) => beatEnv * (0.35 + 0.65 * Math.abs(Math.sin(beats * 0.9 + i * 0.6))));
+      }
+      const bands = levels.length || 14;
+      const bw = w / bands;
+      for (let i = 0; i < bands; i++) {
+        const v = levels[i] ?? 0.04;
+        const bh = Math.max(2 * dpr, v * (h - 4 * dpr));
+        const grad = ctx.createLinearGradient(0, h, 0, h - bh);
+        grad.addColorStop(0, 'rgba(139, 92, 255, 0.9)');
+        grad.addColorStop(1, 'rgba(47, 226, 189, 0.95)');
+        ctx.fillStyle = grad;
+        ctx.fillRect(i * bw + 1.2 * dpr, h - bh, bw - 2.4 * dpr, bh);
+      }
+      if (playing) raf = requestAnimationFrame(draw);
+    };
+    draw();
+    return () => cancelAnimationFrame(raf);
+  }, [playing]);
+  return <canvas className="viz" ref={ref} />;
+}
 
 const SHORT: Record<string, string> = {
   chords: 'CH',
@@ -39,9 +82,10 @@ export function PreviewBar({ packName }: { packName: string | null }) {
 
   return (
     <div className="preview-bar">
-      <button onClick={() => (s.playing ? player.stop() : player.play())}>
+      <button className={`play-btn ${s.playing ? 'playing' : ''}`} onClick={() => (s.playing ? player.stop() : player.play())} title="Play/Stop (Space)">
         {s.playing ? '■' : '▶'}
       </button>
+      <Visualizer playing={s.playing} />
       <span className="title">{packName ?? s.packId}</span>
       <div className="progress">
         <div style={{ width: `${Math.round(s.position * 100)}%` }} />

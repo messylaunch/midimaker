@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { CollectionRecord, PackRecord, PartName } from '@shared/types';
 import { player } from '../preview/player';
+import { PianoRoll, invalidatePianoRoll } from './PianoRoll';
 
 const PART_LABELS: { part: PartName; label: string; icon: string }[] = [
   { part: 'chords', label: 'Chords', icon: '🎹' },
@@ -20,6 +21,7 @@ interface Props {
 export function PackCard({ pack, collections, onRefresh, onToast, onPreview }: Props) {
   const [menuOpen, setMenuOpen] = useState(false);
   const [playerState, setPlayerState] = useState(player.state);
+  const [rollVersion, setRollVersion] = useState(0);
 
   useEffect(() => player.onChange(setPlayerState), []);
   const isCurrent = playerState.packId === pack.packId;
@@ -82,6 +84,8 @@ export function PackCard({ pack, collections, onRefresh, onToast, onPreview }: P
         Seed {pack.seed} · {new Date(pack.createdAt).toLocaleDateString()}
         {pack.progression ? <> · {pack.progression}</> : null}
       </div>
+
+      <PianoRoll packId={pack.packId} version={rollVersion} />
 
       <div className="parts">
         {PART_LABELS.filter(({ part }) => pack.parts.includes(part)).map(({ part, label, icon }) => (
@@ -168,7 +172,13 @@ export function PackCard({ pack, collections, onRefresh, onToast, onPreview }: P
                   {PART_LABELS.map(({ part, label }) => (
                     <button
                       key={part}
-                      onClick={() => act(async () => window.api.regeneratePart(pack.packId, part), `${label} regenerated - other parts untouched`)}
+                      onClick={() =>
+                        act(async () => {
+                          await window.api.regeneratePart(pack.packId, part);
+                          invalidatePianoRoll(pack.packId);
+                          setRollVersion((v) => v + 1);
+                        }, `${label} regenerated - other parts untouched`)
+                      }
                     >
                       ↻ {label}
                     </button>

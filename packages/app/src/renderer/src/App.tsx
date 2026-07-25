@@ -4,10 +4,14 @@ import { Sidebar, type SmartView } from './components/Sidebar';
 import { LibraryView } from './components/LibraryView';
 import { GeneratorView } from './components/GeneratorView';
 import { SongDropView } from './components/SongDropView';
+import { GuideView } from './components/GuideView';
+import { Tutorial } from './components/Tutorial';
 import { PreviewBar } from './components/PreviewBar';
 import { player } from './preview/player';
 
-export type MainView = 'library' | 'generator' | 'songdrop';
+export type MainView = 'library' | 'generator' | 'songdrop' | 'guide';
+
+const TUTORIAL_KEY = 'midivault.tutorialDone';
 
 export interface Toast {
   id: number;
@@ -24,8 +28,29 @@ export default function App() {
   const [collections, setCollections] = useState<CollectionRecord[]>([]);
   const [toasts, setToasts] = useState<Toast[]>([]);
   const [playerPackId, setPlayerPackId] = useState<string | null>(null);
+  const [showTutorial, setShowTutorial] = useState(() => !localStorage.getItem(TUTORIAL_KEY));
 
   useEffect(() => player.onChange((s) => setPlayerPackId(s.packId)), []);
+
+  // Space = play/stop the loaded preview (unless typing in a field)
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.code !== 'Space') return;
+      const t = e.target as HTMLElement;
+      if (t && (t.tagName === 'INPUT' || t.tagName === 'SELECT' || t.tagName === 'TEXTAREA' || t.isContentEditable)) return;
+      if (!player.state.packId) return;
+      e.preventDefault();
+      if (player.state.playing) player.stop();
+      else player.play();
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, []);
+
+  const closeTutorial = useCallback(() => {
+    localStorage.setItem(TUTORIAL_KEY, '1');
+    setShowTutorial(false);
+  }, []);
 
   const refresh = useCallback(async () => {
     const [p, c] = await Promise.all([window.api.listPacks(), window.api.listCollections()]);
@@ -129,9 +154,11 @@ export default function App() {
           {view === 'songdrop' && (
             <SongDropView onRefresh={refresh} onToast={toast} onPreview={previewPack} collections={collections} />
           )}
+          {view === 'guide' && <GuideView onReplayTutorial={() => setShowTutorial(true)} />}
         </div>
       </div>
       <PreviewBar packName={currentPack?.name ?? null} />
+      {showTutorial && <Tutorial onDone={closeTutorial} />}
       {toasts.map((t) => (
         <div className="toast" key={t.id} style={{ bottom: 66 + (toasts.indexOf(t) * 52) }}>
           {t.text}
