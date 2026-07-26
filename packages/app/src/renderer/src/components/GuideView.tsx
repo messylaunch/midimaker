@@ -16,26 +16,26 @@ export function GuideView({ onReplayTutorial }: { onReplayTutorial: () => void }
       </div>
       <div className="content">
         <div className="guide">
-          <h2>🚀 60-second start</h2>
+          <h2>60-second start</h2>
           <div className="card">
             <ol>
               <li>Open <b>Library</b> — 1,000 ready-made packs are already loaded.</li>
               <li>Press <b>▶ Preview</b> on any card (or hit <code>Space</code> to play/stop).</li>
               <li>Like it? <b>Drag a part row</b> (Chords / Melody / CounterMelody / Bass) straight into an FL Studio channel. Drag the <b>pack title</b> to grab all four files at once.</li>
-              <li>Want your own? Open <b>Generator</b>, twist some knobs, hit <b>Generate pack</b>.</li>
+              <li>Want your own? Open the <b>Press Room</b>, twist the ink knobs, hit <b>Pull a Print</b>.</li>
             </ol>
           </div>
 
-          <h2>🗂 Library</h2>
+          <h2>The wall (library)</h2>
           <ul>
             <li><b>Search</b> matches name, genre, mood, key and scale. <b>Filters</b> adds genre, mood, key, scale, era, method, BPM range, energy, complexity, density and favorites-only.</li>
             <li><b>♥ favorite</b>, <b>★ rate 1–5</b>, and group packs into <b>Collections</b> (left sidebar).</li>
-            <li>The colored strip on each card is the actual MIDI: <span style={{ color: '#c9b3ff' }}>purple = chords</span>, <span style={{ color: '#fff' }}>white = melody</span>, <span style={{ color: '#2fe2bd' }}>teal = countermelody</span>, <span style={{ color: '#ffb84d' }}>orange = bass</span>.</li>
+            <li>The colored strip on each card is the actual MIDI: <span style={{ color: '#c74a2e' }}>coral = chords</span>, <span style={{ color: '#241f2e' }}>black = melody</span>, <span style={{ color: '#9da32c' }}>olive = countermelody</span>, <span style={{ color: '#4a4258' }}>plum = bass</span>.</li>
             <li><b>Import MIDI Folder</b> pulls your existing MIDI collections into the library.</li>
             <li>Your library lives at: <code>{libDir || '…'}</code></li>
           </ul>
 
-          <h2>🎛 Generator knobs</h2>
+          <h2>Press Room knobs</h2>
           <div className="card">
             <table>
               <tbody>
@@ -58,9 +58,9 @@ export function GuideView({ onReplayTutorial }: { onReplayTutorial: () => void }
             <li>Knobs: <b>drag up/down</b>, <b>scroll</b> to nudge, <b>double-click</b> to reset.</li>
           </ul>
 
-          <h2>🔊 Hearing your packs</h2>
+          <h2>Hearing your packs</h2>
           <ul>
-            <li><b>Built-in sounds</b> (zero setup): 🎛 Sounds in the bottom bar — 808 Sub, Finger Bass, Reese, Keys, Soft Pad, E-Piano, Analog Lead, Pluck, Bell, Saw Stack.</li>
+            <li><b>Built-in sounds</b> (zero setup): <b>Sounds</b> on the ruler bar — 808 Sub, Finger Bass, Reese, Keys, Soft Pad, E-Piano, Analog Lead, Pluck, Bell, Saw Stack.</li>
             <li><b>Real sounds</b>: set <b>Out</b> to a MIDI port and the preview plays through FL Studio / ElectraX / hardware. Parts arrive on channels — <b>1 Chords · 2 Melody · 3 Counter · 4 Bass</b>.</li>
           </ul>
           <div className="card">
@@ -77,7 +77,7 @@ export function GuideView({ onReplayTutorial }: { onReplayTutorial: () => void }
             </ol>
           </div>
 
-          <h2>🎧 Song Drop</h2>
+          <h2>Song Drop</h2>
           <ul>
             <li>Drop any mp3/wav — the app hears <b>tempo, key, chords, energy, density</b>.</li>
             <li>The <b>similarity slider</b> decides how close the generated MIDI stays:
@@ -85,10 +85,10 @@ export function GuideView({ onReplayTutorial }: { onReplayTutorial: () => void }
               <b> Inspired by it</b> keeps the vitals · <b>Just the vibe</b> roams free.</li>
           </ul>
 
-          <h2>⚡ Shortcuts & tips</h2>
+          <h2>Shortcuts & tips</h2>
           <ul>
             <li><code>Space</code> — play/stop the loaded preview.</li>
-            <li><b>🎲 Surprise me</b> (Library toolbar) — instant random pack when you need a spark.</li>
+            <li><b>Surprise me</b> (Library toolbar) — instant random pack when you need a spark.</li>
             <li>Every pack folder has a <code>metadata.json</code> — safe to read, edit through the app.</li>
             <li>Files are plain <code>.mid</code> — they work in any DAW, not just FL Studio.</li>
           </ul>

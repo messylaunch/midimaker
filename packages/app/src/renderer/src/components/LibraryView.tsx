@@ -112,7 +112,7 @@ export function LibraryView(p: Props) {
     try {
       const pack = await window.api.generatePack(surpriseSettings());
       await p.onRefresh();
-      p.onToast(`🎲 "${pack.name}" — ${pack.genre} · ${pack.mood} · ${pack.bpm} BPM`);
+      p.onToast(`Surprise: "${pack.name}" — ${pack.genre} · ${pack.mood} · ${pack.bpm} BPM`);
       p.onPreview(pack);
     } catch (e) {
       p.onToast(`Surprise failed: ${(e as Error).message}`);
@@ -136,7 +136,7 @@ export function LibraryView(p: Props) {
         </select>
         <button onClick={() => setShowFilters(!showFilters)}>{showFilters ? 'Hide filters' : 'Filters'}</button>
         <button onClick={surprise} disabled={surprising} title="Generate and preview a random pack">
-          {surprising ? <span className="spin">◌</span> : '🎲'} Surprise me
+          {surprising ? <span className="spin">◌</span> : null} Surprise me
         </button>
         <button className="primary" onClick={doImport}>Import MIDI Folder</button>
         <span className="stats">{filtered.length} of {p.packs.length} packs</span>

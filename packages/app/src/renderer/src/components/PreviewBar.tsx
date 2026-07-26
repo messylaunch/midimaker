@@ -26,15 +26,13 @@ function Visualizer({ playing }: { playing: boolean }) {
         const beatEnv = 1 - (beats - Math.floor(beats));
         levels = Array.from({ length: 14 }, (_, i) => beatEnv * (0.35 + 0.65 * Math.abs(Math.sin(beats * 0.9 + i * 0.6))));
       }
+      // ink bars stamped on the ruler: alternating coral / plum ink
       const bands = levels.length || 14;
       const bw = w / bands;
       for (let i = 0; i < bands; i++) {
-        const v = levels[i] ?? 0.04;
-        const bh = Math.max(2 * dpr, v * (h - 4 * dpr));
-        const grad = ctx.createLinearGradient(0, h, 0, h - bh);
-        grad.addColorStop(0, 'rgba(139, 92, 255, 0.9)');
-        grad.addColorStop(1, 'rgba(47, 226, 189, 0.95)');
-        ctx.fillStyle = grad;
+        const v = levels[i] ?? 0.05;
+        const bh = Math.max(2 * dpr, v * (h - 3 * dpr));
+        ctx.fillStyle = i % 2 === 0 ? 'rgba(199, 74, 46, 0.9)' : 'rgba(36, 31, 46, 0.8)';
         ctx.fillRect(i * bw + 1.2 * dpr, h - bh, bw - 2.4 * dpr, bh);
       }
       if (playing) raf = requestAnimationFrame(draw);
@@ -88,7 +86,7 @@ export function PreviewBar({ packName }: { packName: string | null }) {
       <Visualizer playing={s.playing} />
       <span className="title">{packName ?? s.packId}</span>
       <div className="progress">
-        <div style={{ width: `${Math.round(s.position * 100)}%` }} />
+        <div style={{ transform: `scaleX(${s.position.toFixed(4)})` }} />
       </div>
 
       <div className="pb-parts">
@@ -123,7 +121,7 @@ export function PreviewBar({ packName }: { packName: string | null }) {
         <input type="range" min={60} max={200} value={s.tempo} onChange={(e) => player.setTempo(Number(e.target.value))} />
       </div>
       <button className={s.loop ? '' : 'ghost'} title="Loop the 8 bars" onClick={() => player.setLoop(!s.loop)}>
-        🔁
+        LOOP
       </button>
 
       {/* output routing: built-in synth or a live MIDI port (FL Studio / ElectraX) */}
@@ -146,7 +144,7 @@ export function PreviewBar({ packName }: { packName: string | null }) {
 
       <div className="menu-wrap">
         <button className={soundsOpen ? '' : 'ghost'} onClick={() => setSoundsOpen(!soundsOpen)} title="Built-in preview sounds">
-          🎛 Sounds
+          Sounds
         </button>
         {soundsOpen && (
           <div className="menu" style={{ minWidth: 230 }} onMouseLeave={() => setSoundsOpen(false)}>

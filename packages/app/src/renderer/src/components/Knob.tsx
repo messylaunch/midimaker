@@ -81,7 +81,7 @@ export function Knob({ label, min, max, value, defaultValue, onChange, format, s
           y1={cy + Math.sin(rad(valueAngle - 90)) * (r - 9)}
           x2={cx + Math.cos(rad(valueAngle - 90)) * (r - 3)}
           y2={cy + Math.sin(rad(valueAngle - 90)) * (r - 3)}
-          stroke="var(--accent2)"
+          stroke="var(--cream)"
           strokeWidth={2.4}
           strokeLinecap="round"
         />

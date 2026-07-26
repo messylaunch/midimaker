@@ -157,8 +157,7 @@ export function SongDropView(p: Props) {
       <div className="toolbar">
         <b>Song Drop</b>
         <span className="hint">
-          Drop a song → the app hears its tempo, key, chords, energy and density → generates original MIDI to match.
-          It never copies the song's melody.
+          The shop listens to a record and prints original MIDI in its spirit — it never copies the song's melody.
         </span>
       </div>
       <div className="content">
@@ -172,23 +171,33 @@ export function SongDropView(p: Props) {
           onDrop={onDrop}
           onClick={pickFile}
         >
-          {progress ? (
-            <>
-              <div style={{ fontSize: 15, marginBottom: 6 }}>
-                <span className="spin">◌</span> {progress.stage}
-              </div>
-              <div className="progress" style={{ maxWidth: 320, margin: '0 auto' }}>
-                <div style={{ width: `${Math.round(progress.f * 100)}%` }} />
-              </div>
-            </>
-          ) : (
-            <>
-              <div style={{ fontSize: 26, marginBottom: 8 }}>🎧</div>
-              Drop an audio file here (mp3 / wav / flac / m4a)<br />
-              or click to browse
-            </>
-          )}
+          <div className="dz-sheet">
+            {progress ? (
+              <>
+                <h3><span className="spin">◌</span> {progress.stage}</h3>
+                <div className="progress" style={{ maxWidth: 300, margin: '12px auto 0' }}>
+                  <div style={{ transform: `scaleX(${progress.f.toFixed(3)})` }} />
+                </div>
+              </>
+            ) : (
+              <>
+                <h3>Paste a song on the wall</h3>
+                <p>
+                  Drop an audio file (mp3 / wav / flac / m4a) or click to browse.
+                  The shop listens for tempo, key, chords, energy and density — then prints original MIDI to match.
+                </p>
+              </>
+            )}
+          </div>
         </div>
+
+        {!analysis && !progress && (
+          <div className="analysis-grid" style={{ maxWidth: 760 }}>
+            <div className="stat"><div className="k">Step 1</div><div className="v">Paste</div><p style={{ fontSize: 11, marginTop: 4, color: 'var(--ink-soft)' }}>Drop any song on the wall.</p></div>
+            <div className="stat"><div className="k">Step 2</div><div className="v">Listen</div><p style={{ fontSize: 11, marginTop: 4, color: 'var(--ink-soft)' }}>The shop hears tempo, key, chords, energy.</p></div>
+            <div className="stat"><div className="k">Step 3</div><div className="v">Print</div><p style={{ fontSize: 11, marginTop: 4, color: 'var(--ink-soft)' }}>Pick how close to stay, pull original MIDI.</p></div>
+          </div>
+        )}
 
         {analysis && (
           <>
@@ -249,7 +258,7 @@ export function SongDropView(p: Props) {
               </div>
               <div className="control full">
                 <button className="primary" disabled={busy} onClick={generateFromAnalysis}>
-                  {busy ? <span className="spin">◌</span> : '✨'} Generate matching pack
+                  {busy ? <span className="spin">◌</span> : null} Print a matching pack
                 </button>
               </div>
             </div>

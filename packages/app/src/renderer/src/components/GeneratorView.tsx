@@ -82,12 +82,16 @@ export function GeneratorView(p: Props) {
   return (
     <>
       <div className="toolbar">
-        <b>Generator</b>
-        <span className="hint">Coordinated 8-bar pack: Chords + Melody + CounterMelody + Bass, all in the same key.</span>
+        <b>Press Room</b>
+        <span className="hint">Every pull of the press prints a coordinated 8-bar pack: Chords + Melody + CounterMelody + Bass, one key.</span>
       </div>
       <div className="content">
         <div className="gen-layout">
           <div className="gen-panel">
+            <div className="press-head full">
+              Set the plates
+              <small>Genre · mood · key · ink amounts</small>
+            </div>
             <div className="control">
               <label>Genre</label>
               <select value={genre} onChange={(e) => {
@@ -163,26 +167,26 @@ export function GeneratorView(p: Props) {
             </div>
             <div className="control">
               <label>&nbsp;</label>
-              <button onClick={() => setSeed(randomSeed())}>🎲 New seed</button>
+              <button onClick={() => setSeed(randomSeed())}>Roll seed</button>
             </div>
 
             <div className="control full">
-              <button className="primary" disabled={busy} onClick={() => generate(seed)}>
-                {busy ? <span className="spin">◌</span> : '✨'} Generate pack
+              <button className="primary" disabled={busy} onClick={() => generate(seed)} title="Generates a new pack and saves it to the library">
+                {busy ? <span className="spin">◌</span> : null} Pull a print
               </button>
             </div>
             <div className="control full">
               <button disabled={busy} onClick={() => generate(randomSeed())}>
-                ↻ Generate with random seed
+                ↻ Pull with a fresh seed
               </button>
             </div>
           </div>
 
           <div className="gen-result">
             {result ? (
-              <>
-                <p className="hint" style={{ marginBottom: 10 }}>
-                  Saved to the library. Same seed + same settings always rebuilds this exact pack.
+              <div className="fresh-print" key={result.packId}>
+                <p className="hint" style={{ marginBottom: 12 }}>
+                  Fresh off the press, saved to the library. Same seed + same settings reprints this exact pack, forever.
                 </p>
                 <PackCard
                   pack={result}
@@ -195,11 +199,11 @@ export function GeneratorView(p: Props) {
                   onToast={p.onToast}
                   onPreview={p.onPreview}
                 />
-              </>
+              </div>
             ) : (
               <div className="empty">
-                Set the controls and press <b>Generate pack</b>.<br />
-                Duplicate detection quietly rerolls seeds that come out too close to recent results.
+                Set the plates, twist the ink knobs, then <b>Pull a print</b>.<br />
+                The duplicate detector quietly rerolls any pull that lands too close to a recent one.
               </div>
             )}
           </div>

@@ -9,11 +9,13 @@ import type { PackNotes, PartName } from '@shared/types';
 
 const TOTAL_TICKS = 480 * 4 * 8;
 
+/* Ink runs printed on the cream card: coral chords, olive counter,
+   plum bass, black melody on top - a little woodcut of the pack. */
 const PART_COLORS: Record<PartName, string> = {
-  chords: 'rgba(139, 92, 255, 0.42)',
-  melody: 'rgba(255, 255, 255, 0.92)',
-  counterMelody: 'rgba(47, 226, 189, 0.75)',
-  bass: 'rgba(255, 184, 77, 0.85)',
+  chords: 'rgba(199, 74, 46, 0.45)',
+  melody: 'rgba(36, 31, 46, 0.95)',
+  counterMelody: 'rgba(157, 163, 44, 0.85)',
+  bass: 'rgba(74, 66, 88, 0.8)',
 };
 const DRAW_ORDER: PartName[] = ['chords', 'counterMelody', 'bass', 'melody'];
 
@@ -61,8 +63,8 @@ export function PianoRoll({ packId, version }: { packId: string; version?: numbe
       if (!ctx) return;
       ctx.clearRect(0, 0, w, h);
 
-      // faint bar grid
-      ctx.fillStyle = 'rgba(255,255,255,0.05)';
+      // faint ruled bar grid, like printed staff rules
+      ctx.fillStyle = 'rgba(36, 31, 46, 0.16)';
       for (let bar = 1; bar < 8; bar++) {
         ctx.fillRect(Math.round((bar / 8) * w), 0, 1, h);
       }

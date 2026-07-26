@@ -93,6 +93,16 @@ MIDI input settings, then pick it under *Out* in MIDI Vault.
 And of course you can always skip previewing entirely: drag the `.mid` into
 an ElectraX channel and audition it there.
 
+## Design
+
+The app wears a **screen-print poster-shop** identity: deep plum poster paper,
+hand-pulled ink (coral, chartreuse, cream), wood-type headlines (Big Shoulders,
+bundled locally), stamped labels, paper-ticket controls and a letterpress-ruler
+transport. Pack cards are mini show posters with a woodcut print of the actual
+MIDI. The visual system is documented in [`DESIGN.md`](DESIGN.md); product
+truth lives in [`PRODUCT.md`](PRODUCT.md). Textures and the Song Drop paste-up
+wall are AI-generated art bundled with the app (CSP allows local assets only).
+
 ## Architecture
 
 ```

@@ -30,7 +30,7 @@ function createWindow(): void {
     height: 900,
     minWidth: 980,
     minHeight: 640,
-    backgroundColor: '#101014',
+    backgroundColor: '#2a2338',
     title: 'MIDI Vault Generator',
     webPreferences: {
       preload: path.join(__dirname, '../preload/index.js'),
